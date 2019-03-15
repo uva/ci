@@ -1,6 +1,6 @@
 # Programmeren voor Informatiekunde
 
-This course is too cool for school.
+This course is...
 
 ## License
 
