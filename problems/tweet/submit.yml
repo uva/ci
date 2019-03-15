@@ -1,4 +1,0 @@
-name: tweet
-files:
-    required:
-        - tweet.py

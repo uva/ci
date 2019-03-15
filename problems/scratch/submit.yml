@@ -1,5 +1,0 @@
-name: scratch
-url: true
-files:
-    required:
-        - scratch_file.sb2

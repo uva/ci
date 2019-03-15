@@ -1,4 +1,0 @@
-name: vigenere
-files:
-    required:
-        - vigenere.c

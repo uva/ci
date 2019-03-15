@@ -1,4 +1,0 @@
-name: caesar
-files:
-    required:
-        - caesar.c
