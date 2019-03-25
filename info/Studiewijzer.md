@@ -34,9 +34,11 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 In week 1,2,3 en 5 zijn er vier individuele opdrachten. In week 4 is er een tentamen en in week 6,7 en 8 een afsluitend groepsproject.
 
-Om het vak te halen moet je minimaal een 5.5 gemiddeld halen voor de individuele opdrachten en een 5.5 voor het tentamen. Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld halen voor de individuele opdrachten.
+Om het vak te halen moet je minimaal een 5.5 gemiddeld halen voor de individuele opdrachten en een 5.5 voor het tentamen. Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
 
-Elke week heb je twee laptopcolleges. Daar krijg jij goed de ruimte om inhoudelijke vragen te stellen. De klassen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
+Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is belangrijk dat je contact opneemt en notities uitwisselt met medestudenten mocht je een hoorcollege missen.
+
+Elke week heb je twee laptopcolleges. Daar krijg je goed de ruimte om inhoudelijke vragen te stellen. De klassen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
 
 Het eindcijfer is gebaseerd op de tussencijfers die je verdient bij de individuele opdrachten (in totaal 40%), het cijfer van het tentamen (20%) en het cijfer voor het groepsproject (40%).  
 
