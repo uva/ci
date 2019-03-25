@@ -8,8 +8,8 @@ In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken
 
 ## Contact
 
-Stuur een mail naar <ci@mprog.nl> of spreek je assistent of docent aan.
-Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <ci@mprog.nl>.
+Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docent aan.
+Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
 
 Martijn Stegeman  
 *coördinator*  
