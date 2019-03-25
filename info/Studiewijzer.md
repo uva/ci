@@ -15,13 +15,13 @@ Martijn Stegeman
 *coördinator*  
 mail: <stegeman@uva.nl>
 
-Simon Pauw
+Simon Pauw  
 *docent*
 
 Jelle van Assema  
 *docent*
 
-Wouter Vrielink
+Wouter Vrielink  
 *docent*
 
 ## Voorkennis
