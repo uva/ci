@@ -2,7 +2,7 @@
 
 *Versie: April 2019*
 
-Door het verzamelen van informatie over gebruik van het internet kunnen we een hoop leren over individuele en groepen gebruikers. Collectieve Intelligentie is een begrip dat verwijst naar het verwerken en begrijpen van dit soort informatie om klanten en gebruikers beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door op basis van een gebruikersprofiel een aanbeveling doen voor een product (recommender-systems), of door de volgorde van resultaten van een zoekopdracht te optimaliseren (ranking-systems).
+Door het verzamelen van informatie over gebruik van het internet kunnen we een hoop leren over individuele en groepen gebruikers. Collectieve Intelligentie is een begrip dat verwijst naar het verwerken en begrijpen van dit soort informatie om klanten en gebruikers beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door op basis van een gebruikersprofiel een aanbeveling te doen voor een product (recommender-systems), of door de volgorde van resultaten van een zoekopdracht te optimaliseren (ranking-systems).
 
 In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, extra features genereren, en vervolgens kan gebruiken om een recommender- of ranking-systeem te maken.
 
