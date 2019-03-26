@@ -13,7 +13,7 @@ Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docent aan. Voor
 Jelle van Assema  
 *docent*
 
-Simon Pauw
+Simon Pauw  
 *docent*
 
 Wouter Vrielink  
