@@ -52,22 +52,10 @@ Op vrijdag is er vaak een extra hulp college. Deze staan op Datanose ingerooster
 
 Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (20%), het cijfer van het tentamen (40%) en het cijfer voor het groepsproject (40%).
 
-## Tentamen
 
-Hier volgt een overzicht van de stof voor het tentamen.
-
-- de begrippen bij de individuele opdrachten uit weken 1 t/m 3
-- de inhoud van de (gast)colleges in weken 1 t/m 3
-
-Omdat er maar één tentamen is, zal de herkansing al in week 9 van het vak plaatsvinden. Zo heb je genoeg ruimte om je voor te bereiden en liggen de colleges nog vers in je geheugen.
-
-
-## Voorbereiding
+## Opdrachten
 
 Besef je dat dit vak meer tijd kost dan de 6 tot 8 contacturen in de week. Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de laptopcolleges. We verwachten daarom dat je bent begonnen aan de opdracht vóór het eerste laptopcollege van de week.  
-
-
-## Feedback
 
 Elke week worden je opdrachten beoordeeld en krijg je feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je cijfer stellen we samen uit twee factoren op een schaal van 1 t/m 5:
 
@@ -79,10 +67,22 @@ Correctness maakt 70% op van het cijfer en design 30%. Op een Nederlandse schaal
     punten = 0.7 * correctness + 0.3 * design
     cijfer = (punten - 1) / (5 - 1) * 9 + 1
 
-
-## Deadlines
-
 Mis je de deadline voor een individuele opdracht, dan kun je binnen twee dagen alsnog de opdracht inleveren, maar je krijgt dan 1 punt minder. Mis je deze extensie van de deadline ook, dan kan je binnen zes dagen na de orginele deadline de opdracht inleveren. Je krijgt dan twee punten minder. Later dan zes dagen na de oorspronkelijke deadline is er geen ruimte meer om opdrachten in te leveren.
+
+
+## Tentamen
+
+Hier volgt een overzicht van de stof voor het tentamen.
+
+- de begrippen bij de individuele opdrachten uit weken 1 t/m 3
+- de inhoud van de (gast)colleges in weken 1 t/m 3
+
+Omdat er maar één tentamen is, zal de herkansing al in week 9 van het vak plaatsvinden. Zo heb je genoeg ruimte om je voor te bereiden en liggen de colleges nog vers in je geheugen.
+
+
+## Groepsproject
+
+Meer informatie over het groepsproject volgt na enkele weken. Algemene informatie wordt gegeven tijdens het eerste hoorcollege.
 
 
 ## Samenwerken, fraude en plagiaat
@@ -96,6 +96,7 @@ Als je merkt dat je zodanig aan het overleggen bent dat je dezelfde code krijgt 
 Kom je in tijdnood? Laat je niet verleiden tot het plegen van plagiaat. Je kunt de opdracht binnen zes dagen alsnog inleveren. We willen het graag zo oplossen dat jij het vak zelfstandig kunt halen. Vraag je docent om hulp als je er niet meer uitkomt!
 
 Voor het groepsproject geldt iets soortgelijks, maar binnen de groep wordt er natuurlijk gewoon samengewerkt.
+
 
 ## Plagiaatregeling
 
