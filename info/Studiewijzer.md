@@ -13,7 +13,7 @@ Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docent aan. Voor
 Jelle van Assema  
 *docent*
 
-Simon Pauw  
+Simon Pauw
 *docent*
 
 Wouter Vrielink  
@@ -46,22 +46,18 @@ Om het vak te halen moet je minimaal een 5.5 gemiddeld halen voor de individuele
 
 Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is jouw eigen verantwoordelijkheid om te zorgen dat je goed op de hoogte bent van de inhoud van deze colleges. Het is belangrijk dat je notities uitwisselt met medestudenten als je een hoorcollege zou missen.
 
-TODO: wat is er met de vrijdagcolleges die in het rooster staan?
+Elke week heb je twee laptopcolleges. Daar kun je inhoudelijke vragen stellen over het programmeerwerk. De groepen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
 
-Elke week heb je twee laptopcolleges. Daar krijg kun je inhoudelijke vragen stellen over het programmeerwerk. De groepen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
+Op vrijdag is er vaak een extra hulp college. Deze staan op Datanose ingeroosterd als hoorcolleges. Hier kan je terecht voor extra ondersteuning bij de stof en de opdracht.
 
-Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (40%), het cijfer van het tentamen (20%) en het cijfer voor het groepsproject (40%).
-
-TODO: kan tentamen stuk hoger in plaats van de individuele opdrachten? 20/40 bijvoorbeeld?
-
+Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (20%), het cijfer van het tentamen (40%) en het cijfer voor het groepsproject (40%).
 
 ## Tentamen
 
-Hier volgt een overzichtje van de stof voor het tentamen.
+Hier volgt een overzicht van de stof voor het tentamen.
 
-- de hoofdstukken .... uit het boek ...
-- de begrippen bij de programmeeropdrachten uit week 1 t/m 3
-- de inhoud van de gastcolleges in weken 1 t/m 3
+- de begrippen bij de individuele opdrachten uit weken 1 t/m 3
+- de inhoud van de (gast)colleges in weken 1 t/m 3
 
 Omdat er maar één tentamen is, zal de herkansing al in week 9 van het vak plaatsvinden. Zo heb je genoeg ruimte om je voor te bereiden en liggen de colleges nog vers in je geheugen.
 
@@ -78,15 +74,10 @@ Elke week worden je opdrachten beoordeeld en krijg je feedback over de gekozen o
 * Correctness --- klopt de uitkomst van jouw programma?
 * Design --- is het programma leesbaar en goed ontworpen?
 
-Dit is de formule voor de cijfers:
+Correctness maakt 70% op van het cijfer en design 30%. Op een Nederlandse schaal van 1 t/m 10 kan je het cijfer dan zo berekenen:
 
-    points = 7 * correctness + 3 * design
-
-Aangezien je voor elk van deze onderdelen maximaal 5 punten kunt halen, is het totale maximum daarmee 50, en het minimum 10. Alle cijfers worden uiteindelijk geschaald naar de schaal van 1 tot 10 op de volgende manier:
-
-    grade = (points - 10) / (50 - 10) * 9 + 1
-
-TODO: kunnen we gewoon punten uitdelen voor corr/design zodat het optelt tot 20 of 100 punten? dan hoeven al die ingewikkelde formules niet
+    punten = 0.7 * correctness + 0.3 * design
+    cijfer = (punten - 1) / (5 - 1) * 9 + 1
 
 
 ## Deadlines
