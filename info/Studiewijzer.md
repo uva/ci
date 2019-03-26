@@ -2,76 +2,78 @@
 
 *Versie: April 2019*
 
-Door het verzamelen van informatie over gebruik van het internet kunnen we een hoop leren over individuele en groepen gebruikers. Collectieve Intelligentie is een begrip dat verwijst naar het verwerken en begrijpen van dit soort informatie om klanten en gebruikers beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door op basis van een gebruikersprofiel een aanbeveling te doen voor een product (recommender-systems), of door de volgorde van resultaten van een zoekopdracht te optimaliseren (ranking-systems).
+Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
-In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, daarbij extra features kan genereren, en vervolgens kan gebruiken om een recommender- of ranking-systeem te maken.
+In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken. In de eerste vijf weken leer je de technieken die nodig zijn om een recommender system te bouwen. Daarna krijg je in een groepsopdracht de ruimte om deze technieken toe te passen op een case en je creativiteit de vrije loop te laten.
 
 ## Contact
 
-Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docent aan.
-Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
-
-Martijn Stegeman  
-*coördinator*  
-mail: <stegeman@uva.nl>
-
-Simon Pauw  
-*docent*
+Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docent aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
 
 Jelle van Assema  
+*docent*
+
+Simon Pauw  
 *docent*
 
 Wouter Vrielink  
 *docent*
 
+Martijn Stegeman  
+*examinator*  
+
 ## Voorkennis
 
-We verwachten dat je ervaring hebt met programmeren in Python. Daarnaast is er geen enkele voorkennis vereist.
+We verwachten dat je flink geoefend hebt met programmeren in Python en met basale statistische begrippen.
 
-## Activiteiten
+## Wat gaan we doen?
 
 De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
-
-In week 1,2,3 en 5 zijn er vier individuele opdrachten. In week 4 is er een tentamen en in week 6,7 en 8 een afsluitend groepsproject.
-
-Om het vak te halen moet je minimaal een 5.5 gemiddeld halen voor de individuele opdrachten en een 5.5 voor het tentamen. Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
-
-Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is belangrijk dat je contact opneemt en notities uitwisselt met medestudenten mocht je een hoorcollege missen.
-
-Elke week heb je twee laptopcolleges. Daar krijg je goed de ruimte om inhoudelijke vragen te stellen. De klassen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
-
-Het eindcijfer is gebaseerd op de tussencijfers die je verdient bij de individuele opdrachten (in totaal 40%), het cijfer van het tentamen (20%) en het cijfer voor het groepsproject (40%).  
-
-In de eerste vijf weken leer je de technieken die nodig zijn om een recommender system te bouwen. Daarna krijg je de ruimte in een groepsopdracht om dit toe te passen en je creativiteit de vrije loop te laten.
-
 
 | Weken  | Activiteit    | Deadline   |
 | ------ | ------------- | ---------- |
 | Week 1 | Opdracht 1    | wo 3  apr  |
 | Week 2 | Opdracht 2    | vr 12 apr  |
 | Week 3 | Opdracht 3    | wo 17 apr  |
-| Week 4 | Tentamen      | wo 24 apr  |
+| Week 4 | Tentamen (let op: geen digitale toets)      | wo 24 apr  |
 | Week 5 | Opdracht 4    | vr 3  mei  |
 | Week 6 | Groepsproject |            |
 | Week 7 | Groepsproject |            |
 | Week 8 | Groepsproject | wo 22 mei  |
-| Week 9 | Hertentamen   | di 28 mei  |
+| Week 9 | Hertentamen (let op: geen digitale toets)   | di 28 mei  |
+
+Om het vak te halen moet je minimaal een 5.5 gemiddeld halen voor de individuele opdrachten en een 5.5 voor het tentamen. Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
+
+Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is jouw eigen verantwoordelijkheid om te zorgen dat je goed op de hoogte bent van de inhoud van deze colleges. Het is belangrijk dat je notities uitwisselt met medestudenten als je een hoorcollege zou missen.
+
+TODO: wat is er met de vrijdagcolleges die in het rooster staan?
+
+Elke week heb je twee laptopcolleges. Daar krijg kun je inhoudelijke vragen stellen over het programmeerwerk. De groepen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
+
+Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (40%), het cijfer van het tentamen (20%) en het cijfer voor het groepsproject (40%).
+
+TODO: kan tentamen stuk hoger in plaats van de individuele opdrachten? 20/40 bijvoorbeeld?
+
+
+## Tentamen
+
+Hier volgt een overzichtje van de stof voor het tentamen.
+
+- de hoofdstukken .... uit het boek ...
+- de begrippen bij de programmeeropdrachten uit week 1 t/m 3
+- de inhoud van de gastcolleges in weken 1 t/m 3
+
+Omdat er maar één tentamen is, zal de herkansing al in week 9 van het vak plaatsvinden. Zo heb je genoeg ruimte om je voor te bereiden en liggen de colleges nog vers in je geheugen.
+
 
 ## Voorbereiding
 
-Besef je dat dit vak meer tijd kost dan de 6 tot 8 contacturen in de week. Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de laptopcolleges. We verwachten daarom dat je bent begonnen aan de opdracht voor het eerste laptopcollege van de week.  
+Besef je dat dit vak meer tijd kost dan de 6 tot 8 contacturen in de week. Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de laptopcolleges. We verwachten daarom dat je bent begonnen aan de opdracht vóór het eerste laptopcollege van de week.  
 
-## Deadlines
 
-Mis je de deadline voor een individuele opdracht, dan kan je binnen twee dagen alsnog de opdracht inleveren, maar je krijgt dan 1 punt minder. Mis je deze extensie van de deadline ook, dan kan je binnen zes dagen na de orginele deadline de opdracht inleveren. Je krijgt dan twee punten minder. Later dan zes dagen na de oorspronkelijke deadline is er geen ruimte meer om opdrachten in te leveren.
+## Feedback
 
-## Opdrachten
-
-De opdrachten doe je gedeeltelijk in de klas, maar ze zijn groot, dus thuiswerken is noodzakelijk. Elke individuele opdracht telt 10% mee voor het eindcijfer.
-
-### Becijfering van de opdrachten
-
-Elke week worden je opdrachten beoordeeld op de volgende factoren op een schaal van 1 t/m 5:
+Elke week worden je opdrachten beoordeeld en krijg je feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je cijfer stellen we samen uit twee factoren op een schaal van 1 t/m 5:
 
 * Correctness --- klopt de uitkomst van jouw programma?
 * Design --- is het programma leesbaar en goed ontworpen?
@@ -80,22 +82,29 @@ Dit is de formule voor de cijfers:
 
     points = 7 * correctness + 3 * design
 
-Gezien je voor elk van deze onderdelen maximaal 5 punten kunt halen, is het totale maximum daarmee 50, en het minimum 10. Alle cijfers worden uiteindelijk geschaald naar
-de schaal van 1 tot 10 op de volgende manier:
+Aangezien je voor elk van deze onderdelen maximaal 5 punten kunt halen, is het totale maximum daarmee 50, en het minimum 10. Alle cijfers worden uiteindelijk geschaald naar de schaal van 1 tot 10 op de volgende manier:
 
     grade = (points - 10) / (50 - 10) * 9 + 1
 
+TODO: kunnen we gewoon punten uitdelen voor corr/design zodat het optelt tot 20 of 100 punten? dan hoeven al die ingewikkelde formules niet
+
+
+## Deadlines
+
+Mis je de deadline voor een individuele opdracht, dan kun je binnen twee dagen alsnog de opdracht inleveren, maar je krijgt dan 1 punt minder. Mis je deze extensie van de deadline ook, dan kan je binnen zes dagen na de orginele deadline de opdracht inleveren. Je krijgt dan twee punten minder. Later dan zes dagen na de oorspronkelijke deadline is er geen ruimte meer om opdrachten in te leveren.
+
+
 ## Samenwerken, fraude en plagiaat
 
-Samenwerken is voor de eerste vier opdrachten van dit vak niet toegestaan. Tijdens de laptopcolleges is het natuurlijk prima als je de opgave bespreekt met de student die naast je zit. Het is echter <strong>niet toegestaan</strong> om delen van code van je medestudenten, of van internet, over te nemen.
+Samenwerken is voor de individuele opdrachten van dit vak niet toegestaan. Tijdens de laptopcolleges is het natuurlijk prima als je de opgave bespreekt met de student die naast je zit. Het is echter <strong>niet toegestaan</strong> om delen van code van je medestudenten, of van internet, over te nemen.
 
 Een belangrijk verschil dus: je kunt discussiëren over de manier waarop je een probleem aanpakt, maar je kopieert nooit code van anderen. Om het jezelf niet moeilijk te maken kijk je dus doorgaans ook niet op het scherm van een ander.
 
-Als je merkt dat je zodanig aan het overleggen bent dat je dezelfde code krijgt als de student die naast je zit, wordt het tijd om te stoppen en de assistent om hulp te vragen. Als dit teveel gebeurt gaan we je vragen niet meer bij elkaar te zitten.
+Als je merkt dat je zodanig aan het overleggen bent dat je dezelfde code krijgt als de student die naast je zit, wordt het tijd om te stoppen en de assistent om hulp te vragen. Als dit gebeurt gaan we je vragen niet meer bij elkaar te zitten.
 
-Kom je in tijdnood? Laat je niet verleiden tot het plegen van plagiaat. Je kunt de opdracht binnen zes dagen alsnog inleveren. We willen het graag zo oplossen dat jij het vak zelfstandig kunt halen.
+Kom je in tijdnood? Laat je niet verleiden tot het plegen van plagiaat. Je kunt de opdracht binnen zes dagen alsnog inleveren. We willen het graag zo oplossen dat jij het vak zelfstandig kunt halen. Vraag je docent om hulp als je er niet meer uitkomt!
 
-Voor het groepsproject is het natuurlijk wel de bedoeling dat je gaat samenwerken. Daar gaat het bovenstaande dus ook niet op.
+Voor het groepsproject geldt iets soortgelijks, maar binnen de groep wordt er natuurlijk gewoon samengewerkt.
 
 ## Plagiaatregeling
 
