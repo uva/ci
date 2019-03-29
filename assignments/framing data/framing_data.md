@@ -1,4 +1,4 @@
-# Opdracht 1: Framing Data
+# Framing Data
 
 Hier vind je de eerste individuele opdracht. Dit is in de vorm van een Jupyter notebook met een bijbehorend databestand. Je download [hier](https://ci.mprog.nl/course/assignments/framing_data/framing_data.zip) de .zip met daarin alle bestanden voor deze opdracht.
 
