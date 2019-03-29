@@ -1,4 +1,0 @@
-name: autodata
-files:
-    required:
-        - autodata.ipynb

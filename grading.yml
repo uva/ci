@@ -1,5 +1,5 @@
 grades:
-    autodata: &assignment
+    framing_data: &assignment
         type: float
         subgrades:
             correctness: integer
@@ -33,7 +33,7 @@ calculation:
 assignments:
     minimum: 5.5
     submits:
-        autodata: 10
+        framing_data: 10
 
 tentamen:
     minimum: 5.5
