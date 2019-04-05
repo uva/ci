@@ -7,6 +7,14 @@ grades:
             penalty: integer
         calculation: "[((7 * (correctness / 16.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
         hide_calculated: true
+    extracting_information:
+        type: float
+        subgrades:
+            correctness: integer
+            design: integer
+            penalty: integer
+        calculation: "[((7 * (correctness / 19.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+        hide_calculated: true
     tentamen:
         type: float
         subgrades:
@@ -34,6 +42,7 @@ assignments:
     minimum: 5.5
     submits:
         framing_data: 10
+        extracting_information: 10
 
 tentamen:
     minimum: 5.5
