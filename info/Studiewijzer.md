@@ -33,7 +33,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Weken  | Activiteit    | Deadline   |
 | ------ | ------------- | ---------- |
 | Week 1 | Opdracht 1    | wo 3  apr  |
-| Week 2 | Opdracht 2    | vr 12 apr  |
+| Week 2 | Opdracht 2    | wo 10 apr  |
 | Week 3 | Opdracht 3    | wo 17 apr  |
 | Week 4 | Tentamen (let op: geen digitale toets)      | wo 24 apr  |
 | Week 5 | Opdracht 4    | vr 3  mei  |
