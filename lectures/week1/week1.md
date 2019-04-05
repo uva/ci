@@ -1,5 +1,5 @@
-## Lecture week 1
+## Hoorcollege week 1
 
-De slides van het eerste hoorcollege met een overview van het veld van Collectieve Intelligentie kun je [hier](https://ci.mprog.nl/course/lectures/week1/slides.pdf) downloaden.
+De slides vind je [hier](https://ci.mprog.nl/course/lectures/week1/slides.pdf)
 
 ![embed](https://player.vimeo.com/video/328602103?byline=0&portrait=0)
