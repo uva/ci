@@ -15,6 +15,14 @@ grades:
             penalty: integer
         calculation: "[((7 * (correctness / 19.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
         hide_calculated: true
+    collaborative_filtering:
+        type: float
+        subgrades:
+            correctness: integer
+            design: integer
+            penalty: integer
+        calculation: "[((7 * (correctness / 63.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+        hide_calculated: true
     tentamen:
         type: float
         subgrades:
@@ -30,19 +38,20 @@ grades:
 
 calculation:
     resit:
-        hertentamen: 20
+        hertentamen: 40
         project: 40
-        assignments: 40
+        assignments: 20
     normal:
-        tentamen: 20
+        tentamen: 40
         project: 40
-        assignments: 40
+        assignments: 20
 
 assignments:
     minimum: 5.5
     submits:
         framing_data: 10
         extracting_information: 10
+        collaborative_filtering: 10
 
 tentamen:
     minimum: 5.5
