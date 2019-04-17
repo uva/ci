@@ -13,7 +13,7 @@ De stof voor het tentamen bestaat uit:
     * Similarity maten
     * Het evalueren van een recommender system
 * Hoorcollege week 1
-    * Dit hoorcollege behandeld overkoepelende ideeën vanuit het vakgebied van Collectieve Intelligentie
+    * Dit hoorcollege behandelt overkoepelende ideeën vanuit het vakgebied van Collectieve Intelligentie
 * Hoorcollege week 3
 
 Voorbeelden van conceptuele vragen uit de opdrachten zijn:
