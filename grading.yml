@@ -6,7 +6,6 @@ grades:
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 16.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
-        hide_calculated: true
     extracting_information:
         type: float
         subgrades:
@@ -14,7 +13,6 @@ grades:
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 19.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
-        hide_calculated: true
     collaborative_filtering:
         type: float
         subgrades:
@@ -22,7 +20,6 @@ grades:
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 63.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
-        hide_calculated: true
     tentamen:
         type: float
         subgrades:
