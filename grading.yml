@@ -19,7 +19,7 @@ grades:
             correctness: integer
             design: integer
             penalty: integer
-        calculation: "[((7 * (correctness / 63.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+        calculation: "[((7 * (correctness / 88.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
     tentamen:
         type: float
         subgrades:
