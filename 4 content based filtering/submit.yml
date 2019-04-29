@@ -1,0 +1,4 @@
+name: content_based_filtering
+files:
+    required:
+        - content_based_filtering.ipynb

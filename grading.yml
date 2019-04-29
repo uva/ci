@@ -20,6 +20,13 @@ grades:
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 88.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+    content_based_filtering:
+        type: float
+        subgrades:
+            correctness: integer
+            design: integer
+            penalty: integer
+        calculation: "[((7 * (correctness / 36.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
     tentamen:
         type: float
         subgrades:
@@ -49,6 +56,7 @@ assignments:
         framing_data: 10
         extracting_information: 10
         collaborative_filtering: 10
+        content_based_filtering: 10
 
 tentamen:
     minimum: 5.5
