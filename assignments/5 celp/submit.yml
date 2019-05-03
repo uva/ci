@@ -1,0 +1,4 @@
+name: celp
+files:
+    required:
+        - celp.ipynb
