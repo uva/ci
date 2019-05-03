@@ -39,15 +39,13 @@ Voorstel voor een ontwerp:
 ### Planning
 
 | week 1 (6 - 10 mei)  | Verken en structureer de data.                                                         |
-| -------------------- | -------------------------------------------------------------------------------------- |
 | week 2 (13 - 17 mei) | Implementeer en evalueer het prototype recommender system.                             |
 | week 3 (20 - 22 mei) | Gebruik de resultaten van de afgelopen twee weken voor het uitwerken van een voorstel. |
 
 
 ### Deadlines
 
-| vr 3 mei  | Groepjes doorgeven                                          |
-| --------- | ----------------------------------------------------------- |
+| ma 6 mei  | Groepjes doorgeven                                          |
 | do 9 mei  | Deel 1 van het verslag inleveren                            |
 | vr 10 mei | Meeting (5 minuten) met de docenten. Plan hier een slot in: |
 | vr 17 mei | Deel 2 en 3 van het verslag inleveren                       |
