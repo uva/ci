@@ -17,7 +17,7 @@ Je krijgt een dataset van Yelp bestaande uit 6.685.900 reviews en een fictieve, 
 Voor dit project schrijf je 4 deelverslagen (van ieder maximaal 500 woorden) en lever je de python code van het prototype recommender system.
 
 ### Download
-- De dataset kan je hier downloaden: [yelp](https://www.dropbox.com/s/gagjp3pxqi96gfp/Simon Pauw - yelp-all.zip?dl=1)
+- De volledige dataset kan je [hier downloaden](https://www.dropbox.com/s/gagjp3pxqi96gfp/Simon Pauw - yelp-all.zip?dl=1).
 - Het framework voor de website vind je hier: <https://github.com/uva/celp>
 
 ### Verslag
