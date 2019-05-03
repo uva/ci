@@ -14,13 +14,16 @@ Je krijgt een dataset van Yelp bestaande uit 6.685.900 reviews en een fictieve, 
     - Geef gebaseerd op de uitkomsten een voorstel voor een definietief ontwerp.
 
 ### Deliverables
+
 Voor dit project schrijf je 4 deelverslagen (van ieder maximaal 500 woorden) en lever je de python code van het prototype recommender system.
 
 ### Download
+
 - De volledige dataset kan je [hier downloaden](https://www.dropbox.com/s/gagjp3pxqi96gfp/Simon Pauw - yelp-all.zip?dl=1).
 - Het framework voor de website vind je hier: <https://github.com/uva/celp>
 
 ### Verslag
+
 Het verslag bestaat uit vier delen die je afzonderlijk inlevert.
 
 Het doel is dat je een goed onderbouwd voorstel voor een recommender system voor Yelp beschrijft. De website geeft een aantal aanbevelingen. Het doel is om deze aanbevelingen zo goed mogelijk te personaliseren. Zorg ervoor dat de resultaten zo relevant en divers mogelijk zijn.
@@ -44,7 +47,7 @@ Voorstel voor een ontwerp:
 
 ### Deadlines
 
-| ma 6 mei  | Groepjes doorgeven                                          |
+| ma 6 mei  | [Groepjes doorgeven](https://forms.gle/mA6idjm3NvAXFDxP7)                           |
 | do 9 mei  | Deel 1 van het verslag inleveren                            |
 | vr 10 mei | Meeting (5 minuten) met de docenten. Plan hier een slot in: |
 | vr 17 mei | Deel 2 en 3 van het verslag inleveren                       |
