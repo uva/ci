@@ -26,7 +26,7 @@ Voor dit project schrijf je 4 deelverslagen (van ieder maximaal 500 woorden) en 
 
 Het verslag bestaat uit vier delen die je afzonderlijk inlevert.
 
-Het doel is dat je een goed onderbouwd voorstel voor een recommender system voor Yelp beschrijft. De website geeft een aantal aanbevelingen. Het doel is om deze aanbevelingen zo goed mogelijk te personaliseren. Zorg ervoor dat de resultaten zo relevant en divers mogelijk zijn.
+Het doel is dat je een goed onderbouwd voorstel voor een recommender system voor Yelp beschrijft. De website geeft een aantal aanbevelingen. Deze aanbevelingen moeten zo goed mogelijk worden gepersonaliseerd. Zorg ervoor dat de resultaten zo relevant en divers mogelijk zijn.
 
 Beschrijving van het verkennen:
 
