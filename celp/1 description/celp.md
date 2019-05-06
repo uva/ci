@@ -10,7 +10,7 @@ Je krijgt een dataset van Yelp bestaande uit 6.685.900 reviews en een fictieve, 
     - Maak een prototype recommender system.
     - Evalueer het prototype.
 - Voorstel:
-    - Analyseer de resultaten
+    - Analyseer de resultaten.
     - Geef gebaseerd op de uitkomsten een voorstel voor een definietief ontwerp.
 
 ### Deliverables
