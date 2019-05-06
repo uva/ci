@@ -3,7 +3,7 @@
 ### Beschrijving project
 De beoogde uitkomst van het groepsproject is een onderbouwd voorstel voor een recommender system voor Yelp.
 
-Je krijgt een dataset van Yelp bestaande uit 6.685.900 reviews en een fictieve, Yelp-achtige, website genaamd Celp (Collective yElP). Het doel is om aan de hand van de data de gebruikers van Celp een lijst van gepersonaliseerde aanbevelingen te maken. Concreet betekent dit:
+Je krijgt een dataset van Yelp bestaande uit 6.685.900 reviews en een fictieve, Yelp-achtige, website genaamd Celp (Collective yElP). Het doel is om aan de hand van de data, de gebruikers van Celp een lijst van gepersonaliseerde aanbevelingen te maken. Concreet betekent dit:
 
 - Verkenning:
     - Analyseer de data. Bedenk hoe je de benodigde informatie uit de data kan halen.
