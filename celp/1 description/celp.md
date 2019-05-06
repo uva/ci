@@ -22,7 +22,7 @@ Voor dit project schrijf je 4 deelverslagen (van ieder maximaal 500 woorden) en 
 - De volledige dataset kan je [hier downloaden](https://www.dropbox.com/s/gagjp3pxqi96gfp/Simon Pauw - yelp-all.zip?dl=1).
 - Het framework voor de website vind je hier: <https://github.com/uva/celp>
     - Maak per groep een `fork` van deze repository en werk daarin vervolgens verder. Hier kun je vinden hoe dat moet: <https://help.github.com/en/articles/fork-a-repo>
-    - Deze `fork` met het door jouw gebouwde recommender systeem is wat je uiteindelijk inlevert als code.
+    - Deze `fork` met het door jouw gebouwde recommender systeem lever je uiteindelijk in voor het code onderdeel.
 
 ### De website
 
