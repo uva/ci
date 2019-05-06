@@ -64,4 +64,4 @@ Voorstel voor een ontwerp:
 | wo 22 mei | Deel 4  van het verslag en het prototype inleveren          |
 
 
-**Let op** Link voor het inplannen van de meetings op vrijdag vind je binnenkort terug. Houd je mail in de gaten!
+**Let op** De links voor het inplannen van de meetings op vrijdag vind je hier binnenkort terug. Houd je mail in de gaten!
