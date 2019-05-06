@@ -62,3 +62,6 @@ Voorstel voor een ontwerp:
 | vr 17 mei | Deel 2 en 3 van het verslag inleveren                       |
 | vr 17 mei | Meeting (5 minuten) met de docenten. Plan hier een slot in: |
 | wo 22 mei | Deel 4  van het verslag en het prototype inleveren          |
+
+
+**Let op** Link voor het inplannen van de meetings op vrijdag vind je binnenkort terug. Houd je mail in de gaten!
