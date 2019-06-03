@@ -1,4 +1,6 @@
 grades:
+    celp_prototype:
+        type: float
     framing_data:
         type: float
         subgrades:
