@@ -52,6 +52,21 @@ Op vrijdag is er vaak een extra hulp college. Deze staan op Datanose ingerooster
 
 Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (20%), het cijfer van het tentamen (40%) en het cijfer voor het groepsproject (40%).
 
+## Hoorcolleges
+
+De hoorcolleges worden grotendeels verzorgd door (oud-)medewerkers van de UvA die onderzoek doen naar aanbevelingssystemen of hier in de praktijk aan bouwen.
+
+| Week | Docent                         | Onderwerp                       |
+| ---- | ------------------------------ | ------------------------------- |
+| 1    | Maarten de Rijke (prof., UvA)  | Inleiding in het vakgebied      |
+| 3    | Jelle van Assema (docent, UvA) | Collaborative filtering         |
+| 5    | Anne Schuth (Persgroep)        | Personalisatie van het nieuws   |  
+| 6    | Katya Garmash (KLM)            | Taalverwerking voor Trip Report |
+| 7    | Wouter Weerkamp (904labs)      | Gepersonaliseerd zoeken         |
+| 8    | David Graus (FD Mediagroep)    | Personalisatie en ethiek        |
+
+Opnames van de colleges worden verspreid, maar niet direct.
+
 
 ## Opdrachten
 
