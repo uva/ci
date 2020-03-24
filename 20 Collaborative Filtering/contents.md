@@ -2,9 +2,9 @@
 
 ## Plan
 
-1. Leer wat Collaborative Filtering precies is.
+1. Leer hier hoe Collaborative Filtering werkt (als je  dat niet al gedaan had): [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
 
-2. Leer hoe je Collaborative Filtering implementeert.
+2. Leer hoe je Collaborative Filtering implementeert: [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-1)
 
 3. <span class="badge badge-primary">Assignment</span> Implementeer je eigen collaborative filtering algoritme.
 
