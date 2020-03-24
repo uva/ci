@@ -6,6 +6,6 @@
 
 2. Leer hoe je Collaborative Filtering implementeert: [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-1)
 
-3. <span class="badge badge-primary">Assignment</span> Implementeer je eigen collaborative filtering algoritme.
+3. <span class="badge badge-primary">Assignment</span> Implementeer je eigen collaborative filtering algoritme: [Module 2 notebook](/collaborative-filtering/assignment)
 
 4. Kijk het volgende gastcollege over ...

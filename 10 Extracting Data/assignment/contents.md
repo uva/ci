@@ -1,2 +1,2 @@
 # Module 1, opdracht
-Download hier de de jupyter notebook: [Module 1](module1.zip)
+Download hier de de jupyter notebook: [module1.zip](module1.zip)

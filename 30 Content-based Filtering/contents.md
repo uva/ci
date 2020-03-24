@@ -8,6 +8,6 @@
 
 3. Hoe goed werkt het? Leer hier meer over evaluatie: ...
 
-4. <span class="badge badge-primary">Assignment</span> Maak de rest van Module 3.
+4. <span class="badge badge-primary">Assignment</span> Maak de rest van Module 3: [Module 3 notebook](content-based-filtering)
 
 4. Kijk het volgende gastcollege over ...
