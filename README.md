@@ -1,4 +1,4 @@
-# Programmeren voor Informatiekunde
+# Collectieve Intelligentie
 
 This course is...
 

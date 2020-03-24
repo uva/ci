@@ -1,10 +1,14 @@
 # Technische colleges 2020
+
 ### Recommender Systems Intro
+![embed](https://player.vimeo.com/video/400202428?byline=0&portrait=0)
 
 ### Vakopzet
 
 
 ### Collaborative filtering (deel 1/2)
+![embed](https://player.vimeo.com/video/400202288?byline=0&portrait=0)
+
 
 ### Collaborative filtering (deel 2/2)
 ![embed](https://player.vimeo.com/video/400185554?byline=0&portrait=0)

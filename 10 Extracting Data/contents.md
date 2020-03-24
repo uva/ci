@@ -2,7 +2,7 @@
 
 ## Plan
 
-1. Leer wat Recommender Systems zijn.
+1. Leer wat Recommender Systems zijn: [introductie](lectures/introductie)
 
 2. Wat is de vakopzet?
 
