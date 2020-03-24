@@ -8,7 +8,7 @@ In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken
 
 ## Contact
 
-Stuur een mail naar <progik@mprog.nl>stel een vraag op Ed of plan een zoom-gesprek tijdens de werkocolleges. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
+Stuur een mail naar <progik@mprog.nl> stel een vraag op Ed of plan een zoom-gesprek tijdens de werkocolleges. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
 
 Simon Pauw  
 *docent*
