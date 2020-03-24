@@ -1,6 +1,6 @@
 # Collectieve Intelligentie<br><span class="small">Studiewijzer</span>
 
-*Versie: April 2019*
+*Versie: April 2020*
 
 Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
@@ -8,15 +8,9 @@ In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken
 
 ## Contact
 
-Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docent aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
-
-Jelle van Assema  
-*docent*
+Stuur een mail naar <progik@mprog.nl>stel een vraag op Ed of plan een zoom-gesprek tijdens de werkocolleges. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
 
 Simon Pauw  
-*docent*
-
-Wouter Vrielink  
 *docent*
 
 Martijn Stegeman  
@@ -26,71 +20,62 @@ Martijn Stegeman
 
 We verwachten dat je flink geoefend hebt met programmeren in Python en met basale statistische begrippen.
 
-## Wat gaan we doen?
+## Planning
 
 De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
 
-| Weken  | Activiteit    | Deadline   |
-| ------ | ------------- | ---------- |
-| Week 1 | Opdracht 1    | wo 3  apr  |
-| Week 2 | Opdracht 2    | wo 10 apr  |
-| Week 3 | Opdracht 3    | wo 17 apr  |
-| Week 4 | Tentamen (let op: geen digitale toets)      | wo 24 apr  |
-| Week 5 | Opdracht 4    | vr 3  mei  |
-| Week 6 | Groepsproject |            |
-| Week 7 | Groepsproject |            |
-| Week 8 | Groepsproject | wo 22 mei  |
-| Week 9 | Hertentamen (let op: geen digitale toets)   | di 28 mei  |
+| Weken  | Activiteit    | Deadline            |
+| ------ | ------------- | ------------------- |
+| Week 1 | Module 1      |                     |
+| Week 2 | Module 1/2    | Module 1, wo 8 apr  |
+| Week 3 | Module 2/3    | Module 2, wo 15 apr |
+| Week 4 | Module 3      | Module 3, vr 24 apr |
+| Week 5 | Tentamen (let op: geen digitale toets) | do 30 apr  |
+| Week 6 | Groepsproject | Tussenrapport 1, vr 8 mei |
+| Week 7 | Groepsproject | Tussenrapport 2, vr 15 mei |
+| Week 8 | Groepsproject | Eindrapport, wo 20 mei  |
+| Week 9 | Hertentamen (let op: geen digitale toets)   | ma 25 mei  |
 
-Om het vak te halen moet je minimaal een 5.5 gemiddeld halen voor de individuele opdrachten en een 5.5 voor het tentamen. Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
+## Beoordeling
 
-Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is jouw eigen verantwoordelijkheid om te zorgen dat je goed op de hoogte bent van de inhoud van deze colleges. Het is belangrijk dat je notities uitwisselt met medestudenten als je een hoorcollege zou missen.
+Je krijgt voor dit vak een cijfer voor de volgende elementen:
+- De individuele opdrachten (module 1-3)
+- Het groepsproject
+- Het tentamen
 
-Elke week heb je twee laptopcolleges. Daar kun je inhoudelijke vragen stellen over het programmeerwerk. De groepen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.
+Om het vak te halen moet je:
+ - minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
+ - minimaal een 5.5 halen voor het tentamen
 
-Op vrijdag is er vaak een extra hulp college. Deze staan op Datanose ingeroosterd als hoorcolleges. Hier kan je terecht voor extra ondersteuning bij de stof en de opdracht.
+Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
 
-Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (20%), het cijfer van het tentamen (40%) en het cijfer voor het groepsproject (40%).
+Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (30%), het cijfer van het tentamen (30%) en het cijfer voor het groepsproject (40%).
+
+
+## Begeleiding
+~Elke week heb je twee laptopcolleges. Daar kun je inhoudelijke vragen stellen over het programmeerwerk. De groepen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.~
+
+> Huidige vorm uitleggen
 
 ## Hoorcolleges
 
-De hoorcolleges worden grotendeels verzorgd door (oud-)medewerkers van de UvA die onderzoek doen naar aanbevelingssystemen of hier in de praktijk aan bouwen.
+~Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is jouw eigen verantwoordelijkheid om te zorgen dat je goed op de hoogte bent van de inhoud van deze colleges. Het is belangrijk dat je notities uitwisselt met medestudenten als je een hoorcollege zou missen.~
 
-| Week | Docent                         | Onderwerp                       |
-| ---- | ------------------------------ | ------------------------------- |
-| 1    | Maarten de Rijke (prof., UvA)  | Inleiding in het vakgebied      |
-| 3    | Jelle van Assema (docent, UvA) | Collaborative filtering         |
-| 5    | Anne Schuth (Persgroep)        | Personalisatie van het nieuws   |  
-| 6    | Katya Garmash (KLM)            | Taalverwerking voor Trip Report |
-| 7    | Wouter Weerkamp (904labs)      | Gepersonaliseerd zoeken         |
-| 8    | David Graus (FD Mediagroep)    | Personalisatie en ethiek        |
-
-Opnames van de colleges worden verspreid, maar niet direct.
-
+> Huidige vorm uitleggen
 
 ## Opdrachten
 
 Besef je dat dit vak meer tijd kost dan de 6 tot 8 contacturen in de week. Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de laptopcolleges. We verwachten daarom dat je bent begonnen aan de opdracht vóór het eerste laptopcollege van de week.  
 
-Elke week worden je opdrachten beoordeeld en krijg je feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je cijfer stellen we samen uit twee factoren op een schaal van 1 t/m 5:
-
-* Correctness --- klopt de uitkomst van jouw programma?
-* Design --- is het programma leesbaar en goed ontworpen?
-
-Correctness maakt 70% op van het cijfer en design 30%. Op een Nederlandse schaal van 1 t/m 10 kan je het cijfer dan zo berekenen:
-
-    punten = 0.7 * correctness + 0.3 * design
-    cijfer = (punten - 1) / (5 - 1) * 9 + 1
-
-Mis je de deadline voor een individuele opdracht, dan kun je binnen twee dagen alsnog de opdracht inleveren, maar je krijgt dan 1 punt minder. Mis je deze extensie van de deadline ook, dan kan je binnen zes dagen na de orginele deadline de opdracht inleveren. Je krijgt dan twee punten minder. Later dan zes dagen na de oorspronkelijke deadline is er geen ruimte meer om opdrachten in te leveren.
+Elke week worden je opdrachten beoordeeld en krijg je feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je krijgt voor elke opdracht een cijfer op een schaal van 1 t/m 10. Het eindcijfer voor de individuele opdrachten is het gemiddelde van deze cijfers.
 
 
 ## Tentamen
 
 Hier volgt een overzicht van de stof voor het tentamen.
 
-- de begrippen bij de individuele opdrachten uit weken 1 t/m 3
-- de inhoud van de (gast)colleges in weken 1 t/m 3
+- de begrippen bij de individuele opdrachten uit weken 1 t/m 4
+- de inhoud van de (gast)colleges in weken 1 t/m 4
 
 Omdat er maar één tentamen is, zal de herkansing al in week 9 van het vak plaatsvinden. Zo heb je genoeg ruimte om je voor te bereiden en liggen de colleges nog vers in je geheugen.
 

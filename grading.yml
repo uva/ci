@@ -1,13 +1,4 @@
 grades:
-    celp_prototype:
-        type: float
-    framing_data:
-        type: float
-        subgrades:
-            correctness: integer
-            design: integer
-            penalty: integer
-        calculation: "[((7 * (correctness / 16.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
     extracting_information:
         type: float
         subgrades:
@@ -29,6 +20,8 @@ grades:
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 36.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+    celp_prototype:
+        type: float
     tentamen:
         type: float
         subgrades:
@@ -44,18 +37,17 @@ grades:
 
 calculation:
     resit:
-        hertentamen: 40
+        hertentamen: 30
         project: 40
-        assignments: 20
+        assignments: 30
     normal:
-        tentamen: 40
+        tentamen: 30
         project: 40
-        assignments: 20
+        assignments: 30
 
 assignments:
     minimum: 5.5
     submits:
-        framing_data: 10
         extracting_information: 10
         collaborative_filtering: 10
         content_based_filtering: 10
@@ -69,3 +61,7 @@ hertentamen:
     minimum: 5.5
     submits:
         hertentamen: 1
+
+project:
+    submits:
+        celp_prototype: 1
