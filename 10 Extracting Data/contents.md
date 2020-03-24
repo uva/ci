@@ -8,7 +8,7 @@
 
 3. Leer hoe je met Pandas werkt van ...: [Pandas](/lectures/pandas)
 
-4. <span class="badge badge-primary">Assignment</span> Leer data manipuleren in Python met Pandas.
+4. <span class="badge badge-primary">Assignment</span> Leer data manipuleren in Python met Pandas: [Notebook](assignment/)
 
 5. Kijkje vooruit. Leer vast hoe Collaborative Filtering werkt: [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
 
