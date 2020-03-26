@@ -8,7 +8,10 @@ In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken
 
 ## Contact
 
-Stuur een mail naar <progik@mprog.nl> stel een vraag op Ed of plan een zoom-gesprek tijdens de werkocolleges. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>.
+Als je vragen hebt kan je ons op verschillende manieren bereiken:
+- Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>.
+- Als je een vraag hebt over de opdracht kan je die stellen op [Ed](https://us.edstem.org/courses/341/discussion/). Deze zullen vooral ten tijden van de werkcolleges beantwoord worden.
+- Als je er via Ed niet uitkomt kan je een zoom-gesprek [plannen](link?) met één van de assistenten.
 
 Simon Pauw  
 *docent*  
@@ -30,45 +33,45 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Week 2 | Module 1/2    | Module 1, wo 8 apr  |
 | Week 3 | Module 2/3    | Module 2, wo 15 apr |
 | Week 4 | Module 3      | Module 3, vr 24 apr |
-| Week 5 | Tentamen (let op: geen digitale toets) | do 30 apr  |
-| Week 6 | Groepsproject | Tussenrapport 1, vr 8 mei |
+| Week 5 | Ttake-home tentamen | do 30 apr     |
+| Week 6 | Groepsproject | Tussenrapport 1, vr 8 mei  |
 | Week 7 | Groepsproject | Tussenrapport 2, vr 15 mei |
-| Week 8 | Groepsproject | Eindrapport, wo 20 mei  |
-| Week 9 | Hertentamen (let op: geen digitale toets)   | ma 25 mei  |
+| Week 8 | Groepsproject | Eindrapport, wo 20 mei     |
+| Week 9 | Hertentamen   | ma 25 mei           |
 
 ## Beoordeling
+Het weging voor het eindcijfer van dit vak is:
+- 50% individuele opdrachten (module 1 t/m 3)
+- 50% groepsproject.
 
-Je krijgt voor dit vak een cijfer voor de volgende elementen:
-- De individuele opdrachten (module 1-3)
-- Het groepsproject
-- Het tentamen
+Het tentamen is pass or fail. Je krijgt hier dus geen cijfer voor.
 
 Om het vak te halen moet je:
  - minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
- - minimaal een 5.5 halen voor het tentamen
+ - het tentamen gehaald hebben
 
 Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
 
-Het eindcijfer is gebaseerd op de tussencijfers die je krijgt voor de individuele opdrachten (30%), het cijfer van het tentamen (30%) en het cijfer voor het groepsproject (40%).
-
-
 ## Begeleiding
-~Elke week heb je twee laptopcolleges. Daar kun je inhoudelijke vragen stellen over het programmeerwerk. De groepen zijn zo ingedeeld zodat iedereen echt hulp kan krijgen. Er is geen ruimte om een laptopcollege in te halen of een ander laptopcollege bij te wonen.~
+Er is veel online hulp beschibaar voor dit vak. In eerste instantie gaat de hulp via het discussieplatform [Ed](...). Probeer hierin je vraag zo duidelijk mogelijk te formuleren. Gebruik hierbij fragmenten van je code, maar copieer nooit de hele code (anders maak je het je medestudenten te makkelijk om deze te kopiëren).
 
-> Huidige vorm uitleggen
+Als je er via Ed niet uitkomt kan je een Zoom afspraak inplannen met een assistent: [Zoom](...)
+
+Tijdens het project krijg je een assistent toegewezen die je kan helpen. Je kan hiermee Zoom afspraken inplannen. Het is de bedoeling dat je tijdens het groepsproject in ieder geval één keer per week met de assistent afspreekt om je voortgang te bespreken.
 
 ## Hoorcolleges
+Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
 
-~Elke week is er een hoorcollege op maandag. Deze hoorcolleges vormen een fundamenteel onderdeel van het vak en de behandelde stof is dan ook tentamenstof. Het is jouw eigen verantwoordelijkheid om te zorgen dat je goed op de hoogte bent van de inhoud van deze colleges. Het is belangrijk dat je notities uitwisselt met medestudenten als je een hoorcollege zou missen.~
+De technische colleges zijn dit jaar vervangen voor instructievideo's.
 
-> Huidige vorm uitleggen
+De vorm van de gastcolleges zal gedurende het vak duidelijker worden.
 
 ## Opdrachten
-
-Besef je dat dit vak meer tijd kost dan de 6 tot 8 contacturen in de week. Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de laptopcolleges. We verwachten daarom dat je bent begonnen aan de opdracht vóór het eerste laptopcollege van de week.  
+Besef je dat dit vak meer tijd kost dan de 6 tot 8 contacturen in de week. Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp. 
 
 Elke week worden je opdrachten beoordeeld en krijg je feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je krijgt voor elke opdracht een cijfer op een schaal van 1 t/m 10. Het eindcijfer voor de individuele opdrachten is het gemiddelde van deze cijfers.
 
+**Voor deze opdrachten is samenwerken niet toegestaan.** Zie ook het kopje "Samenwerken, fraude en plagiaat".
 
 ## Tentamen
 
@@ -79,10 +82,14 @@ Hier volgt een overzicht van de stof voor het tentamen.
 
 Omdat er maar één tentamen is, zal de herkansing al in week 9 van het vak plaatsvinden. Zo heb je genoeg ruimte om je voor te bereiden en liggen de colleges nog vers in je geheugen.
 
-
 ## Groepsproject
 
-Meer informatie over het groepsproject volgt na enkele weken. Algemene informatie wordt gegeven tijdens het eerste hoorcollege.
+In week 6 t/m 8 ga je aan een groepsproject werken. Voor het groepsproject zal je in groepen van 4 gaan werken. Hiervoor lever je elke week een voortgangsrapport in. Aan het einde lever je ook je code in en geef je een mondelinge eindpresentatie aan de docent.
+
+Voor dit project krijg je cijfer per groep een gezamelijk cijfer. Dit cijfer is gebaseerd op de volgende onderdelen:
+- de tussenrapporten
+- de ingeleverde code
+- de eindpresentatie
 
 
 ## Samenwerken, fraude en plagiaat
