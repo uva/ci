@@ -20,4 +20,4 @@ In deze module ga je leren hoe je de python library, Pandas, kan gebruiken voor 
 
 1. Kijkje vooruit. Bekijk hier vast hoe Collaborative Filtering werkt: [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
 
-1. Kijk het volgende gastcollege over de Persgroep (o.a. de Volkskrant): [Gastcollege Anne Schuth](/lecture/anne-schuth)
+1. Kijk het volgende gastcollege over de Persgroep (o.a. de Volkskrant): [Gastcollege Anne Schuth](/lectures/anne-schuth)
