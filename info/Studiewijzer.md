@@ -36,30 +36,30 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Week 9 | Hertentamen   | ma 25 mei           |
 
 ## Beoordeling
-Het weging voor het eindcijfer van dit vak is:
+
+De weging voor het eindcijfer van dit vak is:
 
 - 50% individuele opdrachten (module 1 t/m 3)
-
-- 50% groepsproject.
-
-Het tentamen is pass or fail. Je krijgt hier dus geen cijfer voor.
+- 50% groepsproject
+- Het tentamen is pass/fail; je krijgt hier dus geen cijfer voor
 
 Om het vak te halen moet je:
 
- - minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
-
- - het tentamen gehaald hebben
+ - Minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
+ - Het tentamen gehaald hebben
 
 Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
 
 ## Begeleiding
+
 Er is veel online hulp beschibaar voor dit vak. In eerste instantie gaat de hulp via het discussieplatform [Ed](us.edstem.org). Je ontvangt hiervoor een uitnodiging bij de start van het vak. Probeer hier je vraag zo duidelijk mogelijk te formuleren. Gebruik hierbij fragmenten van je code, maar copiëer nooit de hele code (anders maak je het je medestudenten te makkelijk om deze te kopiëren).
 
-Als je er via Ed niet uitkomt kan je een Zoom afspraak inplannen met een assistent: [Zoom](...)
+Als je er via Ed niet uitkomt kan je een afspraak inplannen met een assistent: [Zoom](https://calendly.com/collectieve-intelligentie/assistentie)
 
 Tijdens het project krijg je een assistent toegewezen die je kan helpen. Je kan hiermee Zoom afspraken inplannen. Het is de bedoeling dat je tijdens het groepsproject in ieder geval één keer per week met de assistent afspreekt om je voortgang te bespreken.
 
 ## Hoorcolleges
+
 Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
 
 De technische colleges bestaan uit instructievideo's.
@@ -67,6 +67,7 @@ De technische colleges bestaan uit instructievideo's.
 De vorm van de gastcolleges zal gedurende het vak duidelijker worden.
 
 ## Opdrachten
+
 NA elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je krijgt voor elke opdracht een cijfer op een schaal van 1 t/m 10. Het eindcijfer voor de individuele opdrachten is het gemiddelde van deze cijfers.
 
 Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp.
@@ -89,11 +90,8 @@ In week 6 t/m 8 ga je aan een groepsproject werken. Voor het groepsproject zal j
 Voor dit project krijg je cijfer per groep een gezamelijk cijfer. Dit cijfer is gebaseerd op de volgende onderdelen:
 
 - de tussenrapporten
-
 - de ingeleverde code
-
 - de eindpresentatie
-
 
 ## Samenwerken, fraude en plagiaat
 
