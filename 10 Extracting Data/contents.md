@@ -12,7 +12,7 @@ In deze module ga je leren hoe je de python library, Pandas, kan gebruiken voor 
 
 1. Bekijk hier wat je ongeveer kan verwachten bij dit vak: [vakopzet](/lectures/vakopzet)
 
-1. Hoe kan je dit vak halen? Wat zijn de deadlines voor de opdrachten? Wat als ik het niet op tijd afkrijg? Mag ik samenwerken? Waar en aan wie kan ik een vraag stellen? Lees voor je verder gaat eerst de syllabus goed door: [syllabus](/syllabus)
+1. Hoe kan je dit vak halen? Wat zijn de deadlines voor de opdrachten? Wat als ik het niet op tijd afkrijg? Mag ik samenwerken? Waar en aan wie kan ik een vraag stellen? Lees voor je verder gaat eerst de studiewijzer goed door: [studiewijzer](/syllabus)
 
 1. Leer hoe kan je data lezen, filteren, sorteren en groeperen met behulp van Pandas: [Pandas](/lectures/pandas)
 
