@@ -18,6 +18,4 @@ In deze module ga je leren hoe je de python library, Pandas, kan gebruiken voor 
 
 1. <span class="badge badge-primary">Assignment</span> Leer data manipuleren in Python met Pandas: [Module 1 notebook](/extracting-data/assignment/)
 
-1. Kijkje vooruit. Bekijk hier vast hoe Collaborative Filtering werkt: [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
-
-1. Kijk het volgende gastcollege over ...
+1. Kijkje vooruit. Volgende week ga je aan de slag met Collaborative Filtering. Bekijk hier vast hoe dat werkt: [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
