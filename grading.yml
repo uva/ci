@@ -1,19 +1,19 @@
 grades:
-    extracting_information:
+    module_1:
         type: float
         subgrades:
             correctness: integer
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 19.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
-    collaborative_filtering:
+    module_2:
         type: float
         subgrades:
             correctness: integer
             design: integer
             penalty: integer
         calculation: "[((7 * (correctness / 88.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
-    content_based_filtering:
+    module_3:
         type: float
         subgrades:
             correctness: integer

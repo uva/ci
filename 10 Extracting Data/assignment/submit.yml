@@ -1,0 +1,4 @@
+name: module_1
+files:
+    required:
+        - module 1.ipynb
