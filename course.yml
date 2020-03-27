@@ -2,8 +2,8 @@ name: Collectieve Intelligentie
 short_name: CI
 language: nl
 
-links:
-    'Module 1: Extracting Data': /extracting-data
+modules:
+    '1. Extracting Data': /extracting-data
 #    'Module 2: Collaborative Filtering': /collaborative-filtering
 #    'Module 3: Content-based Filtering': /content-based-filtering
 #    'Groepsproject': /groepsproject
