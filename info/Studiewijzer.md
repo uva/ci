@@ -52,7 +52,7 @@ Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemi
 
 ## Begeleiding
 
-Er is veel online hulp beschibaar voor dit vak. In eerste instantie gaat de hulp via het discussieplatform [Ed](us.edstem.org). Je ontvangt hiervoor een uitnodiging bij de start van het vak. Probeer hier je vraag zo duidelijk mogelijk te formuleren. Gebruik hierbij fragmenten van je code, maar copiëer nooit de hele code (anders maak je het je medestudenten te makkelijk om deze te kopiëren).
+Er is veel online hulp beschibaar voor dit vak. In eerste instantie gaat de hulp via het discussieplatform [Ed](https://us.edstem.org/courses/347/discussion/). Je ontvangt hiervoor een uitnodiging bij de start van het vak. Probeer hier je vraag zo duidelijk mogelijk te formuleren. Gebruik hierbij fragmenten van je code, maar copiëer nooit de hele code (anders maak je het je medestudenten te makkelijk om deze te kopiëren).
 
 Als je er via Ed niet uitkomt kan je een afspraak inplannen met een assistent: [Zoom](https://calendly.com/collectieve-intelligentie/assistentie)
 
