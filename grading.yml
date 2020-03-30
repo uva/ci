@@ -2,10 +2,9 @@ grades:
     module_1:
         type: float
         subgrades:
-            correctness: integer
-            design: integer
-            penalty: integer
-        calculation: "[((7 * (correctness / 19.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+            points: integer
+            penalty: float
+        calculation: "(penalty > 0) && [(points / 25.0) * 9 + 1, penalty].min || ((points / 25.0) * 9 + 1)"
     module_2:
         type: float
         subgrades:
