@@ -7,7 +7,7 @@ Door het verzamelen van informatie over gebruikers van websites kunnen we een ho
 In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken. In de eerste vijf weken leer je de technieken die nodig zijn om een recommender system te bouwen. Daarna krijg je in een groepsopdracht de ruimte om deze technieken toe te passen op een case en je creativiteit de vrije loop te laten.
 
 ## Contact
-Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
+Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder. 
 
 Simon Pauw  
 *docent*  
@@ -58,6 +58,19 @@ Als je er via Ed niet uitkomt kan je een afspraak inplannen met een assistent: [
 
 Tijdens het project krijg je een assistent toegewezen die je kan helpen. Je kan hiermee Zoom afspraken inplannen. Het is de bedoeling dat je tijdens het groepsproject in ieder geval één keer per week met de assistent afspreekt om je voortgang te bespreken.
 
+### Bezetting zoom/ed:
+Je kan hieronder vinden op welke tijden er Zoom-hulp aanwezig is:
+
+|         | ma        | di                  | wo        | do        | vr                  |
+| tijd    |           |                     |           |           |                     |
+| ------- | --------- | ------------------- | --------- | --------- | ------------------- |
+| 09 - 11 |           |                     |           |           |                     |
+| 11 - 13 | elke week | week 16, 20, 21     | elke week | elke week | week 16, 17, 19, 20 |
+| 13 - 15 | elke week | elke week           | elke week | elke week | elke week           |
+| 15 - 17 | elke week | week 14, 15, 17, 21 | elke week | elke week | week 14, 16,17, 19  |
+
+Je kan op Ed altijd vragen stellen, ook buiten de boevengenoemde tijden, maar dit zijn ook voor Ed de momenten waarop je het snelste antwoord kan verwachten.
+
 ## Hoorcolleges
 
 Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
@@ -68,9 +81,22 @@ De vorm van de gastcolleges zal gedurende het vak duidelijker worden.
 
 ## Opdrachten
 
-NA elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je krijgt voor elke opdracht een cijfer op een schaal van 1 t/m 10. Het eindcijfer voor de individuele opdrachten is het gemiddelde van deze cijfers.
+Na elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je krijgt voor elke opdracht een cijfer op een schaal van 1 t/m 10. Het eindcijfer voor de individuele opdrachten is het gemiddelde van deze cijfers.
 
 Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp.
+
+### Te laat
+De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als de opdracht na de gestelde deadline inleverd wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
+
+Als je 24 uur na de deadline de opdracht inlevert kan je nog maximaal een 7 krijgen voor de opdracht.
+
+Daarna kan je nog tot maximaal 4 dagen na de deadline inleveren. In dat geval kan je maximaal een 5.5 halen voor de opdracht.
+
+Nog later inleveren kan niet.
+
+Als je niet optijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: progik@mprog.nl
+
+### Samenwerken
 
 **Voor deze opdrachten is samenwerken niet toegestaan.** Zie ook het kopje "Samenwerken, fraude en plagiaat".
 
