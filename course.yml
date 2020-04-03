@@ -4,7 +4,7 @@ language: nl
 
 modules:
     '1. Extracting Data': /extracting-data
-#    'Module 2: Collaborative Filtering': /collaborative-filtering
+    '2: Collaborative Filtering': /collaborative-filtering
 #    'Module 3: Content-based Filtering': /content-based-filtering
 #    'Groepsproject': /groepsproject
 
