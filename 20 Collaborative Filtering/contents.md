@@ -10,7 +10,7 @@ Naast het implementeren van een collaborative filtering algoritme ga je verschil
 
 1. Leer hier het principe van Collaborative Filtering (als je dat niet al gedaan had): [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
 
-2. Leer in meer detail hoe je Collaborative Filtering implementeert: [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-1)
+2. Leer in meer detail hoe je Collaborative Filtering implementeert: [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-2)
 
 3. Hoe goed werkt m'n algoritme? Leer meer over het evalueren van recommender systems: [Evaluatie](/lectures/evaluatie)
 
