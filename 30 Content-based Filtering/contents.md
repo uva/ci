@@ -1,5 +1,7 @@
 # Content-based Filtering
 
+
+
 ## Plan
 
 1. Leer meer over Content-based filtering.
