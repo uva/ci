@@ -6,7 +6,7 @@ grades:
             penalty: float
         automatic:
             points: correctness_score
-        calculation: "penalty * 2" # "penalty && [(points / 25.0) * 9 + 1, penalty].min || ((points / 25.0) * 9 + 1)"
+        calculation: "[penalty, 0].max * 2" # "penalty && [(points / 25.0) * 9 + 1, penalty].min || ((points / 25.0) * 9 + 1)"
     module_2:
         type: float
         subgrades:
