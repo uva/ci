@@ -2,3 +2,6 @@ name: module_1
 files:
     required:
         - module 1.ipynb
+check:
+    tool: check50
+    repo: uva/ci_checks/2020/mod1
