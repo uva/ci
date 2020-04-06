@@ -2,27 +2,30 @@ grades:
     module_1:
         type: float
         subgrades:
-            points: integer
+            points_check50: integer
+            points_open: integer
             penalty: float
         automatic:
-            points: correctness_score
-        calculation: "penalty > 0 && [(points / 25.0) * 9 + 1, penalty].min || ((points / 25.0) * 9 + 1)"
+            points_check50: correctness_score
+        calculation: "penalty > 0 && [((points_open + points_check50) / 25.0) * 9 + 1, penalty].min || (((points_open + points_check50) / 25.0) * 9 + 1)"
     module_2:
         type: float
         subgrades:
-            points: integer
+            points_check50: integer
+            points_open: integer
             penalty: float
         automatic:
-            points: correctness_score
-        calculation: "penalty <= 0 && ((points / 25.0) * 9 + 1) || [(points / 25.0) * 9 + 1, penalty].min"
+            points_check50: correctness_score
+        calculation: "penalty > 0 && [((points_open + points_check50) / 57.0) * 9 + 1, penalty].min || (((points_open + points_check50) / 57.0) * 9 + 1)"
     module_3:
         type: float
         subgrades:
-            points: integer
+            points_check50: integer
+            points_open: integer
             penalty: float
         automatic:
-            points: correctness_score
-        calculation: "penalty <= 0 && ((points / 25.0) * 9 + 1) || [(points / 25.0) * 9 + 1, penalty].min"
+            points_check50: correctness_score
+        calculation: "penalty > 0 && [((points_open + points_check50) / 16.0) * 9 + 1, penalty].min || (((points_open + points_check50) / 16.0) * 9 + 1)"
     celp_prototype:
         type: float
     tentamen:
