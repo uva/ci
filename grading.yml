@@ -2,21 +2,20 @@ grades:
     module_1:
         type: float
         subgrades:
-            points_check50: integer
-            points_open: integer
+            check50_score: float
             penalty: float
         automatic:
-            points_check50: correctness_score
-        calculation: "penalty > 0 && [((points_open + points_check50) / 25.0) * 9 + 1, penalty].min || (((points_open + points_check50) / 25.0) * 9 + 1)"
+            check50_score: correctness_score
+        calculation: "penalty > 0 && [points_check50 * 9 + 1, penalty].min || (points_check50 * 9 + 1)"
     module_2:
         type: float
         subgrades:
-            points_check50: integer
+            check50_score: float
             points_open: integer
             penalty: float
         automatic:
-            points_check50: correctness_score
-        calculation: "penalty > 0 && [((points_open + points_check50) / 57.0) * 9 + 1, penalty].min || (((points_open + points_check50) / 57.0) * 9 + 1)"
+            check50_score: correctness_score
+        calculation: "penalty > 0 && [((points_open + check50_score * 29) / 57.0) * 9 + 1, penalty].min || (((points_open + check50_score * 29) / 57.0) * 9 + 1)"
     module_3:
         type: float
         subgrades:
