@@ -6,21 +6,23 @@ grades:
             penalty: float
         automatic:
             points: correctness_score
-        calculation: "penalty && ((points / 25.0) * 9 + 1) || [(points / 25.0) * 9 + 1, penalty].min"
+        calculation: "penalty > 0 && [(points / 25.0) * 9 + 1, penalty].min || ((points / 25.0) * 9 + 1)"
     module_2:
         type: float
         subgrades:
-            correctness: integer
-            design: integer
-            penalty: integer
-        calculation: "[((7 * (correctness / 88.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+            points: integer
+            penalty: float
+        automatic:
+            points: correctness_score
+        calculation: "penalty <= 0 && ((points / 25.0) * 9 + 1) || [(points / 25.0) * 9 + 1, penalty].min"
     module_3:
         type: float
         subgrades:
-            correctness: integer
-            design: integer
-            penalty: integer
-        calculation: "[((7 * (correctness / 36.0 * 5) + 3 * design - 10) / 40.0 * 9 + 1).round(1) - penalty.abs, 1].max"
+            points: integer
+            penalty: float
+        automatic:
+            points: correctness_score
+        calculation: "penalty <= 0 && ((points / 25.0) * 9 + 1) || [(points / 25.0) * 9 + 1, penalty].min"
     celp_prototype:
         type: float
     tentamen:
