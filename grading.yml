@@ -3,7 +3,7 @@ grades:
         type: float
         subgrades:
             check50: float
-            late: bool
+            late: boolean
             cap: float
         automatic:
             check50: correctness_score * 9 + 1
