@@ -7,7 +7,7 @@ grades:
             cap: float
         automatic:
             check50: correctness_score * 9 + 1
-        calculation: late && [check50, cap].min || check50"
+        calculation: late && [check50, cap].min || check50
     module_2:
         type: float
         subgrades:
