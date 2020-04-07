@@ -17,16 +17,17 @@ grades:
             cap: float
         automatic:
             check50: correctness_score * 29
-        calculation: late != 0 && [9.0 * (check50 + open) / 56.0 + 1, cap].min || 9.0 * (check50 + open) / 56.0 + 1
+        calculation: late != 0 && [9.0 * (check50 + open) / 57.0 + 1, cap].min || 9.0 * (check50 + open) / 57.0 + 1
     module_3:
         type: float
         subgrades:
-            points_check50: integer
-            points_open: integer
-            penalty: float
+            check50: integer
+            open: integer
+            late: boolean
+            cap: float
         automatic:
-            points_check50: correctness_score
-        calculation: "penalty > 0 && [((points_open + points_check50) / 16.0) * 9 + 1, penalty].min || (((points_open + points_check50) / 16.0) * 9 + 1)"
+            check50: correctness_score * 29
+        calculation: late != 0 && [9.0 * (check50 + open) / 56.0 + 1, cap].min || 9.0 * (check50 + open) / 56.0 + 1
     celp_prototype:
         type: float
     tentamen:
