@@ -7,7 +7,7 @@ Door het verzamelen van informatie over gebruikers van websites kunnen we een ho
 In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken. In de eerste vijf weken leer je de technieken die nodig zijn om een recommender system te bouwen. Daarna krijg je in een groepsopdracht de ruimte om deze technieken toe te passen op een case en je creativiteit de vrije loop te laten.
 
 ## Contact
-Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder. 
+Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
 
 Simon Pauw  
 *docent*  
@@ -27,7 +27,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | ------ | ------------- | ------------------- |
 | Week 1 | Module 1      |                     |
 | Week 2 | Module 1/2    | Module 1, wo 8 apr  |
-| Week 3 | Module 2/3    | Module 2, wo 15 apr |
+| Week 3 | Module 2/3    | Module 2, vr 17 apr |
 | Week 4 | Module 3      | Module 3, vr 24 apr |
 | Week 5 | Take-home tentamen | do 30 apr     |
 | Week 6 | Groepsproject | Tussenrapport 1, vr 8 mei  |
