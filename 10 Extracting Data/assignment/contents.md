@@ -5,9 +5,12 @@
 Deze opdracht maak je in een [jupyter notebook](https://jupyter.org/). Als je dit nog niet hebt geïnstalleerd, moet je dat eerst doen. De makkelijkste manier is anaconda installeren: [anaconda](https://www.anaconda.com/)
 
 Als je anaconda al had geïnstalleerd, is het belangrijk dat alles up to date is. Je moet minstens versie 3.6.1 van Python draaien en versie 1.0 van Pandas. Als je een oudere versie van Pandas hebt update deze dan:
-      conda update pandas
-  of
-      pip install --upgrade pandas
+
+        conda update pandas
+
+    of
+    
+        pip install --upgrade pandas
 
 ## Download
 
