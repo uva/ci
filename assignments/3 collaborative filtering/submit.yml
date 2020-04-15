@@ -1,5 +1,0 @@
-name: collaborative_filtering
-files:
-    required:
-        - collaborative_filtering_1.ipynb
-        - collaborative_filtering_2.ipynb
