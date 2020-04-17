@@ -8,6 +8,6 @@ In deze module ga je een aantal technieken leren voor *content-based filtering*.
 
 1. <span class="badge badge-primary">Assignment</span> Maak het eerste deel van Module 3: [Module 3 notebook](/content-based-filtering/assignment)
 
-- <span class="badge badge-primary">Lecture</span> Kijk het gastcollege met Anne Schuth over Personalisatie bij de Volkskrant: [Anne Schuth](/lectures/anne_schuth)
+2. <span class="badge badge-primary">Lecture</span> Kijk het gastcollege met Anne Schuth over Personalisatie bij de Volkskrant: [Anne Schuth](/lectures/anne-schuthh)
 
-- <span class="badge badge-primary">Lecture</span> Luister het gastcollege met Judith Möller over *filter bubbles*: [Judith Möller](/lectures/judith_moeller)
+3. <span class="badge badge-primary">Lecture</span> Luister het gastcollege met Judith Möller over *filter bubbles*: [Judith Möller](/lectures/judith-moeller)
