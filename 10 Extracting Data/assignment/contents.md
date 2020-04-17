@@ -9,12 +9,12 @@ Als je anaconda al had geïnstalleerd, is het belangrijk dat alles up to date is
         conda update pandas
 
     of
-    
+
         pip install --upgrade pandas
 
 ## Download
 
-Download hier de de jupyter notebook: [module1.zip](module1.zip)
+Download hier de jupyter notebook: [module1.zip](module1.zip)
 
 ## Submit
 

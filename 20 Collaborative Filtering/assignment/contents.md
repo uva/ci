@@ -2,7 +2,7 @@
 
 ## Download
 
-Download hier de de jupyter notebook: [module2.zip](module2.zip)
+Download hier de jupyter notebook: [module2.zip](module2.zip)
 
 ## Submit
 
