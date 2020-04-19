@@ -6,7 +6,7 @@ In deze module ga je een aantal technieken leren voor *content-based filtering*.
 
 ## Plan
 
-1. <span class="badge badge-primary">Assignment</span> Maak het eerste deel van Module 3: [Module 3 notebook](/content-based-filtering/assignment)
+1. <span class="badge badge-primary">Assignment</span> Maak module 3: [Module 3 notebook](/content-based-filtering/assignment)
 
 2. <span class="badge badge-primary">Lecture</span> Kijk het gastcollege met Anne Schuth over Personalisatie bij de Volkskrant: [Anne Schuth](/lectures/anne-schuth)
 
