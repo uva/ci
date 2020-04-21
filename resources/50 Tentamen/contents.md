@@ -14,7 +14,6 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
     - [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-2)
     - [Evaluatie](/lectures/evaluatie)
-    - [Pandas](/lectures/pandas)
 - De gastcolleges:
     - [Daan Odijk](/lectures/daan-odijk)
     - [Brammert Ottens](/lectures/brammert-ottens)
