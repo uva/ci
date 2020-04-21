@@ -1,6 +1,6 @@
 # Tentamen
 
-Het tentamen vind plaats op donderdag 30 april. Het gaat om een take-home tentamen. Het tentamen zal om 11:00 uur worden verzonden. En je moet het uiterlijk om 17:00 op deze pagina inleveren.
+Het tentamen vindt plaats op donderdag 30 april. Het gaat om een take-home tentamen. Het tentamen zal om 11:00 uur worden verzonden. En je moet je antwoorden uiterlijk om 17:00 inleveren.
 
 Je kan het tentamen in 3 uur maken. Maar, je krijgt 6 uur zodat je zelf je tijd kan indelen.
 
