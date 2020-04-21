@@ -6,7 +6,7 @@ Je kan het tentamen in 3 uur maken. Maar, je krijgt 6 uur zodat je zelf je tijd 
 
 Het tentamen bestaat enkel uit vragen over concepten, waarbij we jouw inzicht in de materie testen. Er is geen code op het tentamen. Je zult daarom pandas, DataFrames en Series ook niet tegenkomen.
 
-De stof van het tenamen bestaat uit alles wat je tot nu toe voor dit vak hebt geleerd:
+De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt geleerd:
 
 - De inhoud van de opdrachten die je hebt gemaakt. Kijk vooral goed de open vragen uit deze opdrachten nog eens door!
 - De bijbehorende instructievideo's:
