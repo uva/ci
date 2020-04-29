@@ -6,7 +6,7 @@ Dit tentamen bestaat uit een aantal open vragen. In veel gevallen zijn er meerde
 
 Bij elke vraag staat een maximum aantal woorden vermeld. Ga hier niet overheen. De grens is heel ruim genomen dus het antwoord kan meestal een stuk beknopter.
 
-**Je moet dit tentamen uiterlijk om 17:00 [hier](submit) inleveren (als .pdf)**
+**Je moet dit tentamen uiterlijk om 17:00 [hier](/tentamen/submit) inleveren (als .pdf)**
 
 Je hebt ruim de tijd voor dit tentamen. Neem dus ook af en toe pauze.
 
@@ -31,4 +31,4 @@ De laatste vraag (vraag 5) is aanzienlijk langer dan de andere vragen. Hou hier 
 
 ## Submit
 
-Als je klaar bent, lever dan [hier](submit) het tentamen in**
+Als je klaar bent, lever dan [hier](/tentamen/submit) het tentamen in**
