@@ -19,3 +19,32 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Brammert Ottens](/lectures/brammert-ottens)
     - [Anne Schuth](/lectures/anne-schuth)
     - [Judith Möller](/lectures/judith-moeller)
+
+
+
+## Voorbeeldvragen
+De vragen lijken op de coneptvragen die je in dit vak bent tegengekomen (in de opdrachten en colleges). Je krijgt open vragen waarin je begrip van de stof wordt getoetst. Vaak is de redenering belangrijker dan het eindantwoord.
+
+Hieronder twee voorbeelden van het soort vragen die je zou kunnen verwachten.
+
+### Vraag
+Als we een nieuwe maat bedenken die berekend wordt als TF/IDF (TF gedeeld door IDF), wat zegt deze maat dan?
+[max 100 woorden]
+
+#### Antwoord
+TF / IDF kan ook geschreven worden als TF * 1 / IDF en is dus exact de omgekeerde maat. Met andere woorden: TF / IDF zal een lage waarde hebben als een woord representatief is voor een document.
+
+### Vraag
+Een eigen cateringbedrijf wi gerechten aan kunnen bevelen aan trouwe klanten houdt hij de waardering van elk gerecht bij. Hij wil graag gebruik maken van een content-based filtering systeem. Benoem tien eigenschappen die een gerecht karakteriseren.
+[max 50 woorden]
+
+#### Antwoord
+Bijvoorbeeld: Aantal calorieën, ingredienten, voedingswaarden, diëetinformatie (vegtarisch, veganistisch, gluten), etc.
+
+### Vraag
+In ziekenhuizen en klinieken wordt in toenemende mate gebruik gemaakt van Computer-Aided Diagnosis (CAD), oftewel het automatische maken van een diagnose. Zou je hier een Collaborative Filtering algoritme voor kunnen gebruiken (waarbij de 'gebruiker' de patiënt is en het 'item' een ziekte)? Zo ja, schets in grote lijnen hoe je dit aan zou pakken. Zoniet, beargumenteer waarom niet.
+[max 100 woorden]
+
+#### Antwoord
+*Meerdere antwoorden mogelijk, het gaat hier vooral om de redenering.*
+Het idee achter CF is dat de interactie tussen user en item meerdere meetmomenten kent, bijvoorbeeld wanneer gebruikers meerdere films hebben gewaardeerd of gezien. Recommender systems zijn hier dus niet van toepassing, omdat een diagnose (hopelijk) een eenmalig iets is.

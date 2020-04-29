@@ -31,4 +31,4 @@ De laatste vraag (vraag 5) is aanzienlijk langer dan de andere vragen. Hou hier 
 
 ## Submit
 
-Als je klaar bent, lever dan [hier](/tentamen/submit) het tentamen in**
+Als je klaar bent, lever dan [hier](/tentamen/submit) het tentamen in.
