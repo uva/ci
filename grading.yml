@@ -41,34 +41,3 @@ grades:
             points: integer
         calculation: points/10 + 1
         hide_calculated: false
-
-# calculation:
-#     resit:
-#         hertentamen: 30
-#         project: 40
-#         assignments: 30
-#     normal:
-#         tentamen: 30
-#         project: 40
-#         assignments: 30
-#
-# assignments:
-#     minimum: 5.5
-#     submits:
-#         module_1: 10
-#         module_2: 10
-#         module_3: 10
-#
-# tentamen:
-#     minimum: 5.5
-#     submits:
-#         tentamen: 1
-#
-# hertentamen:
-#     minimum: 5.5
-#     submits:
-#         hertentamen: 1
-#
-# project:
-#     submits:
-#         celp_prototype: 1
