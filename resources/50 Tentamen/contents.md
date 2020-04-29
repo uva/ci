@@ -25,7 +25,7 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
 ## Voorbeeldvragen
 De vragen lijken op de coneptvragen die je in dit vak bent tegengekomen (in de opdrachten en colleges). Je krijgt open vragen waarin je begrip van de stof wordt getoetst. Vaak is de redenering belangrijker dan het eindantwoord.
 
-Hieronder twee voorbeelden van het soort vragen die je zou kunnen verwachten.
+Hieronder een paar voorbeelden van het soort vragen die je zou kunnen verwachten.
 
 ### Vraag
 Als we een nieuwe maat bedenken die berekend wordt als TF/IDF (TF gedeeld door IDF), wat zegt deze maat dan?
