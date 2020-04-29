@@ -22,54 +22,53 @@ grades:
         type: float
         subgrades:
             check50: integer
-            open: integer
+            openv: integer
             late: boolean
             cap: float
         automatic:
-            check50: correctness_score * 29
-        calculation: late != 0 && [9.0 * (check50 + open) / 56.0 + 1, cap].min || 9.0 * (check50 + open) / 56.0 + 1
-    celp_prototype:
-        type: float
+            check50: correctness_score * 25
+        calculation: late != 0 && [4.0 * (check50 / 25.0) + 5.0 * (openv / 32.0) + 1, cap].min || [4.0 * (check50 / 25.0) + 5.0 * (openv / 32.0) + 1, 10.0].min
+
     tentamen:
         type: float
         subgrades:
             points: integer
-        calculation: "[(4.5 / 19.0 * points + 10 - 36 * 4.5 / 19).round(1), 1].max"
+        calculation: points/10 + 1
         hide_calculated: false
     hertentamen:
         type: float
         subgrades:
             points: integer
-        calculation: "[(4.5 / 19.0 * points + 10 - 36 * 4.5 / 19).round(1), 1].max"
+        calculation: points/10 + 1
         hide_calculated: false
 
-calculation:
-    resit:
-        hertentamen: 30
-        project: 40
-        assignments: 30
-    normal:
-        tentamen: 30
-        project: 40
-        assignments: 30
-
-assignments:
-    minimum: 5.5
-    submits:
-        extracting_information: 10
-        collaborative_filtering: 10
-        content_based_filtering: 10
-
-tentamen:
-    minimum: 5.5
-    submits:
-        tentamen: 1
-
-hertentamen:
-    minimum: 5.5
-    submits:
-        hertentamen: 1
-
-project:
-    submits:
-        celp_prototype: 1
+# calculation:
+#     resit:
+#         hertentamen: 30
+#         project: 40
+#         assignments: 30
+#     normal:
+#         tentamen: 30
+#         project: 40
+#         assignments: 30
+#
+# assignments:
+#     minimum: 5.5
+#     submits:
+#         module_1: 10
+#         module_2: 10
+#         module_3: 10
+#
+# tentamen:
+#     minimum: 5.5
+#     submits:
+#         tentamen: 1
+#
+# hertentamen:
+#     minimum: 5.5
+#     submits:
+#         hertentamen: 1
+#
+# project:
+#     submits:
+#         celp_prototype: 1

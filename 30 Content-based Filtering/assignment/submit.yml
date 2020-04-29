@@ -2,6 +2,7 @@ name: module_3
 files:
     required:
         - "module 3.ipynb"
-check:
-    tool: check50
-    slug: uva/ci_checks/2020/mod3
+#check:
+#    tool: check50
+#    slug: uva/ci_checks/2020/mod3
+# check50 werkt niet
