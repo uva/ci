@@ -18,16 +18,8 @@ Als je vragen hebt over het tentamen kan je die **als privévraag** stellen op E
 
 De laatste vraag (vraag 5) is aanzienlijk langer dan de andere vragen. Hou hier rekening mee met je planning.
 
-## Vraag 1
-
-## Vraag 2
-
-## Vraag 3
-
-## Vraag 4
-
-## Vraag 5
-
+## download
+Download het tentamen hier: (vanaf 11:00)
 
 ## Submit
 

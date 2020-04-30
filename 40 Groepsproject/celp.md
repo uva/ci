@@ -1,4 +1,4 @@
-# Groepsopdracht: Celp
+# Oude opdracht Groepsopdracht: Celp
 
 ### Beschrijving project
 De beoogde uitkomst van het groepsproject is een onderbouwd voorstel voor een recommender system voor Yelp.
