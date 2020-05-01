@@ -17,7 +17,7 @@ De dataset staat hier beschreven:
 
 Deze dataset is enorm. Om het iets behapbaarder te maken hebben we een variant van de dataset gegenereerd waarin we de data per stad hebben opgeslitst. Je kan je met deze data dus in eerste instantie focussen op een kleinere stad voor je het voor de hele wereld gaat testen. Je kan deze set hier downloaden:
 
-[Yelp opgesplitste dataset download (4.5GB)](https://surfdrive.surf.nl/files/remote.php/webdav/yelp.zip)
+[Yelp opgesplitste dataset download (4.5GB)](https://surfdrive.surf.nl/files/index.php/s/d9QtNlGNbYuUnpT/download)
 
 ## Opzet
 
