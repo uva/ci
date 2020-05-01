@@ -33,7 +33,6 @@ Je bent heel vrij in de concrete invulling. Er zijn wel een paar minimale eisen 
     - etc.
 
 Het project bestaat uit drie fases:
-
     - Analyse: Hoe ziet de data er uit? Welke features heb je? Hoe zijn deze gecodeerd? Hoe zijn de reviews verdeeld? Hoe dicht is de data? Hoe goed verwacht je dat bepaalde algoritmes gaan werken?
     - Implementatie: Hierin ga je de algoritmes uitprogrammeren.
     - Evaluatie: Welke algoritme werkt het beste? Voor welk deel van de data? Wat zijn de optimale parameters? Sluit dit aan bij je verwachtingen in de analyse? Waarom (niet)?
