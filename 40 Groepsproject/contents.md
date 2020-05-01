@@ -24,6 +24,7 @@ Deze dataset is enorm. Om het iets behapbaarder te maken hebben we een variant v
 Je gaat met je groep minstens twee verschillende algoritmes uitproberen. Het handigste is om je groepje op te splitsen in twee subgroepen die beide een algoritme implementeren (je moet elkaar daarbij wel helpen natuurlijk).
 
 Je bent heel vrij in de concrete invulling. Er zijn wel een paar minimale eisen waaraan je project moet voldoen:
+
 - Minstens één van de twee algoritmes moet een content-based filtering algoritme zijn.
 - Je moet minstens 2 verschillende evaluatiematen gebruiken voor het vergelijken van de algoritmes.
 - Er moet één techniek zijn die we nog niet gebruikt hebben bij de opdrachten. Dit kan van alles zijn. Bijvoorbeeld:
@@ -33,15 +34,17 @@ Je bent heel vrij in de concrete invulling. Er zijn wel een paar minimale eisen 
     - etc.
 
 Het project bestaat uit drie fases:
-    - Analyse: Hoe ziet de data er uit? Welke features heb je? Hoe zijn deze gecodeerd? Hoe zijn de reviews verdeeld? Hoe dicht is de data? Hoe goed verwacht je dat bepaalde algoritmes gaan werken?
-    - Implementatie: Hierin ga je de algoritmes uitprogrammeren.
-    - Evaluatie: Welke algoritme werkt het beste? Voor welk deel van de data? Wat zijn de optimale parameters? Sluit dit aan bij je verwachtingen in de analyse? Waarom (niet)?
+
+- Analyse: Hoe ziet de data er uit? Welke features heb je? Hoe zijn deze gecodeerd? Hoe zijn de reviews verdeeld? Hoe dicht is de data? Hoe goed verwacht je dat bepaalde algoritmes gaan werken?
+- Implementatie: Hierin ga je de algoritmes uitprogrammeren.
+- Evaluatie: Welke algoritme werkt het beste? Voor welk deel van de data? Wat zijn de optimale parameters? Sluit dit aan bij je verwachtingen in de analyse? Waarom (niet)?
 
 Voor elke fase schrijf je een kort verslag en aan het einde van het project geef je een eindpresentatie van 15 minuten waarin je laat zien wat je gedaan hebt. **Voor elk verslag krijg je een [concrete lijst met vragen](#verslagen) die je moet beantwoorden. Kijk daar dus eerst goed naar voor je aan de slag gaat met programmeren.**
 
 Je hebt effectief maar twee weken hiervoor (de eerste en laatste week zijn maar halve weken). Dit betekent dat je niet veel tijd hebt voor elke fase. Dus we hanteren een strakke planning.
 
 ## Organisatie
+
 - Elke week is er een deadline voor een deelverslag.
 - Iedere groep heeft wordt ingedeeld bij een eigen assistent. Deze assistent kan je helpen met technische problemen. **Je wordt verwacht minstens één keer per week een half uur met de assistent af te spreken.** Zelfs als je geen concrete vragen hebt.
 - Er is een tussenbespreking met de docent voor het vak, waarin je laat zien wat je tot dan toe gedaan hebt.
@@ -50,10 +53,12 @@ Je hebt effectief maar twee weken hiervoor (de eerste en laatste week zijn maar 
 ## Beoordeling
 
 Je cijfer wordt gevormd op basis van:
+
 - de drie tussenverslagen
 - de eindpresentatie
 
 Verder verwachten we dat je:
+
 - elke week minstens één keer een half uur met de assistent afspreekt (waarbij iedereen uit de groep aanwezig is)
 - een tussenbespreking met de docent hebt gehad (waarbij iedereen uit de groep aanwezig is)
 - aan het einde van het project de code inlevert (dit is alleen ter verificatie, hier wordt je niet op beoordeeld)
