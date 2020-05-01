@@ -60,10 +60,10 @@ Je krijgt als groep een gezamelijk cijfer. We verwachten dat iedereen een gelijk
 | deel 1 (6 - 8 mei)   | *geen les* | *geen les*          |                         |             | deadline verslag deel 1 |
 | deel 2 (11 - 15 mei) |            | tussenbesprekingen  | tussenbesprekingen      |             | deadline verslag deel 2 |
 | deel 3 (18 - 20 mei) |            | eindpresentaties    | eindpresentaties        | *geen les*  | *geen les*              |
-|                      |            | eindpresentaties    | deadline verslag deel 3 |             |                         |
+|                      |            |                     | deadline verslag deel 3 |             |                         |
 
 ## Verslagen
 
-- (Verslag deel 1)[/groepsproject/verslag_1]
+- [Verslag deel 1](/groepsproject/verslag-1)
 - Verslag deel 2
 - Verslag deel 3
