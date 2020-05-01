@@ -9,6 +9,16 @@ Yelp gaat een persoonlijke landingspagina maken voor ingelogde gebruikers. Op de
 
 Jullie doel is onderzoeken welke strategiën hiervoor het meest geschikt zijn. Je gaat verschillende prototype recommender systems bouwen en testen welke aanpak het beste werkt. Hiervoor ga je gebruik maken van een bestaande Yelp dataset.
 
+## Dataset
+
+De dataset staat hier beschreven:
+
+[Yelp dataset documentatie](https://www.yelp.com/dataset/documentation/main)
+
+Deze dataset is enorm. Om het iets behapbaarder te maken hebben we een variant van de dataset gegenereerd waarin we de data per stad hebben opgeslitst. Je kan je met deze data dus in eerste instantie focussen op een kleinere stad voor je het voor de hele wereld gaat testen. Je kan deze set hier downloaden:
+
+[Yelp opgesplitste dataset download (4.5GB)](https://surfdrive.surf.nl/files/remote.php/webdav/yelp.zip)
+
 ## Opzet
 
 Je gaat met je groep minstens twee verschillende algoritmes uitproberen. Het handigste is om je groepje op te splitsen in twee subgroepen die beide een algoritme implementeren (je moet elkaar daarbij wel helpen natuurlijk).
@@ -45,15 +55,15 @@ Je cijfer wordt gevormd op basis van:
 - de eindpresentatie
 
 Verder verwachten we dat je:
-- elke week minstens één keer een half uur met de assistent afspreekt
-- een tussenbespreking met de docent hebt gehad
+- elke week minstens één keer een half uur met de assistent afspreekt (waarbij iedereen uit de groep aanwezig is)
+- een tussenbespreking met de docent hebt gehad (waarbij iedereen uit de groep aanwezig is)
 - aan het einde van het project de code inlevert (dit is alleen ter verificatie, hier wordt je niet op beoordeeld)
 
 Je krijgt als groep een gezamelijk cijfer. We verwachten dat iedereen een gelijkwaardige bijdrage levert.
 
-
 ## Planning
 
+Het schema voor de komende 3 weken ziet er als volg uit:
 
 |                      | ma         | di                  | wo                      | do          | vr                      |
 | -------------------- | ---------- | ------------------- | ----------------------- | ----------- | ----------------------- |
@@ -61,6 +71,8 @@ Je krijgt als groep een gezamelijk cijfer. We verwachten dat iedereen een gelijk
 | deel 2 (11 - 15 mei) |            | tussenbesprekingen  | tussenbesprekingen      |             | deadline verslag deel 2 |
 | deel 3 (18 - 20 mei) |            | eindpresentaties    | eindpresentaties        | *geen les*  | *geen les*              |
 |                      |            |                     | deadline verslag deel 3 |             |                         |
+
+Voor de tussenbesprekingen en eindpresentaties krijg je een link waarmee je zelf een geschikt moment kan inplannen. Voor het plannen van de meetings met de assistent kan je Ed gebruiken.
 
 ## Verslagen
 

@@ -5,7 +5,9 @@ Lees deze lijst met vragen goed door voor je aan de slag gaat. Lever je antwoord
 
 ### 1.0 Taakverdeling
 Wie doet wat?
-\[50 woorden\]
+
+Wees precies voor deze week en schets in grote lijnen de taakverdeling voor de volgende twee weken. Deel de groep bij voorkeur op in twee subgroepjes die beide een prototype-algoritme uitwerken. Bedenk dat er veel verschillende taken zijn: Er moet veel geschreven, geprogrammeerd en uitgezocht worden. Zorg ervoor dat het voor iedereen duidelijk is wie wat doet.
+\[max 150 woorden\]
 
 ### 1.1 Structuur
 
