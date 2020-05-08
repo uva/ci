@@ -11,11 +11,11 @@ Zijn er dingen veranderd ten op zichte van vorige week?
 Voor elk algoritme dat je implementeert beantwoorde de volgende vragen.
 
 **(a)**
-Beschrijf het algoritme. Het liefst met peudocode. Je kan een voorbeeld vinden van pseudocode in deze uitleg van K nearest neighbor: [knn](https://towardsdatascience.com/k-nearest-neighbours-introduction-to-machine-learning-algorithms-18e7ce3d802a). Dit is uiteraard niet jullie algoritme, maar geeft een idee van hoe goede pseudo code er uitziet.
+Beschrijf het algoritme. Het liefst met peudocode. Je kan een voorbeeld vinden van pseudocode in deze uitleg van het K-nearest-neighbor algoritme: [knn](https://towardsdatascience.com/k-nearest-neighbours-introduction-to-machine-learning-algorithms-18e7ce3d802a). Dit is uiteraard niet jullie algoritme, maar geeft een idee van hoe goede pseudocode er uitziet.
 
 Gebruik geen verwijzingen naar de programeertaal en/of libraries die je hebt gebruikt. Dit helpt de lezer niet bij het begrijpen van het algoritme.
 
-Geen maximaal aantal woorden, maar houd het beknopt. Als je een pseudoalgorimte van meer dan 15 stappen schrijft ben je waarschijnlijk teveel in detail aan het treden.
+\[Geen maximaal aantal woorden, maar houd het beknopt. Als je een pseudoalgorimte van meer dan 15 stappen schrijft ben je waarschijnlijk teveel in detail aan het treden.\]
 
 **(b)**
 Zijn er randgevallen waar je rekening mee moet houden? In welke stappen van de bovenstaande pseudode is dat? Hoe los je die gevallen op?
