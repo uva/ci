@@ -36,7 +36,7 @@ Maar wel: "Voor aanpak X was de data niet geschikt, want..., dus zijn we op aanp
 ### 2.2 Baseline
 Volgende week is de echte evaluatie. Maar nu vast een voorproefje.
 
-Maak een test en trainingsset. Hoe is de MSE over de voorspellingen van jouw algoritmes ten op zichte van de simpelste baseline: random voorspellingen.
+Maak een testset en bereken de MSE over de voorspellingen van jouw algoritmes. Hoe verhouden deze zich ten op zichte van de simpelste baseline: random voorspellingen?
 
 Het kan zijn dat jouw algoritme geen ratings voorspelt maar op een andere manier aanbevelingen doet. Dan is de MSE niet relevant. Gebruik dan een ander maat (precision, bijvoorbeeld).
 \[max 200 woorden per algoritme\]
