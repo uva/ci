@@ -1,0 +1,7 @@
+name: verslag3
+url: true
+files:
+    required:
+        - "verslag1.pdf"
+        - "verslag2.pdf"
+        - "verslag3.pdf"

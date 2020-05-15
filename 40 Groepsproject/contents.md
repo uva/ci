@@ -82,4 +82,4 @@ Voor de tussenbesprekingen en eindpresentaties krijg je een link waarmee je zelf
 
 - [Verslag deel 1](/groepsproject/verslag-1)
 - [Verslag deel 2](/groepsproject/verslag-2)
-- Verslag deel 3
+- [Verslag deel 3](/groepsproject/verslag-3)
