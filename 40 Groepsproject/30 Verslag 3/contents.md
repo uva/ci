@@ -8,7 +8,7 @@ Zijn er dingen veranderd ten op zichte van vorige week?
 \[max 150 woorden\]
 
 ### 3.1 Methode
-Leg uit hoe je de algoritmes hebt geëvalueerd. Probeer hierbij genoeg informatie te geven om de lezer in staat te stellen om jouw resultaten te reproduceren. Denk hierbij onder andere aan de volgende vragen: Welke maten gebruik je? Wat zeggen deze maten over de resultaten? Heb je de maten toegepast op de hele dataset of op een subset? In het laatste geval, welke subset? Als van toepassing, hoe heb je een testset gegenereerd? Hoe groot is de testset, hoe groot is de traingingset? Welke baseline(s) gebruik je om mee te vergelijken?
+Leg uit hoe je de algoritmes hebt geëvalueerd. Probeer hierbij genoeg informatie te geven om de lezer in staat te stellen om jouw resultaten te reproduceren. Denk hierbij onder andere aan de volgende vragen: Welke evaluatiematen gebruik je? Heb je de maten toegepast op de hele dataset of op een subset? In het laatste geval, welke subset? Als van toepassing, hoe heb je een testset gegenereerd? Hoe groot is de testset, hoe groot is de traingingset? Welke baseline(s) gebruik je om mee te vergelijken?
 
 \[max 500 woorden\]
 
@@ -18,7 +18,8 @@ Laat de resultaten zien. Als je plots gebruikt, leg deze uit. Zorg ervoor dat de
 \[max 300 woorden\]
 
 ### 3.3 Bespreking
-Interpreteer de resultaten. Wat zeggen de resultaten over het algoritmes? Doen ze het beter dan de baseline? Is er een algoritme dat duidelijk beter dan de ander? Als er een verschil is, waardoor komt dat?   
+Interpreteer de resultaten: Wat zeggen de resultaten over het algoritmes? Doen ze het beter dan de baseline? Is er een algoritme dat duidelijk beter dan de ander? Als er een verschil is, waardoor komt dat? Wat betekenen de resultaten voor de doelen van Yelp zoals beschreven aan het begin van de opdracht?
+
 \[max 500 woorden\]
 
 ## Submit
