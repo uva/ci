@@ -41,3 +41,27 @@ grades:
         subgrades:
             points: integer
         calculation: points/10 + 1
+
+calculation:
+    eindcijfer:
+        tentamen: 0
+        modules: 1
+        project: 1
+    herkansingscijfer:
+        hertentamen: 0
+        modules: 1
+        project: 1
+
+tentamen:
+    submits:
+        tentamen: 1
+    required: true
+
+modules:
+    submits:
+        module_1: 1
+    minimum: 5.5
+
+project:
+    submits:
+        bla
