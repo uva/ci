@@ -45,11 +45,11 @@ grades:
 calculation:
     eindcijfer:
         tentamen: 0
-        modules: 1
+        mods: 1
         project: 1
     herkansingscijfer:
         hertentamen: 0
-        modules: 1
+        mods: 1
         project: 1
 
 tentamen:
@@ -57,7 +57,7 @@ tentamen:
         tentamen: 1
     required: true
 
-modules:
+mods:
     submits:
         module_1: 1
     minimum: 5.5
