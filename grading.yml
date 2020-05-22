@@ -55,7 +55,7 @@ calculation:
 tentamen:
     submits:
         tentamen: 1
-    required: true
+    required: true  # betekent dat "gehaald" moet zijn
 
 mods:
     submits:
