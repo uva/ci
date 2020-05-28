@@ -36,11 +36,11 @@ grades:
         calculation: points >= 45 && -1 || 0
         is_test: true
 
-    hertentamen:
+    project:
         type: float
-        subgrades:
-            points: integer
-        calculation: points/10 + 1
+
+    hertentamen:
+        type: pass
 
 calculation:
     eindcijfer:
@@ -60,8 +60,10 @@ tentamen:
 mods:
     submits:
         module_1: 1
+        module_2: 1
+        module_3: 1
     minimum: 5.5
 
 project:
     submits:
-        bla
+        project: 1
