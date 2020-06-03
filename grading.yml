@@ -59,7 +59,7 @@ tentamen:
 
 hertentamen:
     submits:
-        tentamen: 1
+        hertentamen: 1
     required: true  # betekent dat "gehaald" moet zijn
 
 
