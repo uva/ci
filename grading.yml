@@ -57,6 +57,12 @@ tentamen:
         tentamen: 1
     required: true  # betekent dat "gehaald" moet zijn
 
+hertentamen:
+    submits:
+        tentamen: 1
+    required: true  # betekent dat "gehaald" moet zijn
+
+
 mods:
     submits:
         module_1: 1
