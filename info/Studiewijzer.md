@@ -1,6 +1,6 @@
 # Collectieve Intelligentie<br><span class="small">Studiewijzer</span>
 
-*Versie: April 2020*
+*Versie: April 2021*
 
 Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
@@ -10,7 +10,7 @@ In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken
 Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
 
 Simon Pauw  
-*docent*  
+*docent/coördinator*  
 
 Martijn Stegeman  
 *examinator*  
@@ -26,14 +26,14 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Weken  | Activiteit    | Deadline            |
 | ------ | ------------- | ------------------- |
 | Week 1 | Module 1      |                     |
-| Week 2 | Module 1/2    | Module 1, wo 8 apr  |
-| Week 3 | Module 2/3    | Module 2, vr 17 apr |
-| Week 4 | Module 3      | Module 3, vr 24 apr |
-| Week 5 | Take-home tentamen | do 30 apr     |
-| Week 6 | Groepsproject | Tussenrapport 1, vr 8 mei  |
-| Week 7 | Groepsproject | Tussenrapport 2, vr 15 mei |
-| Week 8 | Groepsproject | Eindrapport, wo 20 mei     |
-| Week 9 | Hertentamen   | ma 25 mei           |
+| Week 2 | Module 1/2    | Module 1, wo 7 apr  |
+| Week 3 | Module 2/3    | Module 2, vr 16 apr |
+| Week 4 | Module 3      | Module 3, vr 23 apr |
+| Week 5 | Take-home tentamen | do 29 apr     |
+| Week 6 | Groepsproject | Tussenrapport 1, wo 12 mei  |
+| Week 7 | Groepsproject | Tussenrapport 2, vr 21 mei |
+| Week 8 | Groepsproject | Eindrapport, vr 28 mei     |
+| Week 9 | Hertentamen   | ma 27 mei           |
 
 ## Beoordeling
 
@@ -52,30 +52,35 @@ Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemi
 
 ## Begeleiding
 
-Er is veel online hulp beschibaar voor dit vak. In eerste instantie gaat de hulp via het discussieplatform [Ed](https://us.edstem.org/courses/347/discussion/). Je ontvangt hiervoor een uitnodiging bij de start van het vak. Probeer hier je vraag zo duidelijk mogelijk te formuleren. Gebruik hierbij fragmenten van je code, maar copiëer nooit de hele code (anders maak je het je medestudenten te makkelijk om deze te kopiëren).
+Er is veel online hulp beschibaar voor dit vak. Er zijn twee manieren waarop je hulp kunt krijgen:
 
-Als je er via Ed niet uitkomt kan je een afspraak inplannen met een assistent: [Zoom](https://calendly.com/collectieve-intelligentie/assistentie)
+Ten eerste gebruiken we het discussieplatform Ed voor dit vak. Probeer hier je vraag zo duidelijk mogelijk te formuleren. Gebruik hierbij fragmenten van je code, maar copiëer nooit de hele code (anders maak je het je medestudenten te makkelijk om deze te kopiëren). Je kan je met de hier aanmelden (met je UvA-mail) voor het forum: [aanmelden](https://edstem.org/us/join/yxJzhV). Vervolgens kan je het forum zelf hier vinden: [forum bekijken](https://edstem.org/us/courses/5200/discussion/)
 
-Tijdens het project krijg je een assistent toegewezen die je kan helpen. Je kan hiermee Zoom afspraken inplannen. Het is de bedoeling dat je tijdens het groepsproject in ieder geval één keer per week met de assistent afspreekt om je voortgang te bespreken.
+Als je er via Ed niet uitkomt kan je een afspraak inplannen met een assistent kan je ook vragen stellen tijdens de online practica. Hiervoor gebruiken we het platform wonder.me: [practicum](https://www.wonder.me/r?id=6b08457c-4080-4a85-b315-92a5a4fe92c4).
 
-### Bezetting zoom/ed:
-Je kan hieronder vinden op welke tijden er Zoom-hulp aanwezig is:
+### Bezetting wonder/ed:
+Je kan hieronder vinden op welke tijden er hulp aanwezig is. Op deze tijden is er hulp aanwezig van assistenten op wonder.me en wordt ook het Ed-forum actief bijgehouden.
 
 |         | ma        | di                  | wo        | do        | vr                  |
 | tijd    |           |                     |           |           |                     |
 | ------- | --------- | ------------------- | --------- | --------- | ------------------- |
-| 09 - 11 |           |                     |           |           |                     |
+| 09 - 11 |           |                     | elke week |           |                     |
 | 11 - 13 | elke week | week 16, 20, 21     | elke week | elke week | week 16, 17, 19, 20 |
 | 13 - 15 | elke week | elke week           | elke week | elke week | elke week           |
 | 15 - 17 | elke week | week 14, 15, 17, 21 | elke week | elke week | week 14, 16,17, 19  |
 
-Je kan op Ed altijd vragen stellen, ook buiten de boevengenoemde tijden, maar dit zijn ook voor Ed de momenten waarop je het snelste antwoord kan verwachten.
+Op college vrije dagen is er uiteraard ook geen hulp aanwezig. Dat gaat om:
+- goede vrijdag: 2 april
+- pasen: 5 april
+- week van koningsdag + week van tussentoets + vakantieweek: 26 april - 7 mei
+- hemelvaart: 13, 14 mei
+- pinksteren: 24 mei
 
 ## Hoorcolleges
 
-Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
+Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk. Vanwege de Covid-19 maatregelen bestaan de colleges uit een combinatie van video's en live zoom-colleges.
 
-De technische colleges bestaan uit instructievideo's.
+De technische colleges bestaan voornamelijk uit instructievideo's.
 
 De vorm van de gastcolleges zal gedurende het vak duidelijker worden.
 
@@ -118,6 +123,12 @@ Voor dit project krijg je cijfer per groep een gezamelijk cijfer. Dit cijfer is 
 - de tussenrapporten
 - de ingeleverde code
 - de eindpresentatie
+
+## Literatuur
+
+Voor het leren van de Python library Pandas gebruiken we het boek: _Python for Data Analysis_ van Wes McKinney. Dit boek is niet in z'n geheel te downlaoden, maar het relevante hoofstuk (5) zal worden gemaild bij aanvang van het vak.
+
+De inhoud van dit vak is gebaseerd op: _Recommender Systems Handbook_ van Francesco Ricci, Lior Rokach, Bracha Shapira en Paul B. Kantor. Dit is geen verplichte literatuur, maar als je meer wilt weten over recommender systems kan ik het van harte aanbevelen. Het kan ook een goede inspiratiebron zijn voor het eindproject. Je kan het boek gratis via de UvA Bibliotheek downloaden: https://link-springer-com.proxy.uba.uva.nl:2443/book/10.1007%2F978-1-4899-7637-6
 
 ## Samenwerken, fraude en plagiaat
 
