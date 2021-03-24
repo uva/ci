@@ -71,7 +71,8 @@ Je kan in het rooster hieronder vinden op welke tijden er hulp aanwezig is. Op d
 
 De extra practica zijn als extra hulpmommenten bovenop de reguliere practica in Datanose gepland. Je kan deze gewoon bezoeken als je vragen hebt. **Ga hier alleen heen als je geen activiteiten voor een ander vak heb.**
 
-Op college vrije dagen is er uiteraard ook geen hulp aanwezig. Dat gaat om:
+Op college vrije dagen is er uiteraard ook geen hulp aanwezig. Dit gaat om de volgende dagen:
+
 - goede vrijdag: 2 april
 - pasen: 5 april
 - week van koningsdag + week van tussentoets + vakantieweek: 26 april - 7 mei
