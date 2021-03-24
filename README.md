@@ -82,9 +82,17 @@ Op college vrije dagen is er uiteraard ook geen hulp aanwezig. Dat gaat om:
 
 Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk. Vanwege de Covid-19 maatregelen bestaan de colleges uit een combinatie van video's en live zoom-colleges.
 
-De technische colleges bestaan voornamelijk uit instructievideo's.
+De video's staan gelinkt in de opdracht.
 
-De vorm van de gastcolleges zal gedurende het vak duidelijker worden.
+Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier kan nog verandering in komen.**):
+
+| Datum          | Onderwerp     | Docent |
+| -------------- | ------------- |        |
+| di 3 april     | Introductie   | Simon Pauw |
+| di 6 april     | Similarities  | Simon Pauw |
+| di 13 april    | Recommender systems voor Randstad en ethiek | David Graus |
+| di 20 april    | Zorgen recommender systems voor filter bubbles? | Felicia Loerbach |
+| vr 23 april    | Recommender systems in de praktijk (bij Spotify en Booking.com) | Brammert Ottens |
 
 ## Opdrachten
 
