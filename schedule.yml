@@ -1,12 +1,22 @@
 Voorbereidingen:
     Lees nog even goed de studiewijzer: /
 "Week 1: Extracting data":
-    Inleiding:
+    Introductie:
         Wat zijn recommender systems [video]: /lectures/introductie
         Wat kun je verwachten [video]: /lectures/vakopzet
         Inleiding Pandas [video]: /lectures/pandas
     Opdracht:
         Extracting Data: /extracting-data/assignment
-    Wat is dit:
-        Collaborative filtering [video]: /lectures/collaborative-filtering-1
+    Gastcollege:
         Personalisatie bij de Volkskrant [video]: /lectures/anne-schuth
+    Vooruitblik:
+        Collaborative filtering [video]: /lectures/collaborative-filtering-1
+"Week 2: Collaborative filtering":
+    Introductie:
+        Leer over collaborative filtering (herhaling vorige week): /lectures/collaborative-filtering-1
+        Leer hoe je collaborative filtering implementeert: /lectures/collaborative-filtering-2
+        Leer hoe je recommender systems evalueert: /lectures/evaluatie
+    Opdracht:
+        Implementeer collaborative filtering: /collaborative-filtering/assignment
+    Gastcollege:
+        Recommender systems bij RTL: /lectures/daan-odijk
