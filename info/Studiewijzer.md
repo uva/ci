@@ -58,16 +58,18 @@ Ten eerste gebruiken we het discussieplatform Ed voor dit vak. Probeer hier je v
 
 Als je er via Ed niet uitkomt kan je een afspraak inplannen met een assistent kan je ook vragen stellen tijdens de online practica. Hiervoor gebruiken we het platform wonder.me: [practicum](https://www.wonder.me/r?id=6b08457c-4080-4a85-b315-92a5a4fe92c4).
 
-### Bezetting wonder/ed:
-Je kan hieronder vinden op welke tijden er hulp aanwezig is. Op deze tijden is er hulp aanwezig van assistenten op wonder.me en wordt ook het Ed-forum actief bijgehouden.
+### Rooster:
+Je kan in het rooster hieronder vinden op welke tijden er hulp aanwezig is. Op de tijden van het (extra) practicum is er hulp aanwezig van assistenten op wonder.me en wordt ook het Ed-forum actief bijgehouden.
 
-|         | ma        | di                  | wo        | do        | vr                  |
-| tijd    |           |                     |           |           |                     |
-| ------- | --------- | ------------------- | --------- | --------- | ------------------- |
-| 09 - 11 |           |                     | elke week |           |                     |
-| 11 - 13 | elke week | week 16, 20, 21     | elke week | elke week | week 16, 17, 19, 20 |
-| 13 - 15 | elke week | elke week           | elke week | elke week | elke week           |
-| 15 - 17 | elke week | week 14, 15, 17, 21 | elke week | elke week | week 14, 16,17, 19  |
+|         | ma    | di              | wo              | do              | vr              |
+| tijd    |       |                 |                 |                 |                 |
+| ------- | ----- | --------------- | --------------- | --------------- | --------------- |
+| 09 - 11 |       |                 | practicum       |                 | practicum       |
+| 11 - 13 |       | extra practicum | extra practicum | extra practicum | hoorcollege     |
+| 13 - 15 |       | hoorcollege     | extra practicum | extra practicum | practicum       |
+| 15 - 17 |       | extra practicum | practicum       | extra practicum | extra practicum |
+
+De extra practica zijn als extra hulpmommenten bovenop de reguliere practica in Datanose gepland. Je kan deze gewoon bezoeken als je vragen hebt. **Ga hier alleen heen als je geen activiteiten voor een ander vak heb.**
 
 Op college vrije dagen is er uiteraard ook geen hulp aanwezig. Dat gaat om:
 - goede vrijdag: 2 april
