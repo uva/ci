@@ -2,7 +2,7 @@
 
 Je gaat bij dit vak leren hoe recommenders systems werken. Een recommender system is een verzameling algoritmes die door websites zoals Facebook, Netflix, Amazon, de Volkskrant en vele ander worden gebruikt voor het aanbevelen van artikelen/films/producten die jij mogelijk interessant zou kunnen vinden.
 
-Dit is de eerste module van dit vak. De module bestaat uit een aantal collegevideo's en een opdracht. **De deadline voor de opdracht is woensdag 8 april.**
+Dit is de eerste module van dit vak. De module bestaat uit een aantal collegevideo's en een opdracht. **De deadline voor de opdracht is woensdag 7 april.**
 
 In deze module ga je leren hoe je de python library, Pandas, kan gebruiken voor het inlezen, manipuleren en analyseren van data.
 
@@ -19,3 +19,5 @@ In deze module ga je leren hoe je de python library, Pandas, kan gebruiken voor 
 1. <span class="badge badge-primary">Assignment</span> Leer data manipuleren in Python met Pandas: [Module 1 notebook](/extracting-data/assignment/)
 
 1. Kijkje vooruit. Volgende week ga je aan de slag met Collaborative Filtering. Bekijk hier vast hoe dat werkt: [Collaborative Filtering (deel 1/2)](/lectures/collaborative-filtering-1)
+
+1. <span class="badge badge-primary">Lecture</span> Kijk het videocollege van Anne Schuth over Personalisatie bij de Volkskrant: [Anne Schuth](/lectures/anne-schuth)
