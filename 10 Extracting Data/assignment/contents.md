@@ -6,11 +6,11 @@ Deze opdracht maak je in een [jupyter notebook](https://jupyter.org/). Als je di
 
 Als je anaconda al had geïnstalleerd, is het belangrijk dat alles up to date is. Je moet minstens versie 3.6.1 van Python draaien en versie 1.0 van Pandas. Als je een oudere versie van Pandas hebt update deze dan:
 
-        conda update pandas
+    conda update pandas
 
-    of
+of
 
-        pip install --upgrade pandas
+    pip install --upgrade pandas
 
 ## Download
 

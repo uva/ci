@@ -20,3 +20,6 @@ Voorbereidingen:
         Implementeer collaborative filtering: /collaborative-filtering/assignment
     Gastcollege:
         Recommender systems bij RTL: /lectures/daan-odijk
+"Week 3: Content-based filtering":
+    Opdracht:
+        Implementeer content based filtering: /content-based-filtering/assignment
