@@ -64,12 +64,14 @@ Je kan in het rooster hieronder vinden op welke tijden er hulp aanwezig is. Op d
 |         | ma    | di              | wo              | do              | vr              |
 | tijd    |       |                 |                 |                 |                 |
 | ------- | ----- | --------------- | --------------- | --------------- | --------------- |
-| 09 - 11 |       |                 | practicum       |                 | practicum       |
-| 11 - 13 |       | extra practicum | extra practicum | extra practicum | hoorcollege     |
-| 13 - 15 |       | hoorcollege     | extra practicum | extra practicum | practicum       |
-| 15 - 17 |       | extra practicum | practicum       | extra practicum | extra practicum |
+| 09 - 11 | extra practicum |                             | practicum       |                 | practicum                       |
+| 11 - 13 | extra practicum | extra practicum             | extra practicum | extra practicum | hoorcollege/extra practicum     |
+| 13 - 15 | extra practicum | hoorcollege/extra practicum | extra practicum | extra practicum | practicum                       |
+| 15 - 17 | extra practicum |                             | practicum       | extra practicum | extra practicum                 |
 
-De extra practica zijn als extra hulpmommenten bovenop de reguliere practica in Datanose gepland. Je kan deze gewoon bezoeken als je vragen hebt. **Ga hier alleen heen als je geen activiteiten voor een ander vak heb.**
+De extra practica zijn als extra hulpmommenten bovenop de reguliere practica gepland. Je kan deze gewoon bezoeken als je vragen hebt. **Ga hier alleen heen als je geen activiteiten voor een ander vak heb.**
+
+Op de dinsdagen en vrijdagen is er niet altijd een hoorcollege (zie kopje Hoorcolleges hieronder). Als er geen hoorcollege is er in de plaats daarvan een practicum.
 
 Op college vrije dagen is er uiteraard ook geen hulp aanwezig. Dit gaat om de volgende dagen:
 
@@ -90,9 +92,8 @@ Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier kan nog veran
 | Datum          | Onderwerp     | Docent |
 | -------------- | ------------- |        |
 | di 3 april     | Introductie   | Simon Pauw |
-| di 6 april     | Similarities  | Simon Pauw |
-| di 13 april    | Recommender systems voor Randstad en ethiek | David Graus |
-| di 20 april    | Zorgen recommender systems voor filter bubbles? | Felicia Loerbach |
+| di 13 april    | Ethische (?) recommender systems voor Randstad uitzenbureau | David Graus |
+| di 20 april    | Creëren recommender systems filter bubbles? | Felicia Loerbach |
 | vr 23 april    | Recommender systems in de praktijk (bij Spotify en Booking.com) | Brammert Ottens |
 
 ## Opdrachten
