@@ -16,13 +16,13 @@ Voorbereidingen:
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /collaborative-filtering
     Uitleg:
-        Leer over collaborative filtering (herhaling vorige week): /lectures/collaborative-filtering-1
-        Leer hoe je collaborative filtering implementeert: /lectures/collaborative-filtering-2
-        Leer hoe je recommender systems evalueert: /lectures/evaluatie
+        Leer over collaborative filtering (herhaling vorige week) [video]: /lectures/collaborative-filtering-1
+        Leer hoe je collaborative filtering implementeert [video]: /lectures/collaborative-filtering-2
+        Leer hoe je recommender systems evalueert [video]: /lectures/evaluatie
     Opdracht:
         Implementeer collaborative filtering: /collaborative-filtering/assignment
     Gastcollege:
-        Recommender systems bij RTL: /lectures/daan-odijk
+        Recommender systems bij RTL [video]: /lectures/daan-odijk
 "Module 3: Content-based filtering":
     Wat ga je doen?: /content-based-filtering
     Opdracht:
