@@ -92,8 +92,8 @@ Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier kan nog veran
 | Datum          | Onderwerp     | Docent |
 | -------------- | ------------- |        |
 | di 13 april    | Ethische (?) recommender systems voor Randstad uitzenbureau | David Graus |
+| vr 16 april    | Recommender systems in de praktijk (bij Spotify en Booking.com) | Brammert Ottens |
 | di 20 april    | Creëren recommender systems filter bubbles? | Felicia Loerbach |
-| vr 23 april    | Recommender systems in de praktijk (bij Spotify en Booking.com) | Brammert Ottens |
 
 ## Opdrachten
 
