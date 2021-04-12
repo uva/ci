@@ -15,8 +15,8 @@ grades:
             openv: integer
             late: boolean
             cap: float
-        automatic:
-            check50: correctness_score * 25
+        # automatic:
+        #     check50: correctness_score * 25
         calculation: late != 0 && [4.0 * (check50 / 25.0) + 5.0 * (openv / 32.0) + 1, cap].min || [4.0 * (check50 / 25.0) + 5.0 * (openv / 32.0) + 1, 10.0].min
     module_3:
         type: float
@@ -25,8 +25,8 @@ grades:
             openv: integer
             late: boolean
             cap: float
-        automatic:
-            check50: correctness_score * 10
+        # automatic:
+        #     check50: correctness_score * 10
         calculation: late != 0 && [4.0 * (check50 / 9.0) + 5.0 * (openv / 11.0) + 1, cap].min || [4.0 * (check50 / 9.0) + 5.0 * (openv / 11.0) + 1, 10.0].min
 
     tentamen:
