@@ -1,4 +1,11 @@
-# Deel 3: Evaluatie
+# Deel 2: Evaluatie
+
+<!--
+Maak een testset en bereken de MSE over de voorspellingen van jouw algoritmes. Hoe verhouden deze zich ten op zichte van de simpelste baseline: random voorspellingen?
+
+Het kan zijn dat jouw algoritme geen ratings voorspelt maar op een andere manier aanbevelingen doet. Dan is de MSE niet relevant. Gebruik dan een ander maat (precision, bijvoorbeeld).
+\[max 200 woorden per algoritme\] -->
+
 Lever je antwoorden (als .pdf) onderaan deze pagina in. **Eén submit per groep.**
 
 **Deadline: woensdag 20 mei**
@@ -24,4 +31,4 @@ Interpreteer de resultaten: Wat zeggen de resultaten over het algoritmes? Doen z
 
 ## Submit
 
-Lever hieronder dit verslag **plus de eerdere twee** verslagen. Lever ook je code in, het liefst als GitHub link. Als je geen GitHub hebt gebruikt kan je ook een link naar een zip-file meegeven. In het laaste geval graag een zip met alleen de code en **zonder de yelp-data**, anders wordt het bestand te groot. Zet de namen van alle groepsleden op de verslagen. Laat één persoon alles inleveren namens de hele groep.
+Lever hieronder dit **plus het vorige** verslag in. Lever ook je code in, het liefst als GitHub link. Als je geen GitHub hebt gebruikt kan je ook een link naar een zip-file meegeven. In het laaste geval graag een zip met alleen de code en **zonder de yelp-data**, anders wordt het bestand te groot. Zet de namen van alle groepsleden op de verslagen. Laat één persoon alles inleveren namens de hele groep.

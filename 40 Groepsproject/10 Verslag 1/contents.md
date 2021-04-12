@@ -1,73 +1,87 @@
-# Deel 1: Analyse
+# Deel 1: Analyse en Implementatie
 Lees deze lijst met vragen goed door voor je aan de slag gaat. Lever je antwoorden (als .pdf) onderaan deze pagina in. **Eén submit per groep.**
 
-**Deadline: vrijdag 8 mei**
+**Deadline: maandag 17 mei**
 
-### 1.0 Taakverdeling
+Houd de volgende indeling aan voor het verslag. Zorg ervoor dat je verhaal in ieder geval de genoemde vragen beantwoordt.
+
+### 1.0 Taakverdeling \[max 150 woorden\]
 Wie doet wat?
 
-Wees precies voor deze week en schets in grote lijnen de taakverdeling voor de volgende twee weken. Deel de groep bij voorkeur op in twee subgroepjes die beide een prototype-algoritme uitwerken. Bedenk dat er veel verschillende taken zijn: Er moet veel geschreven, geprogrammeerd en uitgezocht worden. Zorg ervoor dat het voor iedereen duidelijk is wie wat doet.
-\[max 150 woorden\]
+Wees precies voor deze week en schets in grote lijnen de taakverdeling. Deel de groep bij voorkeur op in twee subgroepjes die beide een prototype-algoritme uitwerken. Bedenk dat er veel verschillende taken zijn: Er moet veel geschreven, geprogrammeerd en uitgezocht worden. Zorg ervoor dat het voor iedereen duidelijk is wie wat doet.
 
-### 1.1 Structuur
+
+### 1.1 Beschrijving \[max 300 woorden\]
 
 **(a)**
 Hoe ziet de review data er uit? Welke features?
-\[max 100 woorden\]
 
 **(b)**
 Hoe ziet de user data er uit? Welke features?
-\[max 100 woorden\]
 
 **(c)**
 Hoe ziet de business data er uit? Welke features? Zijn er features die hetzelfde zijn voor alle businesses? Zijn er features die verschillen per business?
-\[max 100 woorden\]
 
-### 1.2 Plots
+### 1.2 Visualisatie \[max 300 woorden\]
 
 **(a)**
 Hoe zijn de reviews verdeeld? Maak plots en leg ze uit.
-\[max 100 woorden\]
 
 **(b)**
 Hoe zijn de features van de user data verdeeld? Maak plots en leg ze uit.
-\[max 100 woorden\]
 
 **(c)**
 Hoe zijn de features van de business data verdeeld? Maak plots en leg ze uit.
-\[max 100 woorden\]
 
-### 1.3 Verwachtingen
+### 1.3 Implementatie algoritmes \[max 1500 woorden\]
+Beschrijf het algoritme. Documenteer voor elk algoritme het volgende:
 
 **(a)**
-Verwacht je dat Collaborative Filtering (CF) goed werkt? Waarom wel/niet? Is user based of item based beter?
+Geef een kort intuitieve uitleg. Beantoord hierbij o.a.: Welke type algoritme is het (content based, collaborative filtering, iets heel anders...)? Welke aspecten (tabellen/features) van de data gebruikt het? Wat doet het algoritme ongeveer?
 \[max 150 woorden\]
 
 **(b)**
-Zo niet, is er een subset van de data waarvoor je wel verwacht dat CF werkt?
-\[max 150 woorden\]
+Geef een gedetaileerde beschrijving van het algoritme. Het liefst met peudocode. Je kan een voorbeeld vinden van pseudocode in deze uitleg van het K-nearest-neighbor algoritme: [knn](https://towardsdatascience.com/k-nearest-neighbours-introduction-to-machine-learning-algorithms-18e7ce3d802a). Dit is uiteraard niet jullie algoritme, maar geeft een idee van hoe goede pseudocode er uitziet.
+
+Gebruik geen verwijzingen naar de programeertaal en/of libraries die je hebt gebruikt. Dit helpt de lezer niet bij het begrijpen van het algoritme.
+
+De beschrijving van de algoritmes moet zodanig zijn dat een ervaren programmeur in staat is om het te implementeren.
 
 **(c)**
-Verwacht je dat Content-based Filtering (CbF) goed werkt? Waarom wel/niet?
-\[max 150 woorden\]
+Wat zijn technische moeilijkheden om rekening mee te houden? Gebruikt je algorithme bijhvoorbeeld features die niet altijd aanwezig zijn? Of, gebruik je bijvoorbeeld je NLP technieken gebruiken die niet altijd betrouwbaar zijn?
 
 **(d)**
-Welke features denk je dat nuttig kunnen zijn voor CbF? Waarom?
-\[max 150 woorden\]
+Zijn er randgevallen waar je rekening mee moet houden? In welke stappen van de bovenstaande pseudode is dat? Hoe los je die gevallen op?
 
-### 1.4 Plannen
+**(e)**
+Wat zijn de parameters van je algoritme? Hoe beïnvloeden deze parameters het algoritme? (Dit hoef je nu nog niet te testen, maar schrijf op wat je kan beredeneren.)
+
+Bijvoorbeeld: "Dit algoritme heeft treshold X. Als ik deze treshold een hogere waarde geef dan gaat het aantal false negatives naar beneden, maar dit gaat ten koste van..., want..."
+
+**(f)**
+Waren er problemen met het implementeren?
+
+Dus niet: "Ik vond het moeilijk om functie X te debuggen."
+Maar wel: "Voor aanpak X was de data niet geschikt, want..., dus zijn we op aanpak Y overgestapt."
+
+
+### 2.2 Evaluatie (projectie) \[max 600 woorden\]
+Van welk algoritme verwacht je betere resultaten? Beargumenteer dit aan de hand van de volgende vragen.
 
 **(a)**
-Welke algoritmes (minstens 2) wil je testen?
-\[max 75 woorden per algoritme (of 150, als je een algoritme wil gebruiken dat niet in de cursus is behandeld en dus uitgelegd moet worden)\]
+Beschrijf hoe de verdeling van de data van invloed is op elke algoritme. Zouden bijvoorbeeld, een hogere dichtheid van ratings of bepaalde features tot beter performance kunnen leiden?
 
 **(b)**
-Wat zijn technische aspecten om rekening mee te houden? Zijn er features die niet altijd aanwezig zijn? Ga je NLP technieken gebruiken die niet altijd betrouwbaar zijn?
-\[max 150 woorden\]
+Zijn er specifieke subsets (e.g., steden, bedrijfcategoriën, gebruikerprofielen, etc..) waarvoor je verwacht dat een van je algoritmes beter (of juist slechter) werkt?
 
 **(c)**
-Hoe ga je testen of het werkt? Welke evaluatietechnieken ga je gebruiken? Hoe sluiten die aan bij de doelen van Yelp? Zijn er dingen die je zou willen testen maar waarbij het testen om technische/praktische redenen niet mogelijk zijn?
-\[max 150 woorden\]
+Voor je content based algoritme, welke features denk je dat het nuttigste kunnen zijn? Waarom?
+
+**(d)**
+Hoe ga je testen of het werkt? Welke evaluatietechnieken ga je gebruiken? Hoe sluiten die aan bij de doelen van Yelp (lees die nog even goed na)?
+
+**(e)**
+Zijn er dingen die je zou willen testen maar waarbij het testen om technische/praktische redenen niet mogelijk is?
 
 ## Submit
 
