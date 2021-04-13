@@ -69,19 +69,19 @@ Het schema voor de laatste 3 weken ziet er als volg uit:
 
 |                         |     | ma                            | di                  | wo                      | do          | vr                          |
 | ----------------------- | --- | ----------------------------- | ------------------- | ----------------------- | ----------- | --------------------------- |
-| week 16 | [Teams maken](/groepsproject/verslag-1)| |||| **deadline team-aanmelding**|
+| week 16 | Teams maken| |||| **deadline team-aanmelding**|
 | ... |||||||
 | ... |||||||
-| week 19 | [Fase 1 - Analyse & Implementatie](/groepsproject/verslag-1) |                              |         |     |               | |
-| week 20 | [Fase 2 - Evaluatie](/groepsproject/verslag-1) | **deadline verslag deel 1**  | tussenpresentaties | tussenpresentaties |  | **deadline verslag deel 2** |
+| week 19 | Fase 1 - Analyse & Implementatie |                              |         |     |               | |
+| week 20 | Fase 2 - Evaluatie | **deadline verslag deel 1**  | tussenpresentaties | tussenpresentaties |  | **deadline verslag deel 2** |
 | week 21 |     |                               | eindpresentaties    |                         |             | eindpresentaties            |
 
 De laatste week is alleen gereserveerd voor eindpresentaties. Hierin kan je niet meer werken aan het project. Dit moet vrijdag 21 mei ingeleverd zijn.
 <!-- Voor de tussenbesprekingen en eindpresentaties krijg je een link waarmee je zelf een geschikt moment kan inplannen. Voor het plannen van de meetings met de assistent kan je Ed gebruiken. -->
 
-## Verslagen
+<!-- ## Verslagen
 
 - [Teams maken](/groepsproject/verslag-1)
 - [Fase 1](/groepsproject/verslag-1)
 - [Fase 2](/groepsproject/verslag-2)
-<!-- - [Verslag deel 2](/groepsproject/verslag-2) -->
+<!-- - [Verslag deel 2](/groepsproject/verslag-2) --> -->
