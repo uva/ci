@@ -89,11 +89,11 @@ De video's staan gelinkt in de opdracht.
 
 Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier kan nog verandering in komen.**):
 
-| Datum          | Onderwerp     | Docent |
-| -------------- | ------------- |        |
-| di 13 april    | Ethische (?) recommender systems voor Randstad uitzenbureau | David Graus |
-| vr 16 april    | Recommender systems in de praktijk (bij Spotify en Booking.com) | Brammert Ottens |
-| di 20 april    | Creëren recommender systems filter bubbles? | Felicia Loerbach |
+| Datum          | Onderwerp     | Docent | Link |
+| -------------- | ------------- |        |      |
+| di 13 april    | Ethische (?) recommender systems voor Randstad uitzenbureau     | David Graus      | [zoom](https://uva-live.zoom.us/j/89181499606)
+| vr 16 april    | Recommender systems in de praktijk (bij Spotify en Booking.com) | Brammert Ottens  | [zoom](https://uva-live.zoom.us/j/89181499606)
+| di 20 april    | Creëren recommender systems filter bubbles?                     | Felicia Loerbach | [zoom](https://uva-live.zoom.us/j/89181499606)
 
 ## Opdrachten
 
