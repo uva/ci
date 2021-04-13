@@ -69,7 +69,7 @@ Het schema voor de laatste 3 weken ziet er als volg uit:
 
 |                         |     | ma                            | di                  | wo                      | do          | vr                          |
 | ----------------------- | --- | ----------------------------- | ------------------- | ----------------------- | ----------- | --------------------------- |
-| week 16 | [Teams maken](/groepsproject/verslag-1)| ||||| **deadline team-aanmelding**|
+| week 16 | [Teams maken](/groepsproject/verslag-1)| |||| **deadline team-aanmelding**|
 | ... |||||||
 | ... |||||||
 | week 19 | [Fase 1 - Analyse & Implementatie](/groepsproject/verslag-1) |                              |         |     |               | |
