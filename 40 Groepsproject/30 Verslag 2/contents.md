@@ -1,14 +1,7 @@
 # Deel 2: Evaluatie
-
-<!--
-Maak een testset en bereken de MSE over de voorspellingen van jouw algoritmes. Hoe verhouden deze zich ten op zichte van de simpelste baseline: random voorspellingen?
-
-Het kan zijn dat jouw algoritme geen ratings voorspelt maar op een andere manier aanbevelingen doet. Dan is de MSE niet relevant. Gebruik dan een ander maat (precision, bijvoorbeeld).
-\[max 200 woorden per algoritme\] -->
-
 Lever je antwoorden (als .pdf) onderaan deze pagina in. **Eén submit per groep.**
 
-**Deadline: woensdag 20 mei**
+**Deadline: vrijdag 21 mei**
 
 ### 2.0 Taakverdeling (update)
 Zijn er dingen veranderd in de taakverdeling ten op zichte van vorige week?
