@@ -78,7 +78,7 @@ Zijn er specifieke subsets (e.g., steden, bedrijfcategoriën, gebruikerprofielen
 Voor je content based algoritme, welke features denk je dat het nuttigste kunnen zijn? Waarom?
 
 **(d)**
-Hoe ga je testen of het werkt? Welke evaluatietechnieken ga je gebruiken? Hoe sluiten die aan bij de doelen van Yelp ([/groepsproject#doel](lees die nog even goed na))?
+Hoe ga je testen of het werkt? Welke evaluatietechnieken ga je gebruiken? Hoe sluiten die aan bij de doelen van Yelp ([lees die nog even goed na](/groepsproject#doel))?
 
 **(e)**
 Zijn er dingen die je zou willen testen maar waarbij het testen om technische/praktische redenen niet mogelijk is?
