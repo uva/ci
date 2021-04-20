@@ -1,8 +1,8 @@
 # Tentamen
 
-Het tentamen vindt plaats op donderdag 30 april. Het gaat om een take-home tentamen. Het tentamen zal om 11:00 uur worden verzonden. En je moet je antwoorden uiterlijk om 17:00 inleveren.
+Het tentamen vindt plaats op donderdag 29 april. Het gaat om een take-home tentamen. Het tentamen zal om 15:00 uur worden verzonden. En je moet je antwoorden uiterlijk om 17:00 inleveren.
 
-Je kan het tentamen in 3 uur maken. Maar, je krijgt 6 uur zodat je zelf je tijd kan indelen.
+Het tentamen
 
 Het tentamen bestaat enkel uit vragen over concepten, waarbij we jouw inzicht in de materie testen. Er is geen code op het tentamen. Je zult daarom pandas, DataFrames en Series ook niet tegenkomen.
 
@@ -15,13 +15,10 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-2)
     - [Evaluatie](/lectures/evaluatie)
 - De gastcolleges:
-    - [Daan Odijk](/lectures/daan-odijk)
-    - [Brammert Ottens](/lectures/brammert-ottens)
-    - [Anne Schuth](/lectures/anne-schuth)
-    - [Judith Möller](/lectures/judith-moeller)
+    ...
 
 
-
+<!--
 ## Voorbeeldvragen
 De vragen lijken op de coneptvragen die je in dit vak bent tegengekomen (in de opdrachten en colleges). Je krijgt open vragen waarin je begrip van de stof wordt getoetst. Vaak is de redenering belangrijker dan het eindantwoord.
 
@@ -47,4 +44,4 @@ In ziekenhuizen en klinieken wordt in toenemende mate gebruik gemaakt van Comput
 
 #### Antwoord
 *Meerdere antwoorden mogelijk, het gaat hier vooral om de redenering.*
-Het idee achter CF is dat de interactie tussen user en item meerdere meetmomenten kent, bijvoorbeeld wanneer gebruikers meerdere films hebben gewaardeerd of gezien. Recommender systems zijn hier dus niet van toepassing, omdat een diagnose (hopelijk) een eenmalig iets is.
+Het idee achter CF is dat de interactie tussen user en item meerdere meetmomenten kent, bijvoorbeeld wanneer gebruikers meerdere films hebben gewaardeerd of gezien. Recommender systems zijn hier dus niet van toepassing, omdat een diagnose (hopelijk) een eenmalig iets is. -->
