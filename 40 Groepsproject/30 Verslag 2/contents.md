@@ -8,13 +8,13 @@ Zijn er dingen veranderd in de taakverdeling ten op zichte van vorige week?
 \[max 150 woorden\]
 
 ### 2.1 Methode \[max 500 woorden\]
-Leg uit hoe je de algoritmes hebt geëvalueerd. Probeer hierbij genoeg informatie te geven om de lezer in staat te stellen om jouw resultaten te reproduceren. Denk hierbij onder andere aan de volgende vragen: Welke evaluatiematen gebruik je? Heb je de maten toegepast op de hele dataset of op een subset? In het laatste geval, welke subset? Als van toepassing, hoe heb je een testset gegenereerd? Hoe groot is de testset, hoe groot is de traingingset? Welke baseline(s) gebruik je om mee te vergelijken?
+Leg uit hoe je de algoritmes hebt geëvalueerd. Probeer hierbij genoeg informatie te geven om de lezer in staat te stellen om jouw resultaten te reproduceren. Denk hierbij **bijvoorbeeld** aan de volgende vragen: Welke evaluatiematen gebruik je? Heb je de maten toegepast op de hele dataset of op een subset? In het laatste geval, welke subset? Als van toepassing, hoe heb je een testset gegenereerd? Hoe groot is de testset, hoe groot is de traingingset? Welke baseline(s) gebruik je om mee te vergelijken? Heb je beide algoritmes op dezelfde manier getest, met exact dezelfde data?
 
 ### 2.2 Resultaten \[max 300 woorden\]
 Laat de resultaten zien. Als je plots gebruikt, leg deze uit. Zorg ervoor dat de lezer snapt waar ze naar kijkt.
 
 ### 2.3 Bespreking \[max 500 woorden\]
-Interpreteer de resultaten: Wat zeggen de resultaten over het algoritmes? Doen ze het beter dan de baseline? Is er een algoritme dat duidelijk beter dan de ander? Als er een verschil is, waardoor komt dat? Wat betekenen de resultaten voor de doelen van Yelp zoals beschreven aan het begin van de opdracht?
+Interpreteer de resultaten: Wat zeggen de resultaten over de algoritmes? Doen ze het beter dan de baseline? Is er een algoritme dat duidelijk beter presteert dan de ander? Als er een verschil is, waardoor komt dat? Wat betekenen de resultaten voor de doelen van Yelp zoals beschreven aan het begin van de opdracht? 
 
 ## Submit
 

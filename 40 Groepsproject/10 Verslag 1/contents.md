@@ -66,7 +66,7 @@ Maar wel: "Voor aanpak X was de data niet geschikt, want..., dus zijn we op aanp
 
 
 ### 2.2 Evaluatie (projectie) \[max 600 woorden\]
-Van welk algoritme verwacht je betere resultaten? Beargumenteer dit aan de hand van de volgende vragen.
+Van welk algoritme verwacht je betere resultaten? Beargumenteer dit aan de hand van de volgende vragen. Dit mag heel kort zijn (in het volgende verslag ga je dit uitgebreider beschrijven).
 
 **(a)**
 Beschrijf hoe de verdeling van de data van invloed is op elke algoritme. Zouden bijvoorbeeld, een hogere dichtheid van ratings of bepaalde features tot beter performance kunnen leiden?
@@ -78,7 +78,7 @@ Zijn er specifieke subsets (e.g., steden, bedrijfcategoriën, gebruikerprofielen
 Voor je content based algoritme, welke features denk je dat het nuttigste kunnen zijn? Waarom?
 
 **(d)**
-Hoe ga je testen of het werkt? Welke evaluatietechnieken ga je gebruiken? Hoe sluiten die aan bij de doelen van Yelp (lees die nog even goed na)?
+Hoe ga je testen of het werkt? Welke evaluatietechnieken ga je gebruiken? Hoe sluiten die aan bij de doelen van Yelp ([/groepsproject#doel](lees die nog even goed na))?
 
 **(e)**
 Zijn er dingen die je zou willen testen maar waarbij het testen om technische/praktische redenen niet mogelijk is?
