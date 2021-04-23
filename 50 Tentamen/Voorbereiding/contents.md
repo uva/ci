@@ -20,9 +20,7 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Felicia Loacherbach](/lectures/felicia-loecherbach-2021)
 
 # Voorbeeldvragen
-Het tentamen bestaat enkel uit vragen over concepten, waarbij we jouw inzicht in de materie testen. Er is geen code op het tentamen. Je zult daarom pandas, DataFrames en Series ook niet tegenkomen.
-
-Je zal voor dit tentament twee praktijk voorbeelden gaan bespreken. Je gaat voor die praktijk voorbeelden bespreken hoe je daar een recommender system voor zou kunnen maken en waar je aan moet denken als je dat doet. Het doel is dat je laat zien dat je de kennis die je hebt opgedaan kan toepassen op een nieuw situatie.
+Je zal voor dit tentament twee praktijkvoorbeelden gaan bespreken. Je gaat beschrijven hoe je daar een recommender system voor zou kunnen maken en waar je aan moet denken als je dat doet. Het doel is dat je laat zien dat je de kennis die je hebt opgedaan kan toepassen op een nieuwe situatie.
 
 Je haalt een voldoende voor het tentamen als je laat zien dat je de relevante informatie uit de colleges en opdrachten weet te gebruiken in je antwoorden, en onwaarheden en irrelevante zijsporen weet te vermijden.
 
