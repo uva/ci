@@ -1,4 +1,4 @@
-# Tentamen
+# Voorbereiding tentamen
 
 Het tentamen vindt plaats op donderdag 29 april. Het gaat om een take-home tentamen. Het tentamen zal om 15:00 uur worden verzonden. En je moet je antwoorden uiterlijk om 17:00 inleveren.
 
