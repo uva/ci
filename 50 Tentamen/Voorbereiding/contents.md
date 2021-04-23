@@ -13,11 +13,11 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Collaborative Filtering (deel 2/2)](/lectures/collaborative-filtering-2)
     - [Evaluatie](/lectures/evaluatie)
 - De gastcolleges:
-    - [Daan Odijk][/lectures/daan-odijk]
-    - [Anne Schuth][/lectures/anne schuth]
-    - [David Graus][/lectures/david-graus-2021]
-    - [Brammert Ottens][/lectures/brammert-ottens-2021]
-    - [Felicia Loacherbach][/lectures/felicia-loacherbach-2021]
+    - [Daan Odijk](/lectures/daan-odijk)
+    - [Anne Schuth](/lectures/anne schuth)
+    - [David Graus](/lectures/david-graus-2021)
+    - [Brammert Ottens](/lectures/brammert-ottens-2021)
+    - [Felicia Loacherbach](/lectures/felicia-loacherbach-2021)
 
 # Voorbeeldvragen
 Het tentamen bestaat enkel uit vragen over concepten, waarbij we jouw inzicht in de materie testen. Er is geen code op het tentamen. Je zult daarom pandas, DataFrames en Series ook niet tegenkomen.
@@ -68,4 +68,4 @@ Beschrijf aan de hand van een aantal vragen hoe je hier een recommender system v
         - Leg uit, indien van toepassing, welke similarity maat (of maten) je zou gebruiken.
     - Van welke methode verwacht je dat betere voorspellingen, collaborative filtering of content-based filtering?
 
-Naast dit type vragen kan je ook nog een aantal vragen verwachten over de gastcolleges. 
+Naast dit type vragen kan je ook nog een aantal vragen verwachten over de gastcolleges.
