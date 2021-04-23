@@ -17,7 +17,7 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Anne Schuth](/lectures/anne schuth)
     - [David Graus](/lectures/david-graus-2021)
     - [Brammert Ottens](/lectures/brammert-ottens-2021)
-    - [Felicia Loacherbach](/lectures/felicia-loacherbach-2021)
+    - [Felicia Loacherbach](/lectures/felicia-loecherbach-2021)
 
 # Voorbeeldvragen
 Het tentamen bestaat enkel uit vragen over concepten, waarbij we jouw inzicht in de materie testen. Er is geen code op het tentamen. Je zult daarom pandas, DataFrames en Series ook niet tegenkomen.
