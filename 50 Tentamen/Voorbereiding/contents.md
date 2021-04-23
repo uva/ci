@@ -32,7 +32,7 @@ Neem bijvoorbeeld de data van een boekwinkel. Deze bevat twee tabellen:
 
 De eerste tabel is *books.csv*, een tablel met 10.000 boeken. Dit zijn de eerste 5 rijen:
 
- id  | book_id | books_count | isbn      | authors                     | original_publication_year | title                                                    | language_code | average_rating | ratings_count |
+| id  | book_id | books_count | isbn      | authors                     | original_publication_year | title                                                    | language_code | average_rating | ratings_count |
 |-----|---------|-------------|-----------|-----------------------------|---------------------------|----------------------------------------------------------|---------------|----------------|---------------|
 |   1 | 2767052 |         272 | 439023483 | Suzanne Collins             |                      2008 | The Hunger Games (The Hunger Games, #1)                  | eng           |           4.34 |       4780653 |
 |   2 |       3 |         491 | 439554934 | J.K. Rowling, Mary GrandPré |                      1997 | Harry Potter and the Sorcerer's Stone (Harry Potter, #1) | eng           |           4.44 |       4602479 |
