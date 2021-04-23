@@ -23,4 +23,4 @@ Download het tentamen hier: komt nog
 
 Als je klaar bent, lever dan hier het tentamen als pdf (naam: `tentamen.pdf`) in. Als het niet lukt om een pdf te maken mag je het ook als `.txt` inleveren.
 
-Heb je alle **X** de vragen gemaakt?
+Heb je alle **3** de vragen gemaakt?
