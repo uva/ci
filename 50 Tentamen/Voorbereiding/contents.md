@@ -20,9 +20,11 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Felicia Loacherbach](/lectures/felicia-loecherbach-2021)
 
 # Voorbeeldvragen
-Je zal voor dit tentament twee praktijkvoorbeelden gaan bespreken. Je gaat beschrijven hoe je daar een recommender system voor zou kunnen maken en waar je aan moet denken als je dat doet. Het doel is dat je laat zien dat je de kennis die je hebt opgedaan kan toepassen op een nieuwe situatie.
+Je zal voor het tentament twee cases gaan bespreken. Je gaat beschrijven hoe je daar een recommender system voor zou kunnen maken en waar je aan moet denken als je dat doet. Het doel is dat je laat zien dat je de kennis die je hebt opgedaan kan toepassen op een nieuwe situatie.
 
 Je haalt een voldoende voor het tentamen als je laat zien dat je de relevante informatie uit de colleges en opdrachten weet te gebruiken in je antwoorden, en onwaarheden en irrelevante zijsporen weet te vermijden.
+
+Hieronder volgt een voorbeeld van een case zoals je die op het tentamen kan verwachten.
 
 ## Voorbeeld
 
