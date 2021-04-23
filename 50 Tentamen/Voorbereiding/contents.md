@@ -19,14 +19,14 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Brammert Ottens](/lectures/brammert-ottens-2021)
     - [Felicia Loacherbach](/lectures/felicia-loecherbach-2021)
 
-# Voorbeeldvragen
+# Wat kan je verwachten?
 Je zal voor het tentament twee cases gaan bespreken. Je gaat beschrijven hoe je daar een recommender system voor zou kunnen maken en waar je aan moet denken als je dat doet. Het doel is dat je laat zien dat je de kennis die je hebt opgedaan kan toepassen op een nieuwe situatie.
 
 Je haalt een voldoende voor het tentamen als je laat zien dat je de relevante informatie uit de colleges en opdrachten weet te gebruiken in je antwoorden, en onwaarheden en irrelevante zijsporen weet te vermijden.
 
 Hieronder volgt een voorbeeld van een case zoals je die op het tentamen kan verwachten.
 
-## Voorbeeld
+## Voorbeeld-case
 
 Neem bijvoorbeeld de data van een boekwinkel. Deze bevat twee tabellen:
 
@@ -53,6 +53,7 @@ De tweede tabel is *ratings.csv*, een tablel met 980.000 ratings. Dit zijn de ee
 |       1 |    1185 |      4 |
 | ...     | ...     | ...    |
 
+## Voorbeeldvragen
 
 Beschrijf aan de hand van een aantal vragen hoe je hier een recommender system van zou kunnen maken:
 
