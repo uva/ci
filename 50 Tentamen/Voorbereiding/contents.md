@@ -2,7 +2,7 @@
 
 Het tentamen vindt plaats op donderdag 29 april. Het gaat om een take-home tentamen. Het tentamen zal om 15:00 uur worden verzonden. En je moet je antwoorden uiterlijk om 17:00 inleveren.
 
-Je zal het tentmaen vanaf precies 14:55 hier kunnen downloaden.
+Je zal het tentamen vanaf precies 14:55 hier kunnen downloaden.
 
 De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt geleerd:
 
