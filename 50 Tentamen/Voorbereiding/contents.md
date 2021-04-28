@@ -17,7 +17,7 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Anne Schuth](/lectures/anne-schuth)
     - [David Graus](/lectures/david-graus-2021)
     - [Brammert Ottens](/lectures/brammert-ottens-2021)
-    - [Felicia Loacherbach](/lectures/felicia-loecherbach-2021)
+    - [Felicia Loecherbach](/lectures/felicia-loecherbach-2021)
 
 # Wat kan je verwachten?
 Je zal voor het tentament twee cases gaan bespreken. Je gaat beschrijven hoe je daar een recommender system voor zou kunnen maken en waar je aan moet denken als je dat doet. Het doel is dat je laat zien dat je de kennis die je hebt opgedaan kan toepassen op een nieuwe situatie.
