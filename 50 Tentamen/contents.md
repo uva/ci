@@ -17,7 +17,8 @@ De vragen zijn gebaseerd op de gastcolleges, intructievideo's en opdrachten. Naa
 Als je vragen hebt over het tentamen kan je die **als privévraag** stellen op Ed (categorie *Tentamen*). Ik zal deze gedurende het tentamen in de gaten houden.
 
 ## Download
-Download het tentamen hier: /tentamen/tentamen-ci-2021.pdf
+
+**Download het tentamen hier: [download](/tentamen/tentamen-ci-2021.pdf)**
 
 ## Submit
 
