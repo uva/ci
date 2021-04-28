@@ -14,7 +14,7 @@ De stof voor het tentamen bestaat uit alles wat je tot nu toe voor dit vak hebt 
     - [Evaluatie](/lectures/evaluatie)
 - De gastcolleges:
     - [Daan Odijk](/lectures/daan-odijk)
-    - [Anne Schuth](/lectures/anne schuth)
+    - [Anne Schuth](/lectures/anne-schuth)
     - [David Graus](/lectures/david-graus-2021)
     - [Brammert Ottens](/lectures/brammert-ottens-2021)
     - [Felicia Loacherbach](/lectures/felicia-loecherbach-2021)
