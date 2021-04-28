@@ -26,4 +26,4 @@
 | groep 22 | Max Nieboer            | Lucas de Wolff        | Rogier Wesseling      | Berkay Yayla         |                    |
 | groep 23 | Thom van der Ent       | Maarten van der Zalm  | Marjolein Holewijn    | Oscar Schipper       | Ramon Duursma      |
 | groep 24 | Robert-Jan Korteschiel | Lior Brandsen         | Jilmar Scheepvaart    | Arturo Grift         | Mischa van Dijken  |
-| groep 25 | Abel Bunt              | Antonia van der Leeuw | Patrick Smit          | Bonno Tjin           |                    |
+| groep 25 | Abel Bunt              | Antonia van der Leeuw | Patrick Smit          | Bonno Tjin           | Achraf Aznay       |
