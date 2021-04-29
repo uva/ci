@@ -26,3 +26,9 @@ Als je vragen hebt over het tentamen kan je die **als privévraag** stellen op E
 Als je klaar bent, lever dan hier het tentamen als pdf (naam: `tentamen.pdf`) in. Als het niet lukt om een pdf te maken mag je het ook als `.txt` inleveren.
 
 Heb je alle **3** de vragen gemaakt?
+
+**Controlleer dat inleveren ook echt goed is gegaan:** Nadat je op "insturen" hebt gedrukt, ga naar https://ci.mprog.nl/submissions als het goed is zie je daar bovenaan de volgende mededeling:
+
+![](tentamen-submit.png)
+
+Als dit niet zo is, probeer meteen nog een keer te submitten. Stuur een mail naar progik@mprog.nl als het echt niet lukt.
