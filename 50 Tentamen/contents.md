@@ -4,8 +4,6 @@
 
 Dit tentamen bestaat uit een aantal open vragen. In veel gevallen zijn er meerdere antwoorden mogelijk. De redenering is dan belangrijker dan het antwoord.
 
-Bij elke vraag staat een maximum aantal woorden vermeld. Ga hier niet overheen. De grens is heel ruim genomen dus het antwoord kan meestal een stuk beknopter.
-
 **Je moet dit tentamen uiterlijk om 17:00 hieronder inleveren (als .pdf).** (Als je recht op extra tijd hebt is de deadline 17:30.)
 
 **Vergeet niet je naam op je uitwerking te zetten.**
