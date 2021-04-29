@@ -27,7 +27,7 @@ Als je klaar bent, lever dan hier het tentamen als pdf (naam: `tentamen.pdf`) in
 
 Heb je alle **3** de vragen gemaakt?
 
-**Controlleer dat inleveren ook echt goed is gegaan:** Nadat je op "insturen" hebt gedrukt, ga naar https://ci.mprog.nl/submissions als het goed is zie je daar bovenaan de volgende mededeling:
+**Controlleer dat inleveren ook echt goed is gegaan:** Nadat je op "insturen" hebt gedrukt, ga naar [submissions](https://ci.mprog.nl/submissions) als het goed is zie je daar bovenaan de volgende mededeling:
 
 ![](tentamen-submit.png)
 
