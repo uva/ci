@@ -18,8 +18,8 @@ Als je vragen hebt over het tentamen kan je die **als privévraag** stellen op E
 
 ## Download
 
-<!-- **Download het tentamen hier: [download](/tentamen/tentamen-ci-2021.pdf)** -->
-**Download het tentamen hier: (link donderdag 29 april om 14:55)**
+**Download het tentamen hier: [download](/tentamen/tentamen-ci-2021.pdf)**
+<!-- **Download het tentamen hier: (link donderdag 29 april om 14:55)** -->
 
 ## Submit
 
