@@ -25,5 +25,5 @@
 | groep 21 | Maythe| Julia van der Wal      , Bart Jansen van Galen , Jason Zhen            , Sabine Kuiper        , Tavi Kurda         |
 | groep 22 | Maik  | Max Nieboer            , Lucas de Wolff        , Rogier Wesseling      , Berkay Yayla                              |
 | groep 23 | Maythe| Thom van der Ent       , Maarten van der Zalm  , Marjolein Holewijn    , Oscar Schipper       , Ramon Duursma      |
-| groep 24 | Björn | Robert-Jan Korteschiel , Lior Brandsen         , Jilmar Scheepvaart    , Arturo Grift         , Mischa van Dijken  |
+| groep 24 | Björn | Robert-Jan Korteschiel , Lior Brandsen         , Jilmar Scheepvaart    , Mischa van Dijken  |
 | groep 25 | Luc   | Abel Bunt              , Antonia van der Leeuw , Patrick Smit          , Bonno Tjin           , Achraf Aznay       |
