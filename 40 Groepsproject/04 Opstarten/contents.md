@@ -5,7 +5,7 @@ Het project duur erg kort. Het is daarom enorm belangrijk om meteen goed van sta
 - Bekijk hier de indeling van de teams: [indeling](/groepsproject/teams)
 - Aanmelden voor Slack: [aanmelden](/groepsproject/slack)
 - Afspraak inplannen voor tussenpresentatie: [inplannen](/groepsproject/plan-presentatie)
-- Aanmelden voor GitHub Classroom: link volgt
+- Aanmelden voor GitHub Classroom: [aanmelden](/groepsproject/github-classroom)
 
 Zodra je weet wie je tutor is:
 
