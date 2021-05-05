@@ -15,7 +15,7 @@
 | groep 11 | Maythe| Xander Schep           , Gijs Oliemans         , Sijf Schermerhorn     , Larissa Lok          , Levy van der Linde |
 | groep 12 | Maik  | Danielle ten Donkelaar , Givannah Noor         , Zakaria Khamal        , Justin van der Stoep , Kyle Mobach        |
 | groep 13 | Maik  | Kim Tigchelaar         , Anne Vlassak          , Patrick Spaargaren    , Tristan Vermeulen    , Morris v/d Minnen  |
-| groep 14 | Björn | Anna van der Zee       , Sanne van Rooijen     , Maurits Buis          , Julia Lubbers                             |
+| groep 14 | Björn | Anna van der Zee       , Sanne van Rooijen     , Maurits Buis          |
 | groep 15 |Mijntje| Yenly He               , Sarah Goossens        , Lune van Leer         , Martijn Jansen                            |
 | groep 16 | Luc   | robin reitsma          , Sebastiaan Aflaki     , Sam Titarsolej        , Selina Khan          , Erik Buis          |
 | groep 17 | Maythe| Melkease Tekola        , Jamile van Druten     , Matilde Dekker        , Mira Verseput        , Deniz Mermer       |
@@ -25,5 +25,5 @@
 | groep 21 | Maythe| Julia van der Wal      , Bart Jansen van Galen , Jason Zhen            , Sabine Kuiper        , Tavi Kurda         |
 | groep 22 | Maik  | Max Nieboer            , Lucas de Wolff        , Rogier Wesseling      , Berkay Yayla                              |
 | groep 23 | Maythe| Thom van der Ent       , Maarten van der Zalm  , Marjolein Holewijn    , Oscar Schipper       , Ramon Duursma      |
-| groep 24 | Björn | Robert-Jan Korteschiel , Lior Brandsen         , Jilmar Scheepvaart    , Mischa van Dijken  |
-| groep 25 | Luc   | Abel Bunt              , Antonia van der Leeuw , Patrick Smit          , Bonno Tjin           , Achraf Aznay       |
+| groep 24 | Björn | Robert-Jan Korteschiel , Lior Brandsen         , Mischa van Dijken     |
+| groep 25 | Luc   | Abel Bunt              , Antonia van der Leeuw , Bonno Tjin            |
