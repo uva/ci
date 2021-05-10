@@ -30,7 +30,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Week 3 | Module 2/3    | Module 2, vr 16 apr |
 | Week 4 | Module 3      | Module 3, vr 23 apr |
 | Week 5 | Take-home tentamen | do 29 apr     |
-| Week 6 | Groepsproject | Tussenrapport 1, di 18 mei  |
+| Week 6 | Groepsproject | Tussenrapport 1, ma 17 mei  |
 | Week 8 | Groepsproject | Eindrapport, vr 21 mei     |
 
 ## Beoordeling
