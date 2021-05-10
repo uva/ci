@@ -73,7 +73,7 @@ Het schema voor de laatste 3 weken ziet er als volg uit:
 | ... |||||||
 | ... |||||||
 | week 19 | Fase 1 - Analyse & Implementatie |                              |         |     |               | |
-| week 20 | Fase 2 - Evaluatie | **deadline verslag deel 1**  | tussenpresentaties | tussenpresentaties |  | **deadline verslag deel 2** |
+| week 20 | Fase 2 - Evaluatie | tussenpresentaties / **deadline verslag deel 1** | tussenpresentaties |  |  | **deadline verslag deel 2** |
 | week 21 |     |                               | eindpresentaties    |                         |             | eindpresentaties            |
 
 De laatste week is alleen gereserveerd voor eindpresentaties. Hierin kan je niet meer werken aan het project. Dit moet vrijdag 21 mei ingeleverd zijn.
