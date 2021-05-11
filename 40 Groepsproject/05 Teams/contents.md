@@ -9,7 +9,7 @@
 | groep 5  | Maythe| Anne van Musscher      , Arjuna Beuger         , Kato Schmidt          , Maceo Linger                              |
 | groep 6  | Luc   | Susan van den Broek    , Herman Kelder         , Zubin Pengel          , Cameron Dinger                            |
 | groep 7  |Mijntje| Tijs Gerwe             , Raoul Hennebergue     , Arturo Grift          , Sion Coolwijk        , Sam Griffioen      |
-| groep 8  | Luc   | Julia van der Hoek     , Louisa Falch          , Chiara Enters         , Farah van den Berg                        |
+| groep 8  | Luc   | Julia van der Hoek     , Louisa Falch          , Chiara Enters         , Farah van den Berg   , Abel Bunt          |
 | groep 9  | Luc   | Kariem Atef Mahmoud    , Roy Veenboer          , Rens Roelen           , Jasper Bosma         , Mathieu Dorst      |
 | groep 10 | Björn | Noah Horwitz           , Jessy de Jong         , Asher de Jong         , Daniel Kappert       , Jonathan Hombroek  |
 | groep 11 | Maythe| Xander Schep           , Gijs Oliemans         , Sijf Schermerhorn     , Larissa Lok          , Levy van der Linde |
@@ -25,5 +25,4 @@
 | groep 21 | Maythe| Julia van der Wal      , Bart Jansen van Galen , Jason Zhen            , Sabine Kuiper        , Tavi Kurda         |
 | groep 22 | Maik  | Max Nieboer            , Lucas de Wolff        , Rogier Wesseling      , Berkay Yayla                              |
 | groep 23 | Maythe| Thom van der Ent       , Maarten van der Zalm  , Marjolein Holewijn    , Oscar Schipper       , Ramon Duursma      |
-| groep 24 | Björn | Robert-Jan Korteschiel , Lior Brandsen         , Mischa van Dijken     , Antonia van der Leeuw  |
-| groep 25 | Luc   | Abel Bunt              , Bonno Tjin            |
+| groep 24 | Björn | Robert-Jan Korteschiel , Lior Brandsen         , Mischa van Dijken     , Antonia van der Leeuw, Bonno Tjin         |
