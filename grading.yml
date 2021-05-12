@@ -32,8 +32,8 @@ grades:
     tentamen:
         type: pass
         subgrades:
-            points: integer
-        calculation: points >= 45 && -1 || 0
+            passed: boolean
+        calculation: passed
         is_test: true
 
     project:
