@@ -49,11 +49,11 @@ calculation:
     eindcijfer:
         tentamen: 0
         mods: 1
-        # prokject: 1
+        project: 1
     herkansingscijfer:
         hertentamen: 0
         mods: 1
-        # project: 1
+        project: 1
 
 tentamen:
     submits:
@@ -73,6 +73,6 @@ mods:
         module_3: 1
     minimum: 5.5
 
-# project:
-#     submits:
-#         verslag2: 1
+project:
+    submits:
+        verslag2: 1
