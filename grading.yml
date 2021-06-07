@@ -49,11 +49,11 @@ calculation:
     eindcijfer:
         tentamen: 0
         mods: 1
-        verslag2: 1
+        prokject: 1
     herkansingscijfer:
         hertentamen: 0
         mods: 1
-        verslag2: 1
+        project: 1
 
 tentamen:
     submits:
@@ -75,4 +75,4 @@ mods:
 
 project:
     submits:
-        project: 1
+        verslag2: 1
