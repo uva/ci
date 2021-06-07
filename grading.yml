@@ -29,11 +29,11 @@ grades:
         #     check50: correctness_score * 10
         calculation: late != 0 && [4.0 * (check50 / 9.0) + 5.0 * (openv / 12.0) + 1, cap].min || [4.0 * (check50 / 9.0) + 5.0 * (openv / 12.0) + 1, 10.0].min
 
-    verslag2:
-        type: float
-        subgrades:
-            punten: integer
-        calculation: (punten / 14.0) * 9.0 + 1.0
+    # verslag2:
+    #     type: float
+    #     subgrades:
+    #         punten: integer
+    #     calculation: (punten / 14.0) * 9.0 + 1.0
 
     tentamen:
         type: pass
@@ -49,11 +49,11 @@ calculation:
     eindcijfer:
         tentamen: 0
         mods: 1
-        prokject: 1
+        # prokject: 1
     herkansingscijfer:
         hertentamen: 0
         mods: 1
-        project: 1
+        # project: 1
 
 tentamen:
     submits:
@@ -73,6 +73,6 @@ mods:
         module_3: 1
     minimum: 5.5
 
-project:
-    submits:
-        verslag2: 1
+# project:
+#     submits:
+#         verslag2: 1
