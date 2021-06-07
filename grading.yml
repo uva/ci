@@ -33,7 +33,7 @@ grades:
         type: float
         subgrades:
             punten: integer
-        calculation: (punten / 14.0) * 9.0 + 1.0
+        calculation: (punten / 17.0) * 9.0 + 1.0
 
     tentamen:
         type: pass
