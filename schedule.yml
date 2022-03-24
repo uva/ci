@@ -1,41 +1,58 @@
 Voorbereidingen:
     Lees nog even goed de studiewijzer: /
+    Installlatie: /install
 "Module 1: Extracting data":
     Wat ga je doen?: /extracting-data
-    Uitleg:
+    Theory:
         Introductiecollege 30 maart [video]: /lectures/intro-2021
         Wat zijn recommender systems [video]: /lectures/introductie
         Wat kun je verwachten [video]: /lectures/vakopzet
         Inleiding Pandas [video]: /lectures/pandas
     Opdracht:
-        Extracting Data: /extracting-data/assignment
-    Gastcollege:
-        Personalisatie bij de Volkskrant [video]: /lectures/anne-schuth
+        Extracting Data: /m1-extracting-data/assignment
+    # Gastcollege:
+    #     Personalisatie bij de Volkskrant [video]: /lectures/anne-schuth
     Vooruitblik:
         Collaborative filtering [video]: /lectures/collaborative-filtering-1
 "Module 2: Collaborative filtering":
-    Wat ga je doen?: /collaborative-filtering
-    Uitleg:
+    Wat ga je doen?: /m2-collaborative-filtering
+    Theorie:
         Leer over collaborative filtering (herhaling vorige week) [video]: /lectures/collaborative-filtering-1
         Leer hoe je collaborative filtering implementeert [video]: /lectures/collaborative-filtering-2
+    Opdracht:
+        Implementeer collaborative filtering: /m2-collaborative-filtering/assignment
+    # Gastcollege:
+    #     Recommender systems bij RTL [video]: /lectures/daan-odijk
+    #     Recommender systems voor personeelswerving (en ethiek) [video]: /lectures/david-graus-2021
+    #     Recommender systems in de praktijk [video]: /lectures/brammert-ottens-2021
+"Module 3: Evaluatie":
+    Wat ga je doen?: /m3-evaluation
+    Theorie:
         Leer hoe je recommender systems evalueert [video]: /lectures/evaluatie
     Opdracht:
-        Implementeer collaborative filtering: /collaborative-filtering/assignment
-    Gastcollege:
-        Recommender systems bij RTL [video]: /lectures/daan-odijk
-        Recommender systems voor personeelswerving (en ethiek) [video]: /lectures/david-graus-2021
-        Recommender systems in de praktijk [video]: /lectures/brammert-ottens-2021
-"Module 3: Content-based filtering":
-    Wat ga je doen?: /content-based-filtering
+        Evalueer collabortive filtering: /m3-evaluation/assignment
+
+"Module 4: Content-based filtering":
+    Wat ga je doen?: /m4-content-based-filtering
     Opdracht:
-        Implementeer content based filtering: /content-based-filtering/assignment
-    Gastcollege:
-        Filter bubbles [video]: /lectures/felicia-loecherbach-2021
+        Implementeer content based filtering: /m4-content-based-filtering/assignment
+    # Gastcollege:
+    #     Filter bubbles [video]: /lectures/felicia-loecherbach-2021
+
+"Module 5: Matrices en inproduct":
+    Wat ga je doen?: /m5-dot-product
+    Opdracht:
+        Implementeer content based filtering: /m5-dot-product/assignment
+
+"Module 6: Matrixfactorisatie":
+    Wat ga je doen?: /m5-matrix-factorization
+    Opdracht:
+        Implementeer content based filtering: /m5-matrix-factorization/assignment
+
+"Module 7: Eindproject":
+    Opstarten (???): /m7-eindproject/opstarten
+    Wat ga je doen?: /m7-eindproject
+
 "Tentamen":
     Wat kan je verwachten? En hoe kan je je voobereiden?: /tentamen/voorbereiding
     Tentamen (29 april): /tentamen
-"Groepsproject: Yelp":
-    Opstarten (19 - 30 april): /groepsproject/opstarten
-    Wat ga je doen?: /groepsproject
-    Fase 1 - Analyse & Implementatie (10 - 17 mei): /groepsproject/verslag-1
-    Fase 2 - Evaluatie (17 - 21 mei): /groepsproject/verslag-2
