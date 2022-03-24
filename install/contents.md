@@ -21,7 +21,7 @@ Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan 
 
 Onder windows is het het makkelijkste om gebruik te maken van de Anaconda Prompt. Voor MacOS en Linux kan je de inebouwde terminal gebruiken.
 
-<img src="./anaconda_prompt.PNG" width="50%" />
+<img src="https://ci.mprog.nl/course/install/anaconda_prompt.PNG" width="50%" />
 
 In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
 
