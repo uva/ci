@@ -12,6 +12,7 @@ Als je een recente versie van Anaconda hebt kan je deze stap overslaan.
 Dit pakket kunt je downloaden op de website van [Anaconda](https://www.anaconda.com/distribution/). Kies daar voor de laatste Python 3.x versie voor jouw besturingssysteem.
 
 Let op! Tijdens de installatie op Windows vraagt de installer of Anaconda toegevoegd moet worden aan de PATH variabele. Klik dit vinkje aan:
+
 ![](anaconda_checkbox.png)
 
 Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan de installatieinstructies, als het goed is hoef je verder niks te veranderen.
@@ -20,7 +21,7 @@ Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan 
 
 Onder windows is het het makkelijkste om gebruik te maken van de Anaconda Prompt. Voor MacOS en Linux kan je de inebouwde terminal gebruiken.
 
-![](anaconda_prompt.PNG)
+<img src="anaconda_prompt.PNG" width="50%"" />
 
 In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
 
