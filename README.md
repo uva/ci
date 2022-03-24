@@ -14,7 +14,7 @@ Team:
 Simon Pauw  
 *docent/coördinator*  
 
-Robin Langerak
+Robin Langerak  
 *docent*
 
 Björn Out, Selina Khan, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Maythe Dirkzwager
@@ -41,7 +41,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 ## Beoordeling
 
-(Dit is nog niet deifnitief)
+(Dit is nog niet definitief)
 
 De weging voor het eindcijfer van dit vak is:
 
@@ -60,20 +60,24 @@ Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemi
 
 Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (**dus niet online**). Alleen als je door covid of andere ziekte niet aanwezig kan zijn kan je online hulp krijgen (tijdens de practica). Stuur ons dan wel even een email om te laten weten dat je ziek bent.
 
+Je kan de tijden voor de practica in Datanose vinden.
+
 ## Hoorcolleges
 
 Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk. Vanwege de Covid-19 maatregelen bestaan de colleges uit een combinatie van video's en live zoom-colleges.
 
 De video's staan gelinkt in de opdracht.
 
-Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier kan nog verandering in komen.**):
+Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
 
-ma 4 apr | 15:00 - 17:00| C0.05 | Simon Pauw         | Introductie
-do 14 apr| 9:00 - 11:00 | online| Svitlana Vakulenko | Amazon: Dialog in Search and Recommender Systems
-ma 25 apr| 15:00 - 17:00| C0.05 | Nicolas Mattis     | Preventing Filter Bubbles
-do 28 apr| 9:00 - 11:00 | C0.05 | Simon Pauw         | Matrixfactorisatie
-ma 9 mei | 15:00 - 17:00| C0.05 | Hosein Azarbonyad  | Elsevier
-do 12 mei| 9:00 - 11:00 | online| Daniel Kershaw     | Preventing Bias
+|Dag      | Locatie | Docent             | Onderwerp     |
+|---------|---------|--------------------|---------------|
+|ma 4 apr | C0.05   | Simon Pauw         | Introductie   |
+|do 14 apr| online  | Svitlana Vakulenko | Amazon: Dialog in Search and Recommender Systems |
+|ma 25 apr| C0.05   | Nicolas Mattis     | Preventing Filter Bubbles |
+|do 28 apr| C0.05   | Simon Pauw         | Matrixfactorisatie |
+|ma 9 mei | C0.05   | Hosein Azarbonyad  | Elsevier |
+|do 12 mei| online  | Daniel Kershaw     | Preventing Bias |
 
 ## Opdrachten
 
