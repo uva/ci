@@ -4,6 +4,13 @@
 
 Download hier de jupyter notebook: [module2.zip](module2.zip)
 
+Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linus). Start de Notebook (als je dat niet al gedaan had):
+
+    conda activate CI
+    jupyter notebook
+
+In de Jupyter Notebook browser, open het `module 2.ipynb` bestand.
+
 ## Submit
 
 Als je klaar bent, lever dan hieronder de notebook in. Voor je de notebook inlevert, verzeker jezelf ervan dat de notebook ook echt werkt.

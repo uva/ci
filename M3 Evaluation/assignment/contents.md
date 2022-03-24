@@ -1,19 +1,15 @@
-# Module 1, opdracht
-
-## Voor je begint
-
-Zorg ervoor dat je de installatieinstructies hebt doorgelopen voor je aan deze opdracht begint:  [Installatie](/install)
+# Module 3, opdracht
 
 ## Download
 
-Download hier de jupyter notebook: [module1.zip](module1.zip)
+Download hier de jupyter notebook: [module3.zip](module3.zip)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linus). Start de Notebook (als je dat niet al gedaan had):
 
     conda activate CI
     jupyter notebook
 
-In de Jupyter Notebook browser, open het `module 1.ipynb` bestand.
+In de Jupyter Notebook browser, open het `module 3.ipynb` bestand.
 
 ## Submit
 

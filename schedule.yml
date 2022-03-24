@@ -1,6 +1,7 @@
 Voorbereidingen:
     Lees nog even goed de studiewijzer: /
-    Installlatie: /install
+    Installatie: /install
+
 "Module 1: Extracting data":
     Wat ga je doen?: /extracting-data
     Theory:
@@ -14,6 +15,7 @@ Voorbereidingen:
     #     Personalisatie bij de Volkskrant [video]: /lectures/anne-schuth
     Vooruitblik:
         Collaborative filtering [video]: /lectures/collaborative-filtering-1
+
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /m2-collaborative-filtering
     Theorie:
