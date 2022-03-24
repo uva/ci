@@ -1,4 +1,4 @@
-[env](/download/ci-environment.yml)
+[env](download/ci-environment.yml)
 
 1. Download en installeer Anaconda
 https://www.anaconda.com/products/individual
