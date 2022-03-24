@@ -13,7 +13,7 @@ Dit pakket kunt je downloaden op de website van [Anaconda](https://www.anaconda.
 
 Let op! Tijdens de installatie op Windows vraagt de installer of Anaconda toegevoegd moet worden aan de PATH variabele. Klik dit vinkje aan:
 
-![](anaconda_checkbox.png)
+![](anaconda_checkbox.PNG)
 
 Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan de installatieinstructies, als het goed is hoef je verder niks te veranderen.
 
@@ -21,7 +21,7 @@ Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan 
 
 Onder windows is het het makkelijkste om gebruik te maken van de Anaconda Prompt. Voor MacOS en Linux kan je de inebouwde terminal gebruiken.
 
-<img src="anaconda_prompt.PNG" width="50%"" />
+<img src="anaconda_prompt.PNG" width="50%" />
 
 In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
 
