@@ -36,8 +36,8 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Vakantie |  | |
 | Week 5 | Module 5      | vr 13 mei, 18:00    |
 | Week 6 | Module 6      | vr 20 mei, 18:00    |
-| Week 7 | Eindproject   |                     |
-| Week 8 | Tentamen + <br> Eindproject  | vr 3 jun, 18:00     |
+| Week 7 | Module 7      | TBD                 |
+| Week 8 | Tentamen      |                     |
 
 ## Beoordeling
 
@@ -45,16 +45,13 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 De weging voor het eindcijfer van dit vak is:
 
-- 80% individuele opdrachten (module 1 t/m 6)
-- 20% groepsproject
-- Het tentamen is pass/fail; je krijgt hier dus geen cijfer voor
+- 70% individuele opdrachten (module 1 t/m 6)
+- 30% tentamen
 
 Om het vak te halen moet je:
 
  - Minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
- - Het tentamen gehaald hebben
-
-Om mee te mogen doen aan het groepsproject moet je dus ook minimaal een 5.5 gemiddeld hebben gehaald voor de individuele opdrachten.
+ - Minimaal een 5.5 halen voor het tentamen
 
 ## Begeleiding
 
@@ -98,23 +95,25 @@ Als je niet optijd kan inleveren omdat je (langdurig) ziek bent, neem dan even c
 
 ### Samenwerken
 
-**Voor deze opdrachten is samenwerken niet toegestaan.** Zie ook het kopje "Samenwerken, fraude en plagiaat".
+**Voor alle opdrachten is samenwerken niet toegestaan.** Zie ook het kopje "Samenwerken, fraude en plagiaat".
 
 ## Tentamen
 
-Hier volgt een overzicht van de stof voor het tentamen.
+Het tentamen is een schriftelijk tentamen en bestaat uit voornamelijk open vragen. De tentamenstof bevat:
 
-- de begrippen bij de individuele opdrachten uit weken 1 t/m 6
-- de inhoud van alle (gast)colleges
+- de begrippen uit de modules van weken 1 t/m 7
+- de inhoud van alle (gast)colleges en video's
 - het externe leesmateriaal dat is gelinkt op de website
 
-## Eindproject
+Per onderwerp/vraag kan je inzicht op volgende niveau's laten zien:
 
-(TODO: Details eindproject)
+1. Je antwoord maakt geen gebruik van relevante concepten uit de theorie of bevat onwaarheden.
+2. Je antwoord is gelinkt aan een relevant concept uit de theorie.
+3. Je antwoord behandelt een aantal losse concepten die elk gelinkt zijn aan een relevant concept uit de theorie.
+4. Je antwoord legt een duidelijk verband tussen meerdere verschillende relevante concepten.
+5. Je antwoord laat zien hoe relevante concepten toegepast worden op andere dan de bekende voorbeelden.
 
-In week 7 en 8 ga je aan een eindproject werken. Voor het groepsproject mag je in een groep van mixmaal 3 man werken.
-
-Voor dit project krijg je cijfer per groep een gezamelijk cijfer. Dit cijfer is gebaseerd op de volgende onderdelen: TODO
+Niet alle tentamenvragen kunnen op elk niveau beantwoord worden.
 
 ## Literatuur
 
