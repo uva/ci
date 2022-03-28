@@ -1,10 +1,7 @@
-name: module_3
+name: module_6
 files:
     required:
-        - "module 4a.ipynb"
-        - "module 4b.ipynb"
-        - "module 4c.ipynb"
-        - "module 4d.ipynb"
+        - "module 6.ipynb"
 #check:
 #    tool: check50
 #    slug: uva/ci_checks/2020/mod3
