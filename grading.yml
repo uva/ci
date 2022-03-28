@@ -71,9 +71,10 @@ tentamen:
 hertentamen:
     submits:
         hertentamen: 1
-    minimum: 5.5 
+    minimum: 5.5
 
 mods:
+    show_progress: true
     submits:
         module_1: 1
         module_2: 1
