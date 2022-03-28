@@ -71,10 +71,10 @@ hertentamen:
 mods:
     show_progress: true
     submits:
-        m1: 10
-        m2: 10
-        m3: 10
-        m4: 10
-        m5: 10
-        m6: 10
+        m1: 1
+        m2: 1
+        m3: 1
+        m4: 1
+        m5: 1
+        m6: 1
     minimum: 5.5
