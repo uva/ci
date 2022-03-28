@@ -3,7 +3,6 @@ templates:
         type: float
         subgrades:
             points_automatic: integer
-            design: integer
             points_open_questions: integer
             late_1_day: boolean
             late_4_day: boolean
