@@ -1,4 +1,4 @@
-name: module_1
+name: m1
 files:
     required:
         - "module 1.ipynb"
