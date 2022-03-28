@@ -17,8 +17,8 @@ templates:
 grades:
     module_1:
         <<: *manual
-        calculation: too_late == -1 && 5 || 10
-        # calculation: "[8, too_late && 1 || 10, late_1_days && 7 || 10, late_4_days && 5.5 || 10].min"
+        # calculation: too_late == -1 && 5 || 10
+        calculation: "[8, too_late == -1 && 1 || 10, late_1_days == -1 && 7 || 10, late_4_days == -1 && 5.5 || 10].min"
     module_2:
         type: float
         subgrades:
