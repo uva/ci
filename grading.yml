@@ -5,8 +5,8 @@ templates:
             points_automatic: integer
             design: integer
             points_open_questions: integer
-            1_day_late: boolean
-            4_day_late: boolean
+            late_1_day: boolean
+            late_4_day: boolean
             way_late: boolean
         hide_calculated: false
 
@@ -14,27 +14,27 @@ grades:
     m1:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, 1_day_late == -1 && 7 || 10, 4_day_late == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m2:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, 1_day_late == -1 && 7 || 10, 4_day_late == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m3:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, 1_day_late == -1 && 7 || 10, 4_day_late == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m4:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, 1_day_late == -1 && 7 || 10, 4_day_late == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m5:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, 1_day_late == -1 && 7 || 10, 4_day_late == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m6:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, 1_day_late == -1 && 7 || 10, 4_day_late == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
 
     tentamen:
         type: float
