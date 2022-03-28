@@ -36,7 +36,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Vakantie |  | |
 | Week 5 | Module 5      | vr 13 mei, 18:00    |
 | Week 6 | Module 6      | vr 20 mei, 18:00    |
-| Week 7 | Module 7      | TBD                 |
+| Week 7 | Bonus Module  | wo 25 mei, 18:00    |
 | Week 8 | Tentamen      |                     |
 
 ## Beoordeling
@@ -45,8 +45,9 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 De weging voor het eindcijfer van dit vak is:
 
-- 70% individuele opdrachten (module 1 t/m 6)
+- 70% modules (module 1 t/m 6)
 - 30% tentamen
+- +5% bonus module
 
 Om het vak te halen moet je:
 
@@ -55,7 +56,7 @@ Om het vak te halen moet je:
 
 ## Begeleiding
 
-Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (**dus niet online**). Alleen als je door covid of andere ziekte niet aanwezig kan zijn kan je online hulp krijgen (tijdens de practica). Stuur ons dan wel even een email om te laten weten dat je ziek bent.
+Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (**dus niet online**). Alleen als je door covid of andere ziekte niet aanwezig kan zijn kan je online hulp krijgen (tijdens de reguliere practica). Stuur ons dan wel even een email om te laten weten dat je ziek bent.
 
 Je kan de tijden voor de practica in Datanose vinden.
 

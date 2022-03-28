@@ -3,7 +3,7 @@
 
 Voor dit vak maken we gebruik van Python 3.9, Jupyter Notebooks, Anaconda en een aantal nuttige Python packages. Volg deze installatieinstructies om ervoor te zorgen dat alles goed klaarstaat.
 
-Volg de onderstaande instructies ook als je al Python op je computer hebt staan. Er zijn vakspecifieke onderdelen.
+Volg de onderstaande instructies **ook als je al Python op je computer hebt staan**. Er zijn vakspecifieke onderdelen.
 
 ## Stap 1: Installeer Anaconda
 
@@ -46,7 +46,7 @@ De volgende twee commando's moet je altijd (**in deze volgorde**) intypen als je
     conda activate CI
     jupyter notebook
 
-Het eerste commando zorgt ervoor dat alle packages en versie goed staan ingesteld. Als je dit niet doet is de kans groot dat je een hoop errors krijgt bij het maken van de opdrachten.
+Het eerste commando zorgt ervoor dat alle packages en versie goed staan ingesteld. Als je dit niet doet is de kans groot dat je errors krijgt bij het maken van de opdrachten.
 
 Het tweede commando start Jupyter Notebook in een browservenster. Daar hoef je nu nog niets mee te doen, maar dit is waar je de opdrachten gaat maken.
 

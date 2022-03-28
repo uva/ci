@@ -4,17 +4,12 @@ Voorbereidingen:
 
 "Module 1: Extracting data":
     Wat ga je doen?: /extracting-data
-    Theory:
-        Introductiecollege 30 maart [video]: /lectures/intro-2021
+    Theorie:
+        Introductie: /lectures/intro-2021
         Wat zijn recommender systems [video]: /lectures/introductie
-        Wat kun je verwachten [video]: /lectures/vakopzet
         Inleiding Pandas [video]: /lectures/pandas
     Opdracht:
         Extracting Data: /m1-extracting-data/assignment
-    # Gastcollege:
-    #     Personalisatie bij de Volkskrant [video]: /lectures/anne-schuth
-    Vooruitblik:
-        Collaborative filtering [video]: /lectures/collaborative-filtering-1
 
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /m2-collaborative-filtering
