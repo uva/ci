@@ -22,7 +22,7 @@ Een overzicht van alle opgenomen hoorcolleges.
 
 [Brammert Ottens 2](/lectures/brammert-ottens-2021)
 
-[Felicia Loecherbach](/lectures/elficia-loacherbach)
+[Felicia Loecherbach](/lectures/felicia-loacherbach)
 
 ### Instructievideo's
 
