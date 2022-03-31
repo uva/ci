@@ -6,7 +6,7 @@ Een overzicht van alle opgenomen hoorcolleges.
 
 [Anne Schuth](/lectures/anne-schuth)
 
-[Daan Odijk](/lectures/daan-odijk))
+[Daan Odijk](/lectures/daan-odijk)
 
 [Maarten de Rijke](/lectures/maarten-de-rijke)
 

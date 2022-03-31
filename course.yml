@@ -13,6 +13,6 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
 
 
 links:
-    '[brush] Style guide': /resources/python-style-guide
     '[book] Matrials': /reading
-    '[book] Archive': /lectures/overview
+    '[archive] Lecture archive': /lectures/overview
+    '[brush] Style guide': /resources/python-style-guide
