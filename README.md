@@ -62,9 +62,11 @@ Je kan de tijden voor de practica in Datanose vinden.
 
 ## Hoorcolleges
 
-Voor dit vak hebben we twee type hoorcolleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk. Vanwege de Covid-19 maatregelen bestaan de colleges uit een combinatie van video's en live zoom-colleges.
+Voor dit vak hebben we drie type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
 
-De video's staan gelinkt in de opdracht.
+De technische colleges bestaan voor een deel uit video's die gelinkt staan in de opdracht en voor een deel uit college op locatie.
+
+De gastcolleges zijn voor een deel online (niet alle sprekers kunnen naar Amsterdam komen) en voor een deel op locatie.
 
 Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
 
