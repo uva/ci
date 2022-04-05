@@ -15,10 +15,12 @@ Voorbereidingen:
     Theorie:
         Leer over collaborative filtering (herhaling vorige week) [video]: /lectures/collaborative-filtering-1
         Leer hoe je collaborative filtering implementeert [video]: /lectures/collaborative-filtering-2
+        Lees meer over recommender systems [boek]: /reading/guide-aggarwal-c1
     Opdracht:
         Implementeer collaborative filtering: /m2-collaborative-filtering/assignment
-    Gastcollege:
+    Videocollege:
         Recommender systems bij RTL [video]: /lectures/daan-odijk
+
     #     Recommender systems voor personeelswerving (en ethiek) [video]: /lectures/david-graus-2021
     #     Recommender systems in de praktijk [video]: /lectures/brammert-ottens-2021
 "Module 3: Evaluatie":
@@ -27,6 +29,8 @@ Voorbereidingen:
         Leer hoe je recommender systems evalueert [video]: /lectures/evaluatie
     Opdracht:
         Evalueer collabortive filtering: /m3-evaluation/assignment
+    Videocollege:
+        Filter bubbles [video]: /lectures/felicia-loecherbach-2021
 
 "Module 4: Content-based filtering":
     Wat ga je doen?: /m4-content-based-filtering
