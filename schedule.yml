@@ -3,9 +3,8 @@ Voorbereidingen:
     Installatie: /install
 
 "Module 1: Extracting data":
-    Wat ga je doen?: /extracting-data
+    Wat ga je doen?: /m1-extracting-data
     Theorie:
-        Introductie: /lectures/intro-2021
         Wat zijn recommender systems [video]: /lectures/introductie
         Inleiding Pandas [video]: /lectures/pandas
     Opdracht:
