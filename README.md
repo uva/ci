@@ -73,11 +73,12 @@ Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier zal waarschij
 |Dag      | Locatie | Docent             | Onderwerp     |
 |---------|---------|--------------------|---------------|
 |ma 4 apr | C0.05   | Simon Pauw         | Introductie   |
-|do 14 apr| online  | Svitlana Vakulenko | Amazon: Dialog in Search and Recommender Systems |
+| ~~do 14 apr~~ | online  | Svitlana Vakulenko | Amazon: Dialog in Search and Recommender Systems |
 |ma 25 apr| C0.05   | Nicolas Mattis     | Preventing Filter Bubbles |
 |do 28 apr| C0.05   | Simon Pauw         | Matrixfactorisatie |
 |ma 9 mei | C0.05   | Hosein Azarbonyad  | Elsevier |
 |do 12 mei| online  | Daniel Kershaw     | Preventing Bias |
+|do 19 mei| C0.05   | Min Fang           | Albert Heijn    |
 
 ## Opdrachten
 
