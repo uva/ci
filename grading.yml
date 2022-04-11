@@ -11,9 +11,15 @@ templates:
 
 grades:
     m1:
-        <<: *manual
+        type: float
+        subgrades:
+            points_automatic: integer
+            late_1_day: boolean
+            late_4_day: boolean
+            way_late: boolean
+        hide_calculated: false
         # calculation: too_late == -1 && 5 || 10
-        calculation: "[(points_automatic + points_open_questions) * 9 / 32 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9 / 34 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m2:
         <<: *manual
         # calculation: too_late == -1 && 5 || 10
