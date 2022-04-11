@@ -1,7 +1,7 @@
 name: m2
 files:
     required:
-        - "module 2.ipynb"
+        - "module2.ipynb"
 # check:
 #     tool: check50
 #     slug: uva/ci_checks/2020/mod2

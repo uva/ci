@@ -1,7 +1,7 @@
 name: module_6
 files:
     required:
-        - "module 6.ipynb"
+        - "module6.ipynb"
 #check:
 #    tool: check50
 #    slug: uva/ci_checks/2020/mod3
