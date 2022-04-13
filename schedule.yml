@@ -27,10 +27,11 @@ Voorbereidingen:
     Wat ga je doen?: /m3-evaluation
     Theorie:
         Leer hoe je recommender systems evalueert [video]: /lectures/evaluatie
+        Lees meer over evaluatie [boek]: /reading/guide-aggarwal-c7
     Opdracht:
         Evalueer collabortive filtering: /m3-evaluation/assignment
     Videocollege:
-        Filter bubbles [video]: /lectures/felicia-loecherbach-2021
+        Filter bubbles [video]: /lectures/judith-moeller
 
 "Module 4: Content-based filtering":
     Wat ga je doen?: /m4-content-based-filtering
