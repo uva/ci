@@ -74,11 +74,15 @@ Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier zal waarschij
 |---------|---------|--------------------|---------------|
 |ma 4 apr | C0.05   | Simon Pauw         | Introductie   |
 | <s>do 14 apr</s> | <s>online</s>  | <s>Svitlana Vakulenko</s> | <s>Amazon: Dialog in Search and Recommender Systems</s> |
+|do 14 apr| C0.05  | Simon Pauw          | Vector inproduct |
+| <s>do 21 apr</s> | <s>online</s>  | <s>Edgar Meij</s>         | <s>Bloomberg</s>       |
 |ma 25 apr| C0.05   | Nicolas Mattis     | Preventing Filter Bubbles |
-|do 28 apr| C0.05   | Simon Pauw         | Matrixfactorisatie |
+|do 28 apr| C0.05   | Simon Pauw         | Matrix inproduct |
 |ma 9 mei | C0.05   | Hosein Azarbonyad  | Elsevier |
 |do 12 mei| online  | Daniel Kershaw     | Preventing Bias |
+|ma 16 mei| C0.05   | Simon Pauw         | Matrixfactorisatie |
 |do 19 mei| C0.05   | Min Fang           | Albert Heijn    |
+|ma 23 mei| online  | Edgar Meij         | Bloomberg       |
 
 ## Opdrachten
 
