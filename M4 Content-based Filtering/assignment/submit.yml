@@ -4,7 +4,7 @@ files:
         - "module4a.ipynb"
         - "module4b.ipynb"
         - "module4c.ipynb"
-        - "module4d.ipynb"
+        # - "module4d.ipynb"
 #check:
 #    tool: check50
 #    slug: uva/ci_checks/2020/mod3
