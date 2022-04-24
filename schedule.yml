@@ -35,10 +35,10 @@ Voorbereidingen:
 
 "Module 4: Content-based filtering":
     Wat ga je doen?: /m4-content-based-filtering
+    Theorie:
+        "Deze week zijn er geen videocolleges en is er geen literatuur."
     Opdracht:
         Implementeer content based filtering: /m4-content-based-filtering/assignment
-    # Gastcollege:
-    #     Filter bubbles [video]: /lectures/felicia-loecherbach-2021
 
 "Module 5: Matrices en inproduct":
     Wat ga je doen?: /m5-dot-product
