@@ -24,7 +24,7 @@ grades:
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 31.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m3:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 32.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points_automatic + points_open_questions) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     m4:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 32.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
