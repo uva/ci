@@ -5,6 +5,7 @@
 Aan de hand van deze utility matrix kunnen we weer een similarity matrix maken. Dit kunnen we helaas niet doen met cosine similarity omdat deze features geen numerieke betekenis hebben. Het zijn _categorische features_: de nummers geven aan of de film onder een bepaalde categorie (genre) valt of niet. Voor het bepalen van similiarities voor catagorische data zijn er een legioen aan mogelijke maten$^1$. Voor deze opdracht gebruiken we de [**Jaccard index**](https://en.wikipedia.org/wiki/Jaccard_index). Dit is een veelgebruikte maat die goed werkt voor binaire data en die bovendien eenvoudig te implementeren is.
 
 Om de Jaccard index voor twee films ($A$ en $B$) te bereken moeten we drie waardes bepalen:
+
 - *M11*: Het aantal features dat in de matrix voor zowel film $A$ als $B$ een $1$ bevat. Oftewel, het aantal genres waarin $A$ en $B$ overlappen:
 - *M10*: Het aantal features dat in de matrix voor alléén film $A$ een $1$ bevat. Oftewel, het aantal genres dat *wel* op $A$ van toepassing is en *niet* op $B$.
 - *M01*: Het aantal features dat in de matrix voor alléén film $B$ een $1$ bevat.
@@ -42,4 +43,4 @@ $$
 - *M10*: Het aantal features dat in de matrix voor film $A$ een $1$ bevat. (En de waarde voor $B$ maakt niet uit.)
 - *M01*: Het aantal features dat in de matrix voor film $B$ een $1$ bevat. (En de waarde voor $A$ maakt niet uit.)
 
-Dus doot *M10* en *M01* anders te definiëren komt het wel weer uit. Deze definitie is niet gangbaar, maar kan wel makkelijker zijn om te implementeren. 
+Dus doot *M10* en *M01* anders te definiëren komt het wel weer uit. Deze definitie is niet gangbaar, maar kan wel makkelijker zijn om te implementeren.
