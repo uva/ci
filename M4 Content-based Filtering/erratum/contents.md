@@ -6,9 +6,9 @@ Aan de hand van deze utility matrix kunnen we weer een similarity matrix maken. 
 
 Om de Jaccard index voor twee films ($A$ en $B$) te bereken moeten we drie waardes bepalen:
 
-- *M11*: Het aantal features dat in de matrix voor zowel film $A$ als $B$ een $1$ bevat. Oftewel, het aantal genres waarin $A$ en $B$ overlappen:
-- *M10*: Het aantal features dat in de matrix voor alléén film $A$ een $1$ bevat. Oftewel, het aantal genres dat *wel* op $A$ van toepassing is en *niet* op $B$.
-- *M01*: Het aantal features dat in de matrix voor alléén film $B$ een $1$ bevat.
+- **M11**: Het aantal features dat in de matrix voor zowel film $A$ als $B$ een $1$ bevat. Oftewel, het aantal genres waarin $A$ en $B$ overlappen:
+- **M10**: Het aantal features dat in de matrix voor alléén film $A$ een $1$ bevat. Oftewel, het aantal genres dat *wel* op $A$ van toepassing is en *niet* op $B$.
+- **M01**: Het aantal features dat in de matrix voor alléén film $B$ een $1$ bevat.
 
 De berekening van de Jaccard index is vervolgens:
 
@@ -40,7 +40,7 @@ $$
 
 **Dit is incorrect.** Maar, je kan de de definities van M10 en M01 aanpassen op zo'n manier dat het wel werkt:
 
-- *M10*: Het aantal features dat in de matrix voor film $A$ een $1$ bevat. (En de waarde voor $B$ maakt niet uit.)
-- *M01*: Het aantal features dat in de matrix voor film $B$ een $1$ bevat. (En de waarde voor $A$ maakt niet uit.)
+- **M10**: Het aantal features dat in de matrix voor film $A$ een $1$ bevat. (En de waarde voor $B$ maakt niet uit.)
+- **M01**: Het aantal features dat in de matrix voor film $B$ een $1$ bevat. (En de waarde voor $A$ maakt niet uit.)
 
-Dus doot *M10* en *M01* anders te definiëren komt het wel weer uit. Deze definitie is niet gangbaar, maar kan wel makkelijker zijn om te implementeren.
+Dus door M10 en M01 anders te definiëren klopt de definitie uit de notebook wel weer. Deze definitie is niet gangbaar, maar kan wel makkelijker zijn om te implementeren.
