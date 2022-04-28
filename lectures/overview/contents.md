@@ -24,6 +24,8 @@ Een overzicht van alle opgenomen hoorcolleges.
 
 [Felicia Loecherbach](/lectures/felicia-loacherbach)
 
+[Nicolas Mattis](/lectures/nicolas-mattis-2022)
+
 ### Instructievideo's
 
 [intro](/lectures/introductie)
@@ -35,3 +37,5 @@ Een overzicht van alle opgenomen hoorcolleges.
 [Collaborative Filtering, deel 2](/lectures/collaborative-filtering-2)
 
 [Evaluatie](/lectures/evaluatie)
+
+[Matrixinproduct](/lectures/matrixinproduct)
