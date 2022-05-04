@@ -9,7 +9,7 @@ Unzip de module in de directory die je tijdens de installatie hebt gekozen voor 
     conda activate CI
     jupyter notebook
 
-In de Jupyter Notebook browser, open het `module 3.ipynb` bestand.
+In de Jupyter Notebook browser, open het `module3.ipynb` bestand.
 
 ## Submit
 

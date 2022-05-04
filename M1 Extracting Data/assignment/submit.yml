@@ -1,7 +1,7 @@
 name: m1
 files:
     required:
-        - "module 1.ipynb"
+        - "module1.ipynb"
 # check:
 #     tool: check50
 #     slug: uva/ci_checks/2020/mod1

@@ -2,8 +2,6 @@
 
 ## Download
 
-<!-- Download hier de opdracht (ongeveer 180 MB): [module3.zip](https://surfdrive.surf.nl/files/index.php/s/IWlVRvMgbhPhxVI) -->
-
 Download hier de jupyter notebook: [module5.zip](module5.zip)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linus). Start de Notebook (als je dat niet al gedaan had):
@@ -11,7 +9,7 @@ Unzip de module in de directory die je tijdens de installatie hebt gekozen voor 
     conda activate CI
     jupyter notebook
 
-In de Jupyter Notebook browser, open het `module 5.ipynb` bestand.
+In de Jupyter Notebook browser, open het `module5.ipynb` bestand.
 
 ## Submit
 

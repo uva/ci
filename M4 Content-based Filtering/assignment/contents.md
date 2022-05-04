@@ -9,11 +9,11 @@ Unzip de module in de directory die je tijdens de installatie hebt gekozen voor 
     conda activate CI
     jupyter notebook
 
-In de Jupyter Notebook browser, open het `module 4a.ipynb`/`module 4b.ipynb`/`module 4c.ipynb`/<s>`module 4d.ipynb`</s> bestand.
+In de Jupyter Notebook browser, open het `module4a.ipynb`/`module4b.ipynb`/`module4c.ipynb`/<s>`module4d.ipynb`</s> bestand.
 
 Deze opdracht bevat in totaal <s>4</s> 3 Jupyter Notebooks. Je moet alle <s>vier</s> drie de notebooks inleveren!
 
-**Omdat Koningsdag in deze week valt is de module wat korter gemaakt: de vierde submodule (`module 4d.ipynb`) is geschrapt.**
+**Omdat Koningsdag in deze week valt is de module wat korter gemaakt: de vierde submodule (`module4d.ipynb`) is geschrapt.**
 
 ## Submit
 
