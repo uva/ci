@@ -2,7 +2,3 @@ name: m5
 files:
     required:
         - "module5.ipynb"
-#check:
-#    tool: check50
-#    slug: uva/ci_checks/2020/mod3
-# check50 werkt niet
