@@ -2,8 +2,6 @@
 
 ## Download
 
-<!-- Download hier de opdracht (ongeveer 180 MB): [module3.zip](https://surfdrive.surf.nl/files/index.php/s/IWlVRvMgbhPhxVI) -->
-
 Download hier de jupyter notebook: [module6.zip](module6.zip)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linus). Start de Notebook (als je dat niet al gedaan had):
