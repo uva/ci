@@ -45,12 +45,12 @@ Voorbereidingen:
     Theorie:
         Registratie college matrix inproduct: /lectures/matrixinproduct
     Opdracht:
-        Implementeer content based filtering: /m5-dot-product/assignment
+        Implementeer het matrix inproduct: /m5-dot-product/assignment
 
 "Module 6: Matrixfactorisatie":
     Wat ga je doen?: /m6-matrix-factorization
     Opdracht:
-        Implementeer content based filtering: /m6-matrix-factorization/assignment
+        Implementeer matrixfactorisatie: /m6-matrix-factorization/assignment
 
 "Module 7: Eindproject":
     Opstarten (???): /m7-eindproject/opstarten
