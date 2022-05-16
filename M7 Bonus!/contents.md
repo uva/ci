@@ -50,7 +50,7 @@ Je kan maximaal 4 punten halen:
 
 ### Inspiratie
 
-Eén van de beste makers van instructiefilpmjes op internet is Sal Khan (van de Khan Academy). Dit niveau is weinig mensen gegeven. Ook de meeste mensen die dit als baan doen, komen over het algemeen niet aan dit niveau. Maar het kan een goede inspiratie zijn om naar te kijken voor je zelf een filmpje gaat maken:
+Eén van de beste makers van instructiefilpmjes op internet is Sal Khan (van de Khan Academy). Het niveau van deze filmpjes is onrealistisch hoog. Ook de meeste mensen die dit professioneel doen, halen over het algemeen niet dit niveau. Maar het kan een goede inspiratie zijn om naar te kijken voor je zelf een filmpje gaat maken:
 
 - [Khan vectoren](https://www.youtube.com/watch?v=WNuIhXo39_k)
 - [Khan correlatie](https://www.youtube.com/watch?v=u4ugaNo6v1Q)
