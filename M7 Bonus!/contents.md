@@ -59,5 +59,5 @@ Eén van de beste makers van instructiefilpmjes op internet is Sal Khan (van de 
 
 ### Suggesties voor bronnen
 
-A. Agarwal **Similarity Measures used in Recommender Systems: A Study**: [link](http://ijetsr.com/images/short_pdf/1498555415_619-626-ieteh326_ijetsr.pdf)
-C. Aggarwal **Recommender Systems: The Textbook**: (gratis als .pdf te downloaden vanaf UvA netwerk) [link](https://rd.springer.com/book/10.1007/978-3-319-29659-3)
+- A. Agarwal **Similarity Measures used in Recommender Systems: A Study**: [link](http://ijetsr.com/images/short_pdf/1498555415_619-626-ieteh326_ijetsr.pdf)
+- C. Aggarwal **Recommender Systems: The Textbook**: (gratis als .pdf te downloaden vanaf UvA netwerk) [link](https://rd.springer.com/book/10.1007/978-3-319-29659-3)
