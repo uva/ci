@@ -1,5 +1,7 @@
 # BONUS module
 
+Deadline: woensdag 25 mei
+
 ### Wat ga je doen?
 
 Eén van de beste manieren om echt veel te leren over een onderwerp is het uitleggen aan anderen. In deze bonusopdracht ga je een instructiefilmpje maken over een onderwerp dat nog niet is behandeld in dit vak. Het moet natuurlijk wel over Recommender Systems gaan!
