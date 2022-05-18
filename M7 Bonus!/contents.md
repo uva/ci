@@ -8,7 +8,7 @@ Eén van de beste manieren om echt veel te leren over een onderwerp is het uitle
 
 ### Voor wie is dit?
 
-Deze opdracht is extra, je _hoeft_ hem dus niet te doen. Doe deze opdracht alleen als het je leuke uitdaging lijkt. Je kan in theorie een 10 halen zonder deze opdracht te maken. Maar, als je nog extra uitdaging zoekt en je creativiteit kwijt wilt, kan het leuk zijn om deze opdracht te doen.
+Deze opdracht is extra, je _hoeft_   hem dus niet te doen. Doe deze opdracht alleen als het je leuke uitdaging lijkt. Je kan in theorie een 10 halen zonder deze opdracht te maken. Maar, als je nog extra uitdaging zoekt en je creativiteit kwijt wilt, kan het leuk zijn om deze opdracht te doen.
 
 ### Waarom het doen?
 
@@ -33,6 +33,7 @@ Je maakt een instructiefilmpje over een "nieuw" onderwerp. Dit kan bijvoorbeeld 
     - ...
 
 Het belangrijkste eisen voor de video:
+
     - Duur 5-15 minuten.
     - Leg maximaal één concept uit.
     - Leun zo min mogelijk op voorkennis.
@@ -47,6 +48,7 @@ Het belangrijkste eisen voor de video:
 ### Normering
 
 Je kan maximaal 4 punten halen:
+
 0. Niet (serieus) gedaan.
 1. OK: Gedaan, en er is een goed onderwerp gekozen.
 2. Goed: Het onderwerp is helder besproken.
