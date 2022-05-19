@@ -27,13 +27,13 @@ De tentamenstof bevat:
     - college over vectorinproduct
     - college over matrixinproduct: [link](/lectures/matrixinproduct)
     - college over matrixfactorisatie
-- de instructievideo's
+- de instructievideo's:
     - introvideo: [link](/lectures/introductie)
     - pandas: [link](/lectures/pandas)
     - collaborative Filtering, deel 1: [link](/lectures/collaborative-filtering-1)
     - collaborative Filtering, deel 2: [link](/lectures/collaborative-filtering-2)
     - evaluatie: [link](/lectures/evaluatie)
-- het externe leesmateriaal dat is gelinkt op de website:
+- het externe leesmateriaal:
     - hoofdstuk 1 van Aggarwal: [link](/reading/guide-aggarwal-c1)
     - hoofdstuk 7 van Aggarwal: [link](/reading/guide-aggarwal-c7)
 
