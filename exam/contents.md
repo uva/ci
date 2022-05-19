@@ -19,6 +19,7 @@ De tentamenstof bevat:
     - Edgar Meij (nog niet zeker)
     - Judith Müller (podcast): [link](/lectures/judith-moeller)
     - Anne Schuth (videoregistratie): [link](/lectures/anne-schuth)
+    - David Graus (videoregistratie): [link](/lectures/david-graus-2021)
 - de normale colleges:
     - Introductiecollege
     - College over vectorinproduct
