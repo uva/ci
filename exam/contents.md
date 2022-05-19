@@ -13,9 +13,9 @@ De tentamenstof bevat:
     - de gebruikte similarity- en evaluatiematen
     - de open vragen
 - de gastcolleges (inclusief de videoregistratie en podcast):
-    - Nicolas Mattis: [link](lectures/nicolas-mattis)
-    - Hosein Azarbonyad: [link](lectures/hosein-azarbonyad)
-    - Min Fang: [link](lectures/min-fang-2022)
+    - Nicolas Mattis: [link](/lectures/nicolas-mattis)
+    - Hosein Azarbonyad: [link](/lectures/hosein-azarbonyad)
+    - Min Fang: [link](/lectures/min-fang-2022)
     - Edgar Meij (nog niet zeker)
     - Judith Müller (podcast): [link](/lectures/judith-moeller)
     - Anne Schuth (videoregistratie): [link](/lectures/anne-schuth)
