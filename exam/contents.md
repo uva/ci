@@ -13,7 +13,7 @@ De tentamenstof bevat:
     - de gebruikte similarity- en evaluatiematen
     - de open vragen
 - de gastcolleges (inclusief de videoregistratie en podcast):
-    - Nicolas Mattis: [link](/lectures/nicolas-mattis)
+    - Nicolas Mattis: [link](/lectures/nicolas-mattis-2022)
     - Hosein Azarbonyad: [link](/lectures/hosein-azarbonyad)
     - Min Fang: [link](/lectures/min-fang-2022)
     - Edgar Meij (nog niet zeker)
