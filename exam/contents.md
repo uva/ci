@@ -26,8 +26,8 @@ De tentamenstof bevat:
     - College over matrixinproduct: [link](/lectures/matrixinproduct)
     - College over matrixfactorisatie
 - de instructievideo's
-    - Introvideo [Intro](/lectures/introductie)
-    - Pandas: [pandas](/lectures/pandas)
+    - Introvideo: [link](/lectures/introductie)
+    - Pandas: [link](/lectures/pandas)
     - Collaborative Filtering, deel 1: [link](/lectures/collaborative-filtering-1)
     - Collaborative Filtering, deel 2: [link](/lectures/collaborative-filtering-2)
     - Evaluatie: [link](/lectures/evaluatie)
