@@ -26,6 +26,12 @@ Een overzicht van alle opgenomen hoorcolleges.
 
 [Nicolas Mattis](/lectures/nicolas-mattis-2022)
 
+[Hosein Azarbonyad](/lectures/hosein-azarbonyad)
+
+[Min Fang](/lectures/min-fang-2022)
+
+[Edgar Meij](/lectures/edgar-meij-2022)
+
 ### Instructievideo's
 
 [intro](/lectures/introductie)

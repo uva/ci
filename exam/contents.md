@@ -18,7 +18,7 @@ De tentamenstof bevat:
     - Nicolas Mattis: [link](/lectures/nicolas-mattis-2022)
     - Hosein Azarbonyad: [link](/lectures/hosein-azarbonyad)
     - Min Fang: [link](/lectures/min-fang-2022)
-    - Edgar Meij (nog niet zeker)
+    - Edgar Meij: [link](/lectures/edgar-meij-2022)
     - Judith Müller (podcast): [link](/lectures/judith-moeller)
     - Anne Schuth (videoregistratie): [link](/lectures/anne-schuth)
     - David Graus (videoregistratie): [link](/lectures/david-graus-2021)
