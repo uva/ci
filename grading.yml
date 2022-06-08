@@ -48,14 +48,14 @@ grades:
         type: float
         subgrades:
             points: integer
-        calculation: points * 9.0 / 40.0 + 1.0
+        calculation: points * 9.0 / 41.0 + 1.0
         is_test: true
 
     hertentamen:
         type: float
         subgrades:
             points: integer
-        calculation: points * 9.0 / 40.0 + 1.0
+        calculation: points * 9.0 / 41.0 + 1.0
         is_test: true
 
 calculation:
