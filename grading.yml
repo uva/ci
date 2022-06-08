@@ -67,11 +67,13 @@ calculation:
         mods: 7
 
 tentamen:
+    show_progress: true
     submits:
         tentamen: 1
     minimum: 5.5
 
 hertentamen:
+    show_progress: true
     submits:
         hertentamen: 1
     minimum: 5.5
