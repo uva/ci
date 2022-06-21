@@ -42,7 +42,7 @@ grades:
         subgrades:
             points: integer
         hide_calculated: false
-        calculation: points * 9.0 / (4 - 1) + 1
+        calculation: (points - 1) * 9.0 / 3 + 1
 
     tentamen:
         type: float
