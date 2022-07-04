@@ -37,6 +37,10 @@ De tentamenstof bevat:
     - hoofdstuk 1 van Aggarwal: [link](/reading/guide-aggarwal-c1)
     - hoofdstuk 7 van Aggarwal: [link](/reading/guide-aggarwal-c7)
 
+### Tentamen
+
+Het originele tentamen: [Tentamen CI 1 2022.pdf](Tentamen CI 1 2022.pdf)
+
 ### Beoordeling
 
 Per onderwerp/vraag kan je inzicht op volgende niveau's laten zien:
