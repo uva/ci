@@ -10,7 +10,7 @@ templates:
         hide_calculated: false
 
 grades:
-    m1:
+    module_1:
         type: float
         subgrades:
             points_automatic: integer
@@ -19,25 +19,25 @@ grades:
             way_late: boolean
         hide_calculated: false
         calculation: "[points_automatic * 9.0 / 34.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    m2:
+    module_2:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 31.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    m3:
+    module_3:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    m4:
+    module_4:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 29.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    m5:
+    module_5:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_5:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    m6:
+    module_6:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 14.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    m7:
+    module_7:
         type: float
         subgrades:
             points: integer
@@ -61,10 +61,10 @@ grades:
 calculation:
     eindcijfer:
         tentamen: 3
-        mods: 7
+        opdrachten: 7
     herkansingscijfer:
         hertentamen: 3
-        mods: 7
+        opdrachten: 7
 
 tentamen:
     show_progress: true
@@ -78,13 +78,13 @@ hertentamen:
         hertentamen: 1
     minimum: 5.5
 
-mods:
+opdrachten:
     show_progress: true
     submits:
-        m1: 1
-        m2: 1
-        m3: 1
-        m4: 1
-        m5: 1
-        m6: 1
+        module_1: 1
+        module_2: 1
+        module_3: 1
+        module_4: 1
+        module_5: 1
+        module_6: 1
     minimum: 5.5
