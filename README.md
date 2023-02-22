@@ -91,7 +91,7 @@ Na elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over
 Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp.
 
 ### Te laat
-De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als de opdracht na de gestelde deadline inleverd wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
+De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als je de opdracht na de gestelde deadline inlevert wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
 
 Als je 24 uur na de deadline de opdracht inlevert kan je nog maximaal een 7 krijgen voor de opdracht.
 
