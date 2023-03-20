@@ -2,13 +2,13 @@ Voorbereidingen:
     Lees nog even goed de studiewijzer: /
     Installatie: /install
 
-"Module 1: Extracting data":
-    Wat ga je doen?: /m1-extracting-data
-    Theorie:
-        Wat zijn recommender systems [video]: /lectures/introductie
-        Inleiding Pandas [video]: /lectures/pandas
-    Opdracht:
-        Extracting Data: /m1-extracting-data/assignment
+# "Module 1: Extracting data":
+#     Wat ga je doen?: /m1-extracting-data
+#     Theorie:
+#         Wat zijn recommender systems [video]: /lectures/introductie
+#         Inleiding Pandas [video]: /lectures/pandas
+#     Opdracht:
+#         Extracting Data: /m1-extracting-data/assignment
 
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /m2-collaborative-filtering
@@ -52,8 +52,8 @@ Voorbereidingen:
     Opdracht:
         Implementeer matrixfactorisatie: /m6-matrix-factorization/assignment
 
-"Module 7: BONUS!":
-    Wat ga je doen?: /m7-bonus
+# "Module 7: BONUS!":
+#     Wat ga je doen?: /m7-bonus
 
 "Tentamen":
     Wat kan je verwachten?: /exam

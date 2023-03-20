@@ -1,6 +1,6 @@
 # Collectieve Intelligentie<br><span class="small">Studiewijzer</span>
 
-*Versie: April 2022*
+*Versie: April 2023*
 
 Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
@@ -14,10 +14,10 @@ Team:
 Simon Pauw  
 *docent/coördinator*  
 
-Robin Langerak  
+Masoud Mansoury
 *docent*
 
-Björn Out, Selina Khan, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Maythe Dirkzwager
+<!-- Björn Out, Selina Khan, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Maythe Dirkzwager -->
 
 ## Voorkennis
 
