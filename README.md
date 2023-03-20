@@ -4,20 +4,14 @@
 
 Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
-In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken. In de eerste vijf weken leer je de technieken die nodig zijn om een recommender system te bouwen. Daarna krijg je in een groepsopdracht de ruimte om deze technieken toe te passen op een case en je creativiteit de vrije loop te laten.
+In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken.
 
 ## Contact
-Voor organisatorische en persoonlijke vragen stuur een mail naar <progik@mprog.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
+Voor organisatorische en persoonlijke vragen stuur een mail naar <python@proglab.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
 
 Team:
 
-Simon Pauw  
-*docent/coördinator*  
-
-Masoud Mansoury
-*docent*
-
-<!-- Björn Out, Selina Khan, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Maythe Dirkzwager -->
+Simon Pauw, Masoud Mansoury, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Tycho Stam, Robert van Straten, Quinten van der Post
 
 ## Voorkennis
 
@@ -29,15 +23,16 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 | Weken  | Activiteit    | Deadline            |
 | ------ | ------------- | ------------------- |
-| Week 1 | Module 1      | vr 8 apr, 18:00     |
-| Week 2 | Module 2      | do 14 apr, 18:00    |
-| Week 3 | Module 3      | vr 22 apr, 18:00    |
-| Week 4 | Module 4      | vr 29 apr, 18:00    |
+| Week 2 | Module 2      | vr 14 apr, 18:00    |
+| Week 3 | Module 3      | vr 21 apr, 18:00    |
+| Week 4 | Module 4      | vr 28 apr, 18:00    |
 | Vakantie |  | |
-| Week 5 | Module 5      | vr 13 mei, 18:00    |
-| Week 6 | Module 6      | vr 20 mei, 18:00    |
-| Week 7 | Bonus Module  | wo 25 mei, 18:00    |
+| Week 5 | Module 5      | vr 12 mei, 18:00    |
+| Week 6 | Module 6      | vr 19 mei, 18:00    |
+| Week 7 | Bonus Module  | wo 24 mei, 18:00    |
 | Week 8 | Tentamen      |                     |
+
+(Ja het vak begint met module 2. Module 1, Pandas, heb je al gedaan bij webprogrammeren.)
 
 ## Beoordeling
 
@@ -45,7 +40,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 De weging voor het eindcijfer van dit vak is:
 
-- 70% modules (module 1 t/m 6)
+- 70% modules (module 2 t/m 6)
 - 30% tentamen
 - +5% bonus module
 
@@ -56,9 +51,7 @@ Om het vak te halen moet je:
 
 ## Begeleiding
 
-Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (**dus niet online**). Alleen als je door covid of andere ziekte niet aanwezig kan zijn kan je online hulp krijgen (tijdens de reguliere practica). Stuur ons dan wel even een email om te laten weten dat je ziek bent.
-
-Je kan de tijden voor de practica in Datanose vinden.
+Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (**dus niet online**). Je kan de tijden en locaties voor de practica in Datanose vinden.
 
 ## Hoorcolleges
 
@@ -68,21 +61,24 @@ De technische colleges bestaan voor een deel uit video's die gelinkt staan in de
 
 De gastcolleges zijn voor een deel online (niet alle sprekers kunnen naar Amsterdam komen) en voor een deel op locatie.
 
-Vooralsnog staan de volgende live-colleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
+Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
 
-|Dag      | Locatie | Docent             | Onderwerp     |
-|---------|---------|--------------------|---------------|
-|ma 4 apr | C0.05   | Simon Pauw         | Introductie   |
-| <s>do 14 apr</s> | <s>online</s>  | <s>Svitlana Vakulenko</s> | <s>Amazon: Dialog in Search and Recommender Systems</s> |
-|do 14 apr| C0.05  | Simon Pauw          | Vector inproduct |
-| <s>do 21 apr</s> | <s>online</s>  | <s>Edgar Meij</s>         | <s>Bloomberg</s>       |
-|ma 25 apr| C0.05   | Nicolas Mattis     | Preventing Filter Bubbles |
-|do 28 apr| C0.05   | Simon Pauw         | Matrix inproduct |
-|ma 9 mei | C0.05   | Hosein Azarbonyad  | Elsevier |
-|do 12 mei| online  | Daniel Kershaw     | Preventing Bias |
-|ma 16 mei| C0.05   | Simon Pauw         | Matrixfactorisatie |
-|do 19 mei| C0.05   | Min Fang           | Albert Heijn    |
-|ma 23 mei| online  | Edgar Meij         | Bloomberg       |
+| Datum     | Tijd          | Locatie | Spreker         | Onderwerp                                                                               |
+|-----------|---------------|---------|-----------------|-----------------------------------------------------------------------------------------|
+| ma 4 apr  | 15:00 - 17:00 | L1.01   | Simon Pauw      | Intro                                                                                   |
+| do 7 apr  | 15:00 - 17:00 | L1.01   | Masoud Mansoury | Basics of recommenders systems                                                          |
+| ...       |               |         |                 |                                                                                         |
+| do 13 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | The KNN approach                                                                        |
+| ma 17 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | Evaluation: How well does a recommender system perform?                                 |
+| do 20 apr | 15:00 - 17:00 | L1.01   | Dina Strikovic  | Recommender Systems in the newsroom: How do recommender systems impact news production? |
+| ma 24 apr | 15:00 - 17:00 | L1.01   | ???             | ???                                                                                     |
+| ...       |               |         |                 |                                                                                         |
+| ma 8 mei  | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrices                                                                                |
+| do 11 mei | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrix factorization                                                                    |
+| ma 15 mei | 15:00 - 17:00 | L1.01   | Masoud Mansoury | SLIM model                                                                              |
+| ...       |               |         |                 |                                                                                         |
+| ma 22 mei | 15:00 - 17:00 | L1.01   | Daan Odijk      | Recommender systems at RTL                                                              |
+| do 25 mei | 15:00 - 17:00 | L1.01   | Simon Pauw      | Tentamenvoorbereiding                                                                   |
 
 ## Opdrachten
 
@@ -91,7 +87,7 @@ Na elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over
 Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp.
 
 ### Te laat
-De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als je de opdracht na de gestelde deadline inlevert wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
+Je hebt zeer ruim de tijd voor alle opdrachten. De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als je de opdracht na de gestelde deadline inlevert wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
 
 Als je 24 uur na de deadline de opdracht inlevert kan je nog maximaal een 7 krijgen voor de opdracht.
 
@@ -99,7 +95,7 @@ Daarna kan je nog tot maximaal 4 dagen na de deadline inleveren. In dat geval ka
 
 Na 4 dagen kan je het niet meer inleveren en wordt het cijfer een 1.
 
-Als je niet optijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: progik@mprog.nl
+Als je niet optijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: python@proglab.nl
 
 ### Samenwerken
 
