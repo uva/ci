@@ -7,7 +7,7 @@ Door het verzamelen van informatie over gebruikers van websites kunnen we een ho
 In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken.
 
 ## Contact
-Voor organisatorische en persoonlijke vragen stuur een mail naar <python@proglab.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
+Voor organisatorische en persoonlijke vragen stuur een mail naar <ci-course-science@uva.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
 
 Team:
 
