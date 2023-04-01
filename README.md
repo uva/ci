@@ -55,7 +55,7 @@ Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (*
 
 ## Hoorcolleges
 
-Voor dit vak hebben we drie type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
+Voor dit vak hebben we verschillende type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
 
 De technische colleges bestaan voor een deel uit video's die gelinkt staan in de opdracht en voor een deel uit college op locatie.
 
