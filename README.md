@@ -15,7 +15,7 @@ Simon Pauw, Masoud Mansoury, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Ty
 
 ## Voorkennis
 
-We verwachten dat je flink geoefend hebt met programmeren in Python en met basale statistische begrippen.
+We verwachten dat je flink geoefend hebt met programmeren in Python, Pandas en Jupyter Notebooks en met basale statistische begrippen.
 
 ## Planning
 
