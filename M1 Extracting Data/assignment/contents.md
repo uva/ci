@@ -1,5 +1,7 @@
 # Module 1, opdracht
 
+> Deze module is alleen bedoeld **voor studenten die geen ervaring hebben met Jupyter Notebooks en Pandas**. Als je dat wel hebt hoef je deze module _niet_ te maken! Als je deze module wel maakt, die je dat voor jezelf. Je hoeft hem niet in te leveren.
+
 ## Voor je begint
 
 Zorg ervoor dat je de installatieinstructies hebt doorgelopen voor je aan deze opdracht begint:  [Installatie](/install)
