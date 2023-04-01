@@ -10,15 +10,6 @@ templates:
         hide_calculated: false
 
 grades:
-    module_1:
-        type: float
-        subgrades:
-            points_automatic: integer
-            late_1_day: boolean
-            late_4_day: boolean
-            way_late: boolean
-        hide_calculated: false
-        calculation: "[points_automatic * 9.0 / 34.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_2:
         <<: *manual
         calculation: "[(points_automatic + points_open_questions) * 9.0 / 31.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
@@ -81,7 +72,6 @@ hertentamen:
 opdrachten:
     show_progress: true
     submits:
-        module_1: 1
         module_2: 1
         module_3: 1
         module_4: 1

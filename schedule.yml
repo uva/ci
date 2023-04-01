@@ -2,19 +2,19 @@ Voorbereidingen:
     Lees nog even goed de studiewijzer: /
     Installatie: /install
 
-# "Module 1: Extracting data":
-#     Wat ga je doen?: /m1-extracting-data
-#     Theorie:
+"Module 1: Extracting data":
+    "Deze module hoe je niet te maken! Dit is alleen bedoeld voor studenten die dit als keuzevak volgen en geen ervaring met Pandas hebben."
+    Wat ga je doen?: /m1-extracting-data
+    Theorie:
 #         Wat zijn recommender systems [video]: /lectures/introductie
-#         Inleiding Pandas [video]: /lectures/pandas
-#     Opdracht:
-#         Extracting Data: /m1-extracting-data/assignment
+        Inleiding Pandas [video]: /lectures/pandas
+        Extracting Data [opdracht]: /m1-extracting-data/assignment
 
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /m2-collaborative-filtering
-    Wat zijn recommender systems? [video]: /lectures/introductie
-    Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
-    Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
+    # Wat zijn recommender systems? [video]: /lectures/introductie
+    # Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
+    # Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
     Lees over recommender systems [boek]: /reading/guide-aggarwal-c1
     Implementeer collaborative filtering [opdracht]: /m2-collaborative-filtering/assignment
     # Videocollege:

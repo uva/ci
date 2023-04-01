@@ -1,6 +1,6 @@
 # Leesmateriaal
 
-Het leesmateriaal hieronder zijn delen van lesboeken. De links zijn beschermd met een paswoord. Dit paswoord zal aan het begin van het vak worden rondgemaild.
+Het leesmateriaal hieronder zijn delen van lesboeken. De links zijn beschermd met een paswoord: *uva-ci*.
 
 ## Python for Data Analysis
 
