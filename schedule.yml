@@ -24,10 +24,10 @@ Voorbereidingen:
     #     Recommender systems in de praktijk [video]: /lectures/brammert-ottens-2021
 "Module 3: Evaluatie":
     Wat ga je doen?: /m3-evaluation
-    Hoe evalueer je recommender systems? [video]: /lectures/evaluatie
+    # Hoe evalueer je recommender systems? [video]: /lectures/evaluatie
     Lees meer over evaluatie [boek]: /reading/guide-aggarwal-c7
     Evalueer collaborative filtering [opdracht]: /m3-evaluation/assignment
-    Filter bubbles [podcast]: /lectures/judith-moeller
+    # Filter bubbles [podcast]: /lectures/judith-moeller
 
 "Module 4: Content-based filtering":
     Wat ga je doen?: /m4-content-based-filtering
