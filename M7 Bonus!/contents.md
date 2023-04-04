@@ -1,6 +1,6 @@
 # BONUS module
 
-Deadline: woensdag 25 mei
+Deadline: ...
 
 ### Wat ga je doen?
 

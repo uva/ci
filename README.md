@@ -25,11 +25,11 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | ------ | ------------- | ------------------- |
 | Week 2 | Module 2      | vr 14 apr, 18:00    |
 | Week 3 | Module 3      | vr 21 apr, 18:00    |
-| Week 4 | Module 4      | vr 28 apr, 18:00    |
+| Week 4 | Module 4      | wo 26 apr, 18:00    |
 | Vakantie |  | |
 | Week 5 | Module 5      | vr 12 mei, 18:00    |
-| Week 6 | Module 6      | vr 19 mei, 18:00    |
-| Week 7 | Bonus Module  | wo 24 mei, 18:00    |
+| Week 6 | Module 6      | ma 22 mei, 18:00    |
+| Week 7 | Bonus Module  | do 25 mei, 18:00    |
 | Week 8 | Tentamen      |                     |
 
 (Ja het vak begint met module 2. Module 1, Pandas, heb je al gedaan bij webprogrammeren.)
