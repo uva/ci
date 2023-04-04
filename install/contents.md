@@ -35,7 +35,7 @@ In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
 
 2.  Typ de volgende commando's in de terminal:
 
-        wget --no-check-certificate https://ci.mprog.nl/course/install/download/ci-environment.yml
+        wget --no-check-certificate https://ci.proglab.nl/course/install/download/ci-environment.yml
         conda env create -f ci-environment.yml
         rm ci-environment.yml
 
