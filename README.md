@@ -137,9 +137,6 @@ Als je merkt dat je zodanig aan het overleggen bent dat je dezelfde code krijgt 
 
 Kom je in tijdnood? Laat je niet verleiden tot het plegen van plagiaat. Je kunt de opdracht binnen zes dagen alsnog inleveren. We willen het graag zo oplossen dat jij het vak zelfstandig kunt halen. Vraag je docent om hulp als je er niet meer uitkomt!
 
-Voor het groepsproject geldt iets soortgelijks, maar binnen de groep wordt er natuurlijk gewoon samengewerkt.
-
-
 ## Plagiaatregeling
 
 Fraude volgens de UvA: *"Het handelen of nalaten van een student waardoor een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt."*
