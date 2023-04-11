@@ -4,7 +4,7 @@
 
 Download hier de opdracht (ongeveer 180 MB): [module4.zip](https://surfdrive.surf.nl/files/index.php/s/lMpAwE4vJcN9Z4n)
 
-Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linus). Start de Notebook (als je dat niet al gedaan had):
+Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
     conda activate CI
     jupyter notebook

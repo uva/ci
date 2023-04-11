@@ -8,7 +8,7 @@ Zorg ervoor dat je de installatieinstructies hebt doorgelopen voor je aan deze o
 
 Download hier de jupyter notebook: [module1.zip](module1.zip)
 
-Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linus). Start de Notebook (als je dat niet al gedaan had):
+Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
     conda activate CI
     jupyter notebook
