@@ -13,10 +13,11 @@ Voorbereidingen:
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /m2-collaborative-filtering
     # Wat zijn recommender systems? [video]: /lectures/introductie
-    # Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
-    # Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
-    Lees over recommender systems [boek]: /reading/guide-aggarwal-c1
+    Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
+    Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
     Implementeer collaborative filtering [opdracht]: /m2-collaborative-filtering/assignment
+    Lees over recommender systems [boek]: /reading/guide-aggarwal-c1
+    Kijk het college over KNN terug [hoorcollege]: https://ci.proglab.nl/lectures/masoud-mansoury-knn-2023
     # Videocollege:
     #     Recommender systems bij de Persgroep [video]: /lectures/anne-schuth
 
