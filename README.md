@@ -71,14 +71,14 @@ Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijn
 | do 13 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | The KNN approach                                                                        |
 | ma 17 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | Evaluation: How well does a recommender system perform?                                 |
 | do 20 apr | 15:00 - 17:00 | L1.01   | Dina Strikovic  | Recommender Systems in the newsroom: How do recommender systems impact news production? |
-| ma 24 apr | 15:00 - 17:00 | L1.01   | ???             | ???                                                                                     |
+| ma 24 apr | 15:00 - 17:00 | L1.01   | Simon PAuw      | Vectoren en vectorisatie ???                                                                                     |
 | ...       |               |         |                 |                                                                                         |
 | ma 8 mei  | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrices                                                                                |
 | do 11 mei | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrix factorization                                                                    |
 | ma 15 mei | 15:00 - 17:00 | L1.01   | Masoud Mansoury | SLIM model                                                                              |
 | ...       |               |         |                 |                                                                                         |
 | ma 22 mei | 15:00 - 17:00 | L1.01   | Daan Odijk      | Recommender systems at RTL                                                              |
-| do 25 mei | 15:00 - 17:00 | L1.01   | Simon Pauw      | Tentamenvoorbereiding                                                                   |
+| do 25 mei | 15:00 - 17:00 | L1.01   | ???      | ???                                                                   |
 
 ## Opdrachten
 
