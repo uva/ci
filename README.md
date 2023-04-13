@@ -71,7 +71,7 @@ Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijn
 | do 13 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | The KNN approach                                                                        |
 | ma 17 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | Evaluation: How well does a recommender system perform?                                 |
 | do 20 apr | 15:00 - 17:00 | L1.01   | Dina Strikovic  | Recommender Systems in the newsroom: How do recommender systems impact news production? |
-| ma 24 apr | 15:00 - 17:00 | L1.01   | Simon PAuw      | Vectoren en vectorisatie ???                                                                                     |
+| ma 24 apr | 15:00 - 17:00 | L1.01   | Simon Pauw      | Vectors                          |
 | ...       |               |         |                 |                                                                                         |
 | ma 8 mei  | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrices                                                                                |
 | do 11 mei | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrix factorization                                                                    |
