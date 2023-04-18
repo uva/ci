@@ -2,8 +2,7 @@ templates:
     1: &manual
         type: float
         subgrades:
-            points_automatic: integer
-            points_open_questions: integer
+            points: integer
             late_1_day: boolean
             late_4_day: boolean
             way_late: boolean
@@ -12,22 +11,22 @@ templates:
 grades:
     module_2:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 31.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 34.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_3:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_4:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 29.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 29.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_5:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_5:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_6:
         <<: *manual
-        calculation: "[(points_automatic + points_open_questions) * 9.0 / 14.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 14.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_7:
         type: float
         subgrades:
