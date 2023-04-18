@@ -11,7 +11,7 @@ templates:
 grades:
     module_2:
         <<: *manual
-        calculation: "[(points) * 9.0 / 34.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 36.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_3:
         <<: *manual
         calculation: "[(points) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
