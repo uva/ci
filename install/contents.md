@@ -21,7 +21,7 @@ Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan 
 
 Onder windows is het het makkelijkste om gebruik te maken van de Anaconda Prompt. Voor MacOS en Linux kan je de inebouwde terminal gebruiken.
 
-<img src="https://ci.mprog.nl/course/install/anaconda_prompt.PNG" width="50%" />
+![](https://ci.mprog.nl/course/install/anaconda_prompt.PNG")
 
 In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
 
@@ -35,7 +35,7 @@ In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
 
 2.  Typ de volgende commando's in de terminal:
 
-        wget --no-check-certificate https://ci.proglab.nl/course/install/download/ci-environment.yml
+        wget --no-check-certificate https://github.com/uvapl/ci/raw/2023/install/download/ci-environment.yml
         conda env create -f ci-environment.yml
         rm ci-environment.yml
 
