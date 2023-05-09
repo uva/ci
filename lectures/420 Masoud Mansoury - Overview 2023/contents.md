@@ -1,4 +1,4 @@
-# On overview od Recommender System approaches
+# On overview of Recommender System approaches
 
 Docent: Masoud Mansoury
 
