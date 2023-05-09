@@ -2,7 +2,7 @@
 
 ## Download
 
-Download hier de opdracht (ongeveer 180 MB): [module4.zip](https://surfdrive.surf.nl/files/index.php/s/lMpAwE4vJcN9Z4n)
+Download hier de opdracht (ongeveer 180 MB): [module4.zip](https://surfdrive.surf.nl/files/index.php/s/GkUy0DW5fNcqSEu/download)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
