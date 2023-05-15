@@ -24,7 +24,7 @@ De tentamenstof bevat:
 
 > Het oefententamen is het tentamen van de 2022-variant van dit vak. De vragen over de gastcolleges gaan over de gastcolleges van dat jaar. Die zijn dit jaar niet relevant. Het geeft je wel een indruk van het type vragen dat je kan verwachten.
 
-Het originele tentamen: [Tentamen CI 1 2022.pdf](Tentamen CI 1 2022.pdf)
+Tentamen CI 2022: [Tentamen CI 1 2022.pdf](Tentamen CI 1 2022.pdf)
 
 ### Beoordeling
 
