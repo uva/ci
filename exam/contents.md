@@ -4,7 +4,6 @@
 
 Het tentamen is een schriftelijk (pen en papier) tentamen en bestaat uit voornamelijk open vragen. Je hoeft op het tentamen geen code te produceren, maar je wordt wel geacht de algoritmes die in het vak behandeld zijn te kunnen reproduceren. Als je iets uit moet rekenen zullen de waardes zo gekozen worden dat je geen rekenmachine nodig hebt.
 
-
 ### Stof
 
 De tentamenstof bevat:
@@ -14,30 +13,16 @@ De tentamenstof bevat:
     - de behandelde algoritmes
     - de gebruikte similarity- en evaluatiematen
     - de open vragen
-- de gastcolleges (inclusief de videoregistratie en podcast):
-    - Nicolas Mattis: [link](/lectures/nicolas-mattis-2022)
-    - Hosein Azarbonyad: [link](/lectures/hosein-azarbonyad)
-    - Min Fang: [link](/lectures/min-fang-2022)
-    - Edgar Meij: [link](/lectures/edgar-meij-2022)
-    - Judith Müller (podcast): [link](/lectures/judith-moeller)
-    - Anne Schuth (videoregistratie): [link](/lectures/anne-schuth)
-    - David Graus (videoregistratie): [link](/lectures/david-graus-2021)
-- de normale colleges:
-    - introductiecollege
-    - college over vectorinproduct
-    - college over matrixinproduct: [link](/lectures/matrixinproduct)
-    - college over matrixfactorisatie
-- de instructievideo's:
-    - introvideo: [link](/lectures/introductie)
-    - pandas: [link](/lectures/pandas)
-    - collaborative Filtering, deel 1: [link](/lectures/collaborative-filtering-1)
-    - collaborative Filtering, deel 2: [link](/lectures/collaborative-filtering-2)
-    - evaluatie: [link](/lectures/evaluatie)
-- het externe leesmateriaal:
+- de hoorcolleges:
+    - De reguliere colleges van Simon Pauw en Masoud Mansoury
+    - De gastcolleges
+- het leesmateriaal:
     - hoofdstuk 1 van Aggarwal: [link](/reading/guide-aggarwal-c1)
     - hoofdstuk 7 van Aggarwal: [link](/reading/guide-aggarwal-c7)
 
-### Tentamen
+### OefenTentamen
+
+> Het oefententamen is het tentamen van de 2022-variant van dit vak. De vragen over de gastcolleges gaan over de gastcolleges van dat jaar. Die zijn dit jaar niet relevant. Het geeft je wel een indruk van het type vragen dat je kan verwachten.
 
 Het originele tentamen: [Tentamen CI 1 2022.pdf](Tentamen CI 1 2022.pdf)
 
