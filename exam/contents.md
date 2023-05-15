@@ -20,7 +20,7 @@ De tentamenstof bevat:
     - hoofdstuk 1 van Aggarwal: [link](/reading/guide-aggarwal-c1)
     - hoofdstuk 7 van Aggarwal: [link](/reading/guide-aggarwal-c7)
 
-### OefenTentamen
+### Oefententamen
 
 > Het oefententamen is het tentamen van de 2022-variant van dit vak. De vragen over de gastcolleges gaan over de gastcolleges van dat jaar. Die zijn dit jaar niet relevant. Het geeft je wel een indruk van het type vragen dat je kan verwachten.
 
