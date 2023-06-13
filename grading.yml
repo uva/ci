@@ -58,13 +58,13 @@ calculation:
 
 tentamen:
     show_progress: true
-    required: true
+    minimum: 5.5
     submits:
         tentamen: 1
 
 hertentamen:
     show_progress: true
-    required: true
+    minimum: 5.5
     submits:
         hertentamen: 1
 
