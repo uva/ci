@@ -57,12 +57,14 @@ calculation:
         opdrachten: 7
 
 tentamen:
+    type: average
     show_progress: true
     minimum: 5.5
     submits:
         tentamen: 1
 
 hertentamen:
+    type: average
     show_progress: true
     minimum: 5.5
     submits:
