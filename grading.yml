@@ -69,7 +69,9 @@ hertentamen:
         hertentamen: 1
 
 opdrachten:
+    type: average
     show_progress: true
+    minimum: 5.5
     submits:
         module_2: 1
         module_3: 1
@@ -77,4 +79,3 @@ opdrachten:
         module_5: 1
         module_6: 1
         module_7: 0
-    minimum: 5.5
