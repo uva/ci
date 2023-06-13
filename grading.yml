@@ -58,15 +58,15 @@ calculation:
 
 tentamen:
     show_progress: true
+    required: true
     submits:
         tentamen: 1
-    minimum: 5.5
 
 hertentamen:
     show_progress: true
+    required: true
     submits:
         hertentamen: 1
-    minimum: 5.5
 
 opdrachten:
     show_progress: true
