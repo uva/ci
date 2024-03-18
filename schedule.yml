@@ -2,23 +2,15 @@ Voorbereidingen:
     Lees nog even goed de studiewijzer: /
     Installatie: /install
 
-"Module 1: Extracting data":
-    Deze module hoe je niet te maken!: /m1-extracting-data
-    # Wat ga je doen?: /m1-extracting-data
-    Theorie:
-#         Wat zijn recommender systems [video]: /lectures/introductie
-        Inleiding Pandas [video]: /lectures/pandas
-        Extracting Data [opdracht]: /m1-extracting-data/assignment
-
 "Module 2: Collaborative filtering":
     Wat ga je doen?: /m2-collaborative-filtering
     # Wat zijn recommender systems? [video]: /lectures/introductie
     Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
-    Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
+    # Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
     Implementeer collaborative filtering [opdracht]: /m2-collaborative-filtering/assignment
     Lees over recommender systems [boek]: /reading/guide-aggarwal-c1
-    Kijk hoorcollege 2 (KNN) terug [hoorcollege]: /lectures/masoud-mansoury-knn-2023
-    Bekijk de slides van het hoorcollege 3 (overview) [slides]: /lectures/masoud-mansoury-overview-2023
+    # Kijk hoorcollege 2 (KNN) terug [hoorcollege]: /lectures/masoud-mansoury-knn-2023
+    # Bekijk de slides van het hoorcollege 3 (overview) [slides]: /lectures/masoud-mansoury-overview-2023
     # Videocollege:
     #     Recommender systems bij de Persgroep [video]: /lectures/anne-schuth
 

@@ -1,17 +1,17 @@
 # Collectieve Intelligentie<br><span class="small">Studiewijzer</span>
 
-*Versie: April 2023*
+*Versie: 2024*
 
 Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
 In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken.
 
 ## Contact
-Voor organisatorische en persoonlijke vragen stuur een mail naar <ci-course-science@uva.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
+Voor organisatorische en persoonlijke vragen stuur een mail naar <pyprog@proglab.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
 
 Team:
 
-Simon Pauw, Masoud Mansoury, Kato Schmidt, Sijf Schermerhorn, Kim Tigchelaar, Tycho Stam, Robert van Straten, Quinten van der Post
+Quinten van der Post, Berfin Inal, Moad Matoug, Martijn Bakker, Floor van Steijn, Silvan Ing, Roman van Eldijk, Sebastiaan Gebuis, Simon Pauw
 
 ## Voorkennis
 
@@ -23,15 +23,12 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 | Weken  | Activiteit    | Deadline            |
 | ------ | ------------- | ------------------- |
-| Week 2 | Module 2      | vr 14 apr, 18:00    |
-| Week 3 | Module 3      | vr 21 apr, 18:00    |
-| Week 4 | Module 4      | wo 10 mei, 18:00    |
-| Week 5 | Module 5      | wo 17 mei, 18:00    |
-| Week 6 | Module 6      | wo 24 mei, 18:00    |
-| Week 7 | Bonus Module  | do 25 mei, 18:00    |
+| Week 2 | Module 1      | vr 12 apr, 18:00    |
+| Week 3 | Module 2      | vr 22 apr, 18:00    |
+| Week 4 | Module 3      | wo 8 mei, 18:00    |
+| Week 5 | Module 4      | wo 15 mei, 18:00    |
+| Week 6 | Module 5      | wo 22 mei, 18:00    |
 | Week 8 | Tentamen      |                     |
-
-(Ja het vak begint met module 2. Module 1, Pandas, heb je al gedaan bij webprogrammeren.)
 
 > Als je de bonusopdracht wilt doen, moet je module 6 uiterlijk op 22 mei hebben ingeleverd en moet je dit vooraf met de docent hebben besproken.
 
@@ -41,9 +38,8 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 
 De weging voor het eindcijfer van dit vak is:
 
-- 70% modules (module 2 t/m 6)
-- 30% tentamen
-- +5% bonus module
+- 60% modules (module 1 t/m 5)
+- 40% tentamen
 
 Om het vak te halen moet je:
 
@@ -58,28 +54,9 @@ Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (*
 
 Voor dit vak hebben we verschillende type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
 
-De technische colleges bestaan voor een deel uit video's die gelinkt staan in de opdracht en voor een deel uit college op locatie.
-
-De gastcolleges zijn voor een deel online (niet alle sprekers kunnen naar Amsterdam komen) en voor een deel op locatie.
-
 Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
 
-| Datum     | Tijd          | Locatie | Spreker         | Onderwerp                                                                               |
-|-----------|---------------|---------|-----------------|-----------------------------------------------------------------------------------------|
-| ma 4 apr  | 15:00 - 17:00 | L1.01   | Simon Pauw      | Intro                                                                                   |
-| do 7 apr  | 15:00 - 17:00 | L1.01   | Masoud Mansoury | Basics of recommenders systems                                                          |
-| ...       |               |         |                 |                                                                                         |
-| do 13 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | The KNN approach                                                                        |
-| ma 17 apr | 15:00 - 17:00 | L1.01   | Masoud Mansoury | Evaluation: How well does a recommender system perform?                                 |
-| do 20 apr | 15:00 - 17:00 | L1.01   | Dina Strikovic  | Recommender Systems in the newsroom: How do recommender systems impact news production? |
-| ma 24 apr | 15:00 - 17:00 | L1.01   | Simon Pauw      | Vectors                          |
-| ...       |               |         |                 |                                                                                         |
-| ma 8 mei  | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrices                                                                                |
-| do 11 mei | 15:00 - 17:00 | L1.01   | Simon Pauw      | Matrix factorization                                                                    |
-| ma 15 mei | 15:00 - 17:00 | L1.01   | Masoud Mansoury | SLIM model                                                                              |
-| ...       |               |         |                 |                                                                                         |
-| ma 22 mei | 15:00 - 17:00 | L1.01   | Daan Odijk      | Recommender systems at RTL                                                              |
-| do 25 mei | 15:00 - 17:00 | L1.01   | ???      | ???                                                                   |
+...
 
 ## Opdrachten
 
@@ -96,7 +73,7 @@ Daarna kan je nog tot maximaal 4 dagen na de deadline inleveren. In dat geval ka
 
 Na 4 dagen kan je het niet meer inleveren en wordt het cijfer een 1.
 
-Als je niet optijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: python@proglab.nl
+Als je niet op tijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: <pyprog@proglab.nl>
 
 ### Samenwerken
 
@@ -122,11 +99,7 @@ Niet alle tentamenvragen kunnen op elk niveau beantwoord worden.
 
 ## Literatuur
 
-Voor het leren van de Python library Pandas gebruiken we het boek: _Python for Data Analysis_ van Wes McKinney. Dit boek is niet in z'n geheel te downlaoden, maar het relevante hoofstuk (5) zal worden gemaild bij aanvang van het vak.
-
-_Recommender Systems Handbook_ van Francesco Ricci, Lior Rokach, Bracha Shapira en Paul B. Kantor. Dit is geen verplichte literatuur, maar als je meer wilt weten over recommender systems kan ik het van harte aanbevelen. Het kan ook een goede inspiratiebron zijn voor het eindproject. Je kan het boek gratis via de UvA Bibliotheek downloaden: https://link-springer-com.proxy.uba.uva.nl:2443/book/10.1007%2F978-1-4899-7637-6
-
-_Recommender Systems: The Textbook._ van Chary C. Aggarwal. Hiervan zijn delen gelinkt op de website.
+_Recommender Systems: The Textbook._ van Chary C. Aggarwal. Deze is gratis te downloaden vanaf het UvA-netwerk: https://link.springer.com/book/10.1007/978-3-319-29659-3
 
 ## Samenwerken, fraude en plagiaat
 
