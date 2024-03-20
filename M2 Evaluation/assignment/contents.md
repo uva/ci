@@ -1,18 +1,15 @@
-# Module 4, opdracht
+# Module 3, opdracht
 
 ## Download
 
-Download hier de opdracht (ongeveer 180 MB): [module4.zip](https://surfdrive.surf.nl/files/index.php/s/GkUy0DW5fNcqSEu/download)
+Download hier de jupyter notebook: [module2.zip](module2.zip)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
     conda activate CI
     jupyter notebook
 
-In de Jupyter Notebook browser, open het `module4a.ipynb`/`module4b.ipynb`/`module4c.ipynb` bestand.
-
-Deze opdracht bevat in totaal drie Jupyter Notebooks. Je moet alle drie de notebooks inleveren!
-
+In de Jupyter Notebook browser, open het `module2.ipynb` bestand.
 
 ## Submit
 

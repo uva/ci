@@ -7,6 +7,7 @@ Door het verzamelen van informatie over gebruikers van websites kunnen we een ho
 In dit vak gaan we je leren hoe je dit soort informatie kan verkennen, verwerken, hoe je middels analyse interessante aspecten kunt vinden, en hoe je deze informatie kunt gebruiken om een recommender- of rankingsysteem te maken.
 
 ## Contact
+
 Voor organisatorische en persoonlijke vragen stuur een mail naar <pyprog@proglab.nl>. Voor vragen over de opdrachten zie het kopje "Begeleiding" hieronder.
 
 Team:
@@ -17,39 +18,6 @@ Quinten van der Post, Berfin Inal, Moad Matoug, Martijn Bakker, Floor van Steijn
 
 We verwachten dat je flink geoefend hebt met programmeren in Python, Pandas en Jupyter Notebooks en met basale statistische begrippen.
 
-## Planning
-
-De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
-
-| Weken  | Activiteit    | Deadline            |
-| ------ | ------------- | ------------------- |
-| Week 2 | Module 1      | vr 12 apr, 18:00    |
-| Week 3 | Module 2      | vr 22 apr, 18:00    |
-| Week 4 | Module 3      | wo 8 mei, 18:00    |
-| Week 5 | Module 4      | wo 15 mei, 18:00    |
-| Week 6 | Module 5      | wo 22 mei, 18:00    |
-| Week 8 | Tentamen      |                     |
-
-> Als je de bonusopdracht wilt doen, moet je module 6 uiterlijk op 22 mei hebben ingeleverd en moet je dit vooraf met de docent hebben besproken.
-
-## Beoordeling
-
-(Dit is nog niet definitief)
-
-De weging voor het eindcijfer van dit vak is:
-
-- 60% modules (module 1 t/m 5)
-- 40% tentamen
-
-Om het vak te halen moet je:
-
- - Minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
- - Minimaal een 5.5 halen voor het tentamen
-
-## Begeleiding
-
-Tijdens dit vak kan je hulp krijgen tijdens de practica. Deze zijn op locatie (**dus niet online**). Je kan de tijden en locaties voor de practica in Datanose vinden.
-
 ## Hoorcolleges
 
 Voor dit vak hebben we verschillende type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
@@ -58,28 +26,21 @@ Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijn
 
 ...
 
-## Opdrachten
+## Beoordeling
+
+Er zijn 3 onderdelen waarop je beoordeeld wordt: De programmeermodules, vragen over het boek en het tentamen.
+
+### Programmeermodules
+
+Je krijgt voor dit vak 5 programmeermodules. In deze modules implementeer je verschillende veelgebruikte algoritmes voor recommender systems.
 
 Na elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over de gekozen oplossing en hoe het gemaakte programma in elkaar steekt. Je krijgt voor elke opdracht een cijfer op een schaal van 1 t/m 10. Het eindcijfer voor de individuele opdrachten is het gemiddelde van deze cijfers.
 
-Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp.
+### Boek
 
-### Te laat
-Je hebt zeer ruim de tijd voor alle opdrachten. De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als je de opdracht na de gestelde deadline inlevert wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
+Je moet gedurende dit van 3 hoofdstukken uit het [boek](#literatuur) lezen (hoofdstuk 1,2 en 7). Over elk hoofdstuk krijg je vragen die je moet beantwoorden.
 
-Als je 24 uur na de deadline de opdracht inlevert kan je nog maximaal een 7 krijgen voor de opdracht.
-
-Daarna kan je nog tot maximaal 4 dagen na de deadline inleveren. In dat geval kan je maximaal een 5.5 halen voor de opdracht.
-
-Na 4 dagen kan je het niet meer inleveren en wordt het cijfer een 1.
-
-Als je niet op tijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: <pyprog@proglab.nl>
-
-### Samenwerken
-
-**Voor alle opdrachten is samenwerken niet toegestaan.** Zie ook het kopje "Samenwerken, fraude en plagiaat".
-
-## Tentamen
+### Tentamen
 
 Het tentamen is een schriftelijk tentamen en bestaat uit voornamelijk open vragen. De tentamenstof bevat:
 
@@ -96,6 +57,56 @@ Per onderwerp/vraag kan je inzicht op volgende niveau's laten zien:
 5. Je antwoord laat zien hoe relevante concepten toegepast worden op andere dan de bekende voorbeelden.
 
 Niet alle tentamenvragen kunnen op elk niveau beantwoord worden.
+
+### Eindcijfer
+
+Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van de aangeboden online hulp.
+
+De weging voor het eindcijfer van dit vak is:
+
+- 55% modules (module 1 t/m 5)
+- 5% vragen over het boek (hoofdstuk 1, 2 en 7)
+- 40% tentamen
+
+Om het vak te halen moet je:
+
+ - Minimaal een 5.5 gemiddeld halen voor de individuele opdrachten
+ - Minimaal een 5.5 halen voor het tentamen
+
+## Begeleiding
+
+Tijdens dit vak kan je hulp krijgen tijdens de practica. Je kan de tijden en locaties voor de practica in Datanose vinden.
+
+## Deadlines
+
+De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
+
+| Weken  | Activiteit    | Deadline            |
+| ------ | ------------- | ------------------- |
+| Week 2 | Module 1      | vr 12 apr, 18:00    |
+|        | Vragen hoofdstuk 1   | vr 12 apr, 18:00    |
+| Week 3 | Module 2      | vr 22 apr, 18:00    |
+|        | Vragen hoofdstuk 7   | vr 22 apr, 18:00    |
+| Week 4 | Module 3      | wo 8 mei, 18:00     |
+| Week 5 | Module 4      | wo 15 mei, 18:00    |
+| Week 6 | Module 5      | wo 22 mei, 18:00    |
+| Week 8 | Tentamen      |                     |
+
+### Te laat
+
+Je hebt zeer ruim de tijd voor alle opdrachten. De deadlines voor dit vak zijn strict, maar er is ruimte voor uitloop. Als je de opdracht na de gestelde deadline inlevert wordt het nog wel nagekeken, maar kan je niet meer de volle punten halen.
+
+Als je 24 uur na de deadline de opdracht inlevert kan je nog maximaal een 7 krijgen voor de opdracht.
+
+Daarna kan je nog tot maximaal 4 dagen na de deadline inleveren. In dat geval kan je maximaal een 5.5 halen voor de opdracht.
+
+Na 4 dagen kan je het niet meer inleveren en wordt het cijfer een 1.
+
+Als je niet op tijd kan inleveren omdat je (langdurig) ziek bent, neem dan even contact op: <pyprog@proglab.nl>
+
+### Samenwerken
+
+**Voor alle opdrachten is samenwerken niet toegestaan.** Zie ook het kopje "Samenwerken, fraude en plagiaat".
 
 ## Literatuur
 

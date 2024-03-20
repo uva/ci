@@ -1,9 +1,9 @@
-name: module_4
+name: module_3
 files:
     required:
-        - "module4a.ipynb"
-        - "module4b.ipynb"
-        - "module4c.ipynb"
+        - "module3a.ipynb"
+        - "module3b.ipynb"
+        - "module3c.ipynb"
         # - "module4d.ipynb"
 #check:
 #    tool: check50

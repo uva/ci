@@ -1,4 +1,4 @@
-# Module 6: Matrixfactorisatie
+# Module 5: Matrixfactorisatie
 
 Dit is de zesde module van dit vak.
 

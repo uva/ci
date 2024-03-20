@@ -1,4 +1,4 @@
-# Module 3, Evaluation
+# Module 2, Evaluation
 
 Dit is de derde module van dit vak. **De deadline voor de opdracht is vrijdag 21 april om 18:00.**
 

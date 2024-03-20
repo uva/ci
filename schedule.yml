@@ -2,13 +2,14 @@ Voorbereidingen:
     Lees nog even goed de studiewijzer: /
     Installatie: /install
 
-"Module 2: Collaborative filtering":
-    Wat ga je doen?: /m2-collaborative-filtering
+"Module 1: Collaborative filtering":
+    Wat ga je doen?: /m1-collaborative-filtering
     # Wat zijn recommender systems? [video]: /lectures/introductie
     Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
     # Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
-    Implementeer collaborative filtering [opdracht]: /m2-collaborative-filtering/assignment
+    Implementeer collaborative filtering [opdracht]: /m1-collaborative-filtering/assignment
     Lees over recommender systems [boek]: /reading/guide-aggarwal-c1
+    
     # Kijk hoorcollege 2 (KNN) terug [hoorcollege]: /lectures/masoud-mansoury-knn-2023
     # Bekijk de slides van het hoorcollege 3 (overview) [slides]: /lectures/masoud-mansoury-overview-2023
     # Videocollege:
@@ -16,26 +17,26 @@ Voorbereidingen:
 
     #     Recommender systems voor personeelswerving (en ethiek) [video]: /lectures/david-graus-2021
     #     Recommender systems in de praktijk [video]: /lectures/brammert-ottens-2021
-"Module 3: Evaluatie":
-    Wat ga je doen?: /m3-evaluation
+"Module 2: Evaluatie":
+    Wat ga je doen?: /m2-evaluation
     # Hoe evalueer je recommender systems? [video]: /lectures/evaluatie
     Lees meer over evaluatie [boek]: /reading/guide-aggarwal-c7
-    Evalueer collaborative filtering [opdracht]: /m3-evaluation/assignment
+    Evalueer collaborative filtering [opdracht]: /m2-evaluation/assignment
     # Filter bubbles [podcast]: /lectures/judith-moeller
 
-"Module 4: Content-based filtering":
-    Wat ga je doen?: /m4-content-based-filtering
-    Implementeer content based filtering [opdracht]: /m4-content-based-filtering/assignment
+"Module 3: Content-based filtering":
+    Wat ga je doen?: /m3-content-based-filtering
+    Implementeer content based filtering [opdracht]: /m3-content-based-filtering/assignment
     # Registratie gastcollege Nicolas Mattis: /lectures/nicolas-mattis-2022
 
-"Module 5: Matrices en inproduct":
-    Wat ga je doen?: /m5-dot-product
+"Module 4: Matrices en inproduct":
+    Wat ga je doen?: /m4-dot-product
     # Registratie college matrix inproduct [video]: /lectures/matrixinproduct
-    Implementeer het matrix inproduct [opdracht]: /m5-dot-product/assignment
+    Implementeer het matrix inproduct [opdracht]: /m4-dot-product/assignment
 
-"Module 6: Matrixfactorisatie":
-    Wat ga je doen?: /m6-matrix-factorization
-    Implementeer matrixfactorisatie [opdracht]: /m6-matrix-factorization/assignment
+"Module 5: Matrixfactorisatie":
+    Wat ga je doen?: /m5-matrix-factorization
+    Implementeer matrixfactorisatie [opdracht]: /m5-matrix-factorization/assignment
 
 # "Module 7: BONUS!":
 #     Wat ga je doen?: /m7-bonus

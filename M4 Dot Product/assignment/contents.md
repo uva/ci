@@ -1,15 +1,15 @@
-# Module 3, opdracht
+# Module 4, opdracht
 
 ## Download
 
-Download hier de jupyter notebook: [module3.zip](module3.zip)
+Download hier de jupyter notebook: [module4.zip](module4.zip)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
     conda activate CI
     jupyter notebook
 
-In de Jupyter Notebook browser, open het `module3.ipynb` bestand.
+In de Jupyter Notebook browser, open het `module4.ipynb` bestand.
 
 ## Submit
 

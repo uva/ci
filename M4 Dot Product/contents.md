@@ -1,4 +1,4 @@
-# Module 5: Inproduct
+# Module 4: Inproduct
 
 Dit is de vijfde module van dit vak.
 

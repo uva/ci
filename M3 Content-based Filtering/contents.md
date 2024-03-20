@@ -1,4 +1,4 @@
-# Module 4: Content-based Filtering
+# Module 3: Content-based Filtering
 
 Dit is de vierde module van dit vak.
 

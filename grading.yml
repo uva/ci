@@ -9,22 +9,19 @@ templates:
         hide_calculated: false
 
 grades:
+    module_1:
+        <<: *manual
+        calculation: "[(points) * 9.0 / 35.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_2:
         <<: *manual
-        calculation: "[(points) * 9.0 / 36.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_3:
         <<: *manual
-        calculation: "[(points) * 9.0 / 25.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(points) * 9.0 / 29.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_4:
         <<: *manual
-        calculation: "[(points) * 9.0 / 29.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    module_5:
-        <<: *manual
         calculation: "[(points) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_5:
-        <<: *manual
-        calculation: "[(points) * 9.0 / 10.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-    module_6:
         <<: *manual
         calculation: "[(points) * 9.0 / 14.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
     module_7:
@@ -33,6 +30,11 @@ grades:
             points: integer
         hide_calculated: false
         calculation: (points - 1) * 9.0 / 3 + 1
+
+    aggarwal_1:
+        <<: *manual
+        calculation: "[(points) * 9.0 / 9.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+
 
     tentamen:
         type: float
@@ -50,12 +52,14 @@ grades:
 
 calculation:
     eindcijfer:
-        tentamen: 3
-        opdrachten: 7
+        tentamen: 40
+        opdrachten: 55
+        boek: 5
     herkansingscijfer:
-        hertentamen: 3
-        opdrachten: 7
-
+        hertentamen: 40
+        opdrachten: 55
+        boek: 5
+        
 tentamen:
     show_progress: true
     minimum: 5.5
@@ -68,13 +72,19 @@ hertentamen:
     submits:
         hertentamen: 1
 
+boek:
+    show_progress: true
+    submits:
+        aggarwal_1: 1
+        aggarwal_7: 1
+
 opdrachten:
     show_progress: true
     minimum: 5.5
     submits:
+        module_1: 1
         module_2: 1
         module_3: 1
         module_4: 1
         module_5: 1
-        module_6: 1
         # module_7: 0
