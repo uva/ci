@@ -64,6 +64,23 @@ calculation:
         opdrachten: 55
         boek: 5
 
+
+opdrachten:
+    show_progress: true
+    minimum: 5.5
+    submits:
+        module_1: 1
+        module_2: 1
+        module_3: 1
+        module_4: 1
+        module_5: 1
+
+boek:
+    show_progress: true
+    submits:
+        aggarwal_1: 1
+        aggarwal_7: 1
+
 tentamen:
     show_progress: true
     minimum: 5.5
@@ -75,20 +92,3 @@ hertentamen:
     minimum: 5.5
     submits:
         hertentamen: 1
-
-boek:
-    show_progress: true
-    submits:
-        aggarwal_1: 1
-        aggarwal_7: 1
-
-opdrachten:
-    show_progress: true
-    minimum: 5.5
-    submits:
-        module_1: 1
-        module_2: 1
-        module_3: 1
-        module_4: 1
-        module_5: 1
-        # module_7: 0
