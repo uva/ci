@@ -12,21 +12,21 @@ Dit is de leeswijzer voor *Hoofdstuk 1* van *Recommender Systems: The Textbook* 
 * 1.3:
     * 1.3.1: Introductie volledig lezen. Verder:
         * 1.3.1.1: Alles lezen.
-        * 1.3.1.2: Kan je overslaan. (Missing value analysis wordt niet behandeld in dit vak.)
+        * 1.3.1.2: Kan je overslaan. (_Missing value analysis_ wordt niet behandeld in dit vak.)
         * 1.3.1.3: Kan je nu overslaan. Lees dit wel aan het einde van het vak terug voor het tentamen.
     * 1.3.2: Alles lezen.
     * 1.3.3: Alles lezen, behalve:
         * 1.3.3.1: Kan je overslaan.
-    * 1.3.4: Kan je overslaan.
-    * 1.3.5: Kan je overslaan.
-    * 1.3.6: Kan je overslaan.
+    * 1.3.4: Alles lezen.
+    * 1.3.5: Alles lezen.
+    * 1.3.6: Alles lezen.
 * 1.4:
     * 1.4.1: Alles lezen.
     * 1.4.2: Alles lezen.
     * 1.4.3: Alles lezen.
     * 1.4.4: Kan je overslaan.
 * 1.5: Alles lezen.
-* 1.6: Kan je overslaan.
+* 1.6: Alles lezen.
 * 1.7: Kan je overslaan.
 
 
