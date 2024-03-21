@@ -110,7 +110,7 @@ Als je niet op tijd kan inleveren omdat je (langdurig) ziek bent, neem dan even 
 
 ## Literatuur
 
-_Recommender Systems: The Textbook._ van Chary C. Aggarwal. Deze is gratis te downloaden vanaf het UvA-netwerk: https://link.springer.com/book/10.1007/978-3-319-29659-3
+_Recommender Systems: The Textbook._ van Chary C. Aggarwal. Deze is gratis te downloaden vanaf het UvA-netwerk: [download](https://link.springer.com/book/10.1007/978-3-319-29659-3)
 
 ## Samenwerken, fraude en plagiaat
 

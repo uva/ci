@@ -5,7 +5,7 @@ Lees hoofdstuk 1 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal*
 **Je kan al aan de opdracht beginnen voor je dit hoofdstuk hebt gelezen.**
 
 ### Leeswijzer
-Dit is de leeswijzer voor *Hoofdstuk 1* van *Recommender Systems: The Textbook* van *Charu C. Aggarwal* (zie: [leesmateriaal](/reading)). Hiervan is niet alles volledig te begrijpen zonder een machine learning achtergrond. Om je daar doorheen te loodsen volgt hieronder een leeswijzer.
+Dit is de leeswijzer voor *Hoofdstuk 1* van [Recommender Systems: The Textbook](https://link.springer.com/book/10.1007/978-3-319-29659-3) van *Charu C. Aggarwal*. Hiervan is niet alles volledig te begrijpen zonder een machine learning achtergrond. Om je daar doorheen te loodsen volgt hieronder een leeswijzer.
 
 * 1.1: Alles lezen.
 * 1.2: Alles lezen.
