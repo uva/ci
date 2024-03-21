@@ -1,6 +1,6 @@
 # Aggarwal hoofdstuk 1 leesijzer en vragen.
 
-Lees hoofdstuk 1 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal* (zie: [leesmateriaal](/reading)). Beantwoord de onderstaande vragen **aan de hand van dit hoofdstuk**.
+Lees hoofdstuk 1 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal*. Beantwoord de onderstaande vragen **aan de hand van dit hoofdstuk**.
 
 **Je kan al aan de opdracht beginnen voor je dit hoofdstuk hebt gelezen.**
 
@@ -32,15 +32,15 @@ Dit is de leeswijzer voor *Hoofdstuk 1* van *Recommender Systems: The Textbook* 
 
 ### Vragen
 
-Beantwoord de onderstaande vragen in een text-document aggarwal1.txt. Beantwoord elke vraag met hooguit 3 á 4 zinnen (vaak kan het korter). Geef bij elk antwoord aan waar (op welke pagina) je de informatie hebt gevonden.
+Beantwoord de onderstaande vragen in een text-document `aggarwal1.txt`. Beantwoord elke vraag met hooguit 3 á 4 zinnen (vaak kan het korter). Geef bij elk antwoord aan waar (op welke pagina) je de informatie hebt gevonden.
 
 #### Vraag 1:
 
-What is het primaire doel van recommender systems volgens het boek?**
+What is het primaire doel van recommender systems volgens het boek?
 
 #### Vraag 2:
 
-What zijn hybride recommender systems, en wat is het voordeel van deze systemen?**
+What zijn hybride recommender systems, en wat is het voordeel van deze systemen?
 
 #### Vraag 3:
 
