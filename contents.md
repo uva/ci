@@ -38,7 +38,7 @@ Na elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over
 
 ### Boek
 
-Je moet gedurende dit van 3 hoofdstukken uit het [boek](#literatuur) lezen (hoofdstuk 1,2 en 7). Over elk hoofdstuk krijg je vragen die je moet beantwoorden.
+Je moet gedurende dit vak delen uit het [boek](#literatuur) lezen (delen van hoofdstuk 1,2 en 7). Gedurende het vak krijg je over elk hoofdstuk vragen die je moet beantwoorden.
 
 ### Tentamen
 
@@ -46,7 +46,7 @@ Het tentamen is een schriftelijk tentamen en bestaat uit voornamelijk open vrage
 
 - de begrippen uit de modules van weken 1 t/m 7
 - de inhoud van alle (gast)colleges en video's
-- het externe leesmateriaal dat is gelinkt op de website
+- de fragmenten uit het boek
 
 Per onderwerp/vraag kan je inzicht op volgende niveau's laten zien:
 
@@ -84,9 +84,9 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | Weken  | Activiteit    | Deadline            |
 | ------ | ------------- | ------------------- |
 | Week 2 | Module 1      | vr 12 apr, 18:00    |
-|        | Vragen hoofdstuk 1   | vr 12 apr, 18:00    |
-| Week 3 | Module 2      | vr 22 apr, 18:00    |
-|        | Vragen hoofdstuk 7   | vr 22 apr, 18:00    |
+|        | Vragen hoofdstuk 1 en 2 | vr 12 apr, 18:00    |
+| Week 3 | Module 2      | ma 22 apr, 18:00    |
+|        | Vragen hoofdstuk 7   | ma 22 apr, 18:00    |
 | Week 4 | Module 3      | wo 8 mei, 18:00     |
 | Week 5 | Module 4      | wo 15 mei, 18:00    |
 | Week 6 | Module 5      | wo 22 mei, 18:00    |
@@ -122,15 +122,9 @@ Als je merkt dat je zodanig aan het overleggen bent dat je dezelfde code krijgt 
 
 Kom je in tijdnood? Laat je niet verleiden tot het plegen van plagiaat. Je kunt de opdracht binnen zes dagen alsnog inleveren. We willen het graag zo oplossen dat jij het vak zelfstandig kunt halen. Vraag je docent om hulp als je er niet meer uitkomt!
 
-## Plagiaatregeling
+### Plagiaatregeling
 
 Fraude volgens de UvA: *"Het handelen of nalaten van een student waardoor een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt."*
-
-We gebruiken bij de beoordeling van de opdrachten plagiaatdetectie. Als blijkt dat je opgave geheel of gedeeltelijk overeenkomt met een andere inzending of een uitwerking van internet, dan zijn er twee mogelijkheden.
-
-* Er is een bronvermelding: in dat geval voldoe je niet aan de eis van het zelfstandig maken van de opgaven en wordt je inzending afgekeurd. Omdat dit meestal na de deadline is betekent dat doorgaans dat je het vak dit jaar niet kunt afronden.
-
-* Er is geen bronvermelding: in dat geval rapporteren we aan de examencommissie welke inzendingen overeenkomen, waarna de commissie beslist over te nemen maatregelen.
 
 In eerdere jaren is één student uitgesloten van deelname na het kopiëren van een practicumopdracht. Andere studenten hebben een waarschuwing gekregen.
 
