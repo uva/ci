@@ -5,7 +5,7 @@ Voorbereidingen:
 "Module 1: Collaborative filtering":
     Wat ga je doen?: /m1-collaborative-filtering
     # Wat zijn recommender systems? [video]: /lectures/introductie
-    Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
+    # Wat is collaborative filtering? [video]: /lectures/collaborative-filtering-1
     # Hoe implementeer je collaborative filtering? [video]: /lectures/collaborative-filtering-2
     Implementeer collaborative filtering [opdracht]: /m1-collaborative-filtering/assignment
     Lees over recommender systems [opdracht]: /reading/aggarwal-c1

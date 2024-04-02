@@ -7,6 +7,8 @@ Lees (delen van) hoofdstuk 1 en 2 van *Recommender Systems: The Textbook* van *C
 ### Leeswijzer
 Dit is de leeswijzer voor *Hoofdstuk 1 en 2* van [Recommender Systems: The Textbook](https://link.springer.com/book/10.1007/978-3-319-29659-3) van *Charu C. Aggarwal*. Hiervan is niet alles volledig te begrijpen zonder een machine learning achtergrond. Om je daar doorheen te loodsen volgt hieronder een leeswijzer.
 
+Hoofdstuk 1
+
 * 1.1 (p. 1-2): lezen
 * 1.2 (p. 3-8): lezen
 * 1.3 (p. 8):
@@ -28,6 +30,8 @@ Dit is de leeswijzer voor *Hoofdstuk 1 en 2* van [Recommender Systems: The Textb
 * 1.5 (p. 22-26): lezen
 * 1.6 (p. 26): lezen
 * 1.7: overslaan
+
+Hoofdstuk 2
 
 * 2.1 (p. 29-31): lezen
 * 2.2 (p. 31-33): lezen
