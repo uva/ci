@@ -49,7 +49,7 @@ In dat geval kan je de _environment_ ook handmatig installeren:
 
 1. Download ci-environment: [download](https://github.com/uvapl/ci/raw/2023/install/download/ci-environment.yml) (Alt + click).
 
-2. Verplaats dit bestand in Verkenner (Windows) of Finder (MacOS) naar `CI-opdrachten`-directory die je eerder hebt aangemaakt.
+2. Verplaats dit bestand in Verkenner (Windows) of Finder (MacOS) naar de `CI-opdrachten`-directory die je eerder hebt aangemaakt.
 
 3. Typ het volgende commando in de terminal:
 
