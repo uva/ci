@@ -39,6 +39,22 @@ In de terminal, navigeer naar een directory waar je je opdrachten gaat maken.
         conda env create -f ci-environment.yml
         rm ci-environment.yml
 
+### Alternatieve oplossing
+
+Soms lijkt `wget` het _environment_-bestand niet goed te downloaden. Je krijgt dan een foutmelding die hier op lijkt:
+
+    EnvironmentFileNotFound: '...\ci-environment.yml' file not found
+
+In dat geval kan je de _environment_ ook handmatig installeren:
+
+1. Download ci-environment: [download](https://github.com/uvapl/ci/raw/2023/install/download/ci-environment.yml) (Alt + click).
+
+2. Verplaats dit bestand in Verkenner (Windows) of Finder (MacOS) naar `CI-opdrachten`-directory die je eerder hebt aangemaakt.
+
+3. Typ het volgende commando in de terminal:
+
+    conda env create -f ci-environment.yml
+
 ## Stap 4: Start Jupyter Notebook
 
 De volgende twee commando's moet je altijd (**in deze volgorde**) intypen als je aan de CI opdrachten wilt gaan werken:
