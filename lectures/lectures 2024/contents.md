@@ -2,8 +2,8 @@
 
 Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
 
-| Date      | Time         | Instructor      | Topic                               | Materials |
-|-----------|--------------|-----------------|-------------------------------------|------|
+| Datum     | Tijd    | Docent          | Onderwerp                           | Materiaal |
+|-----------|---------|-----------------|-------------------------------------|------|
 | di 2  apr | 17 - 17 | Simon Pauw      | Intro                               | [slides](CI - College 1 - Intro.pdf)      |
 | do 4  apr | 15 - 17 | Simon Pauw      | KNN                                 | [slides](CI - College 2 - KNN.pdf)      |
 | ma 8  apr | 15 - 17 | x               |                                     |      |
