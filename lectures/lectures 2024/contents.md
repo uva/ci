@@ -2,18 +2,18 @@
 
 Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
 
-| Date      | Time         | Instructor      | Topic                               |      |
+| Date      | Time         | Instructor      | Topic                               | Materials |
 |-----------|--------------|-----------------|-------------------------------------|------|
-| di apr 2  | 17:00 - 19:00| Simon Pauw      | Intro                               | [slides](CI - College 1 - Intro.pdf)      |
-| do apr 4  | 15:00 - 17:00| Simon Pauw      | KNN                                 | [slides](CI - College 2 - KNN.pdf)      |
-| ma apr 8  | 15:00 - 17:00| x               |                                     |      |
-| do apr 11 | 15:00 - 17:00| x               |                                     |      |
-| ma apr 15 | 15:00 - 17:00| Simon Pauw      | Evaluatie                           |      |
-| do apr 18 | 15:00 - 17:00| x               |                                     |      |
-| ma apr 22 | 15:00 - 17:00| Dina Strikovic  | Recommender systems in the newsroom |      |
-| do apr 25 | 15:00 - 17:00| Simon Pauw      | Vectoren + Matrices                 |      |
-| ma mei 6  | 15:00 - 17:00| Brammert Ottens | Search at Spotify                   |      |
-| ma mei 13 | 15:00 - 17:00| Simon Pauw      | Matrix factorization                |      |
-| do mei 16 | 15:00 - 17:00| x               |                                     |      |
-| do mei 23 | 15:00 - 17:00| x               |                                     |      |
-| ma mei 27 | 15:00 - 17:00| x               |                                     |      |
+| di 2  apr | 17 - 17 | Simon Pauw      | Intro                               | [slides](CI - College 1 - Intro.pdf)      |
+| do 4  apr | 15 - 17 | Simon Pauw      | KNN                                 | [slides](CI - College 2 - KNN.pdf)      |
+| ma 8  apr | 15 - 17 | x               |                                     |      |
+| do 11 apr | 15 - 17 | x               |                                     |      |
+| ma 15 apr | 15 - 17 | Simon Pauw      | Evaluatie                           |      |
+| do 18 apr | 15 - 17 | x               |                                     |      |
+| ma 22 apr | 15 - 17 | Dina Strikovic  | Recommenders in the newsroom        |      |
+| do 25 apr | 15 - 17 | Simon Pauw      | Vectoren + Matrices                 |      |
+| ma 6  mei | 15 - 17 | Brammert Ottens | Search at Spotify                   |      |
+| ma 13 mei | 15 - 17 | Simon Pauw      | Matrix factorization                |      |
+| do 16 mei | 15 - 17 | x               |                                     |      |
+| do 23 mei | 15 - 17 | x               |                                     |      |
+| ma 27 mei | 15 - 17 | x               |                                     |      |
