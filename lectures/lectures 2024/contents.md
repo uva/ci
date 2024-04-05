@@ -5,7 +5,7 @@ Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijn
 | Datum     | Tijd    | Docent          | Onderwerp                           | Materiaal |
 |-----------|---------|-----------------|-------------------------------------|------|
 | di 2  apr | 17 - 17 | Simon Pauw      | Intro                               | [slides](CI - College 1 - Intro.pdf)      |
-| do 4  apr | 15 - 17 | Simon Pauw      | KNN                                 | [slides](CI - College 2 - KNN.pdf)<br>[video 1](/lectures/Collaborative-Filtering-1)<br>[video 2](/lectures/Collaborative-Filtering-2)     |
+| do 4  apr | 15 - 17 | Simon Pauw      | KNN                                 | [slides](CI - College 2 - KNN.pdf)<br>[video 1](/lectures/collaborative-filtering-1)<br>[video 2](/lectures/collaborative-filtering-2)     |
 | ma 8  apr | 15 - 17 | x               |                                     |      |
 | do 11 apr | 15 - 17 | x               |                                     |      |
 | ma 15 apr | 15 - 17 | Simon Pauw      | Evaluatie                           |      |
