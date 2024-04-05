@@ -22,9 +22,7 @@ We verwachten dat je flink geoefend hebt met programmeren in Python, Pandas en J
 
 Voor dit vak hebben we verschillende type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
 
-Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijnlijk nog verandering in komen.**):
-
-...
+Voor de geplande colleges, zie: [hoorcolleges](/lectures/lectures-2024)
 
 ## Beoordeling
 
