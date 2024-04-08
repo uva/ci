@@ -2,7 +2,7 @@
 
 ## Download
 
-Download hier de opdracht (ongeveer 180 MB): [module3.zip]()
+Download hier de opdracht (ongeveer 190 MB): [module3.zip](https://surfdrive.surf.nl/files/index.php/s/5DuApvd1KjxAsl0)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
