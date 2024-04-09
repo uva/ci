@@ -2,7 +2,7 @@
 
 ## Download
 
-Download hier de jupyter notebook: [module2.zip](module2.zip)
+Download hier de jupyter notebook: [module_2.zip](module_2.zip)
 
 Unzip de module in de directory die je tijdens de installatie hebt gekozen voor de opdrachten van dit vak. Ga naar de Anaconda Prompt (Windows) of Terminal (MacOS of Linux). Start de Notebook (als je dat niet al gedaan had):
 
