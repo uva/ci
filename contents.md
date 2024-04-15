@@ -83,8 +83,8 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 | ------ | ------------- | ------------------- |
 | Week 2 | Module 1      | vr 12 apr, 18:00    |
 |        | Vragen hoofdstuk 1 en 2 | vr 12 apr, 18:00    |
-| Week 3 | Module 2      | ma 22 apr, 18:00    |
-|        | Vragen hoofdstuk 7   | ma 22 apr, 18:00    |
+| Week 3 | Module 2      | wo 24 apr, 18:00    |
+|        | Vragen hoofdstuk 7   | wo 24 apr, 18:00    |
 | Week 4 | Module 3      | wo 8 mei, 18:00     |
 | Week 5 | Module 4      | wo 15 mei, 18:00    |
 | Week 6 | Module 5      | wo 22 mei, 18:00    |
