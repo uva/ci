@@ -30,3 +30,11 @@ In het hoofdstuk wordt de term **overfitting** gebruikt. Hiermee wordt bedoeld d
 ### Vragen
 
 Beantwoord de onderstaande vragen in een text-document `aggarwal7.txt`. Beantwoord elke vraag met hooguit 3 á 4 zinnen (vaak kan het korter). Geef bij elk antwoord aan waar (op welke pagina) je de informatie hebt gevonden.
+
+#### Vraag 1
+
+Wat zijn de drie primaire soorten evaluatieparadigma's? Leg elk uit in twee zinnen en geef een voordeel en een nadeel van elk.
+
+#### Vraag 2
+
+Waarom denk je dat we ons alleen op offline evaluatie concentreren voor deze cursus? Beargumenteer in 3 of 4 zinnen.
