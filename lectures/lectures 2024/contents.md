@@ -11,9 +11,9 @@ Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijn
 | ma 15 apr | 15 - 17 | Simon Pauw      | Evaluatie                           |      |
 | do 18 apr | 15 - 17 | x               |                                     |      |
 | ma 22 apr | 15 - 17 | Dina Strikovic  | Recommenders in the newsroom        |      |
-| do 25 apr | 15 - 17 | Simon Pauw      | Vectoren + Matrices                 |      |
+| do 25 apr | 15 - 17 | Simon Pauw      | Vectoren                            |      |
 | ma 6  mei | 15 - 17 | Brammert Ottens | Search at Spotify                   |      |
-| ma 13 mei | 15 - 17 | Simon Pauw      | Matrix factorization                |      |
-| do 16 mei | 15 - 17 | x               |                                     |      |
+| ma 13 mei | 15 - 17 | Simon Pauw      | Matrices                            |      |
+| do 16 mei | 15 - 17 | Simon Pauw      | Factorization                       |      |
 | do 23 mei | 15 - 17 | x               |                                     |      |
 | ma 27 mei | 15 - 17 | x               |                                     |      |
