@@ -14,7 +14,7 @@ De tentamenstof bevat:
     - de gebruikte similarity- en evaluatiematen
     - de open vragen
 - de hoorcolleges:
-    - De reguliere colleges van Simon Pauw en Masoud Mansoury
+    - De reguliere hoorcolleges
     - De gastcolleges
 - het leesmateriaal:
     - hoofdstuk 1 van Aggarwal: [link](/reading/guide-aggarwal-c1)
@@ -22,11 +22,13 @@ De tentamenstof bevat:
 
 ### Oefententamen
 
-> Het oefententamen is het tentamen van de 2022-variant van dit vak. De vragen over de gastcolleges gaan over de gastcolleges van dat jaar. Die zijn dit jaar niet relevant. Het geeft je wel een indruk van het type vragen dat je kan verwachten.
+> Het oefententamen is gebaseerd op het tentamen van 2023.
+
+> Er zitten in het oefententamen geen vragen over de gastcolleges, maar die kan je wel op het echte tentamen verwachten.
 
 > Je kan dit jaar op het tentamen meer technische vragen verwachten. Vanwege ChatGPT wil ik uitgebreider testen of de technische concepten uit de modules goed begrepen zijn.
 
-Tentamen CI 2022: [Tentamen CI 1 2022.pdf](Tentamen CI 1 2022.pdf)
+Oefententamen: [CI-oefententamen.pdf](CI-oefententamen.pdf)
 
 ### Beoordeling
 
