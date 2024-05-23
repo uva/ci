@@ -10,10 +10,10 @@ Vooralsnog staan de volgende hoorcolleges gepland (**Let op! Hier zal waarschijn
 | do 11 apr | 15 - 17 | x               |                                     |      |
 | ma 15 apr | 15 - 17 | Simon Pauw      | Evaluatie                           | [slides](CI - College 3 - Evaluatie.pdf)     |
 | do 18 apr | 15 - 17 | x               |                                     |      |
-| ma 22 apr | 15 - 17 | Dina Strikovic  | Recommenders in the newsroom        |      |
+| ma 22 apr | 15 - 17 | Dina Strikovic  | Recommenders in the newsroom        | [slides](CI - Guest Lecture 1 - Dina Strikovic.pdf)     |
 | do 25 apr | 15 - 17 | Simon Pauw      | Vectoren                            | [slides](CI - College 4 - Vectoren.pdf)     |
-| ma 6  mei | 15 - 17 | Brammert Ottens | _Search_ bij Spotify                   |      |
+| ma 6  mei | 15 - 17 | Brammert Ottens | _Search_ bij Spotify                   | [video](https://video.uva.nl/media/Brammert+Ottens+-+Spotify/0_e3yyzt0d)      |
 | ma 13 mei | 15 - 17 | Simon Pauw      | Matrices                            | [slides](CI - College 5 - Matrices.pdf)     |
-| do 16 mei | 15 - 17 | Simon Pauw      | Matrixfactorisatie                    |      |
+| do 16 mei | 15 - 17 | Simon Pauw      | Matrixfactorisatie                    | [slides](CI - College 6 - Factorisatie.pdf)     |
 | do 23 mei | 15 - 17 | x               |                                     |      |
 | ma 27 mei | 15 - 17 | x               |                                     |      |
