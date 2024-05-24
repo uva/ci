@@ -8,7 +8,7 @@ Het tentamen is een schriftelijk (pen en papier) tentamen en bestaat uit voornam
 
 De tentamenstof bevat:
 
-- de begrippen uit de modules 1 t/m 6, bestaande uit:
+- de begrippen uit de modules 1 t/m 5, bestaande uit:
     - de conceptuele uitleg
     - de behandelde algoritmes
     - de gebruikte similarity- en evaluatiematen
@@ -17,7 +17,7 @@ De tentamenstof bevat:
     - De reguliere hoorcolleges
     - De gastcolleges
 - het leesmateriaal:
-    - hoofdstuk 1 van Aggarwal: [link](/reading/guide-aggarwal-c1)
+    - hoofdstuk 1 en 2 van Aggarwal: [link](/reading/guide-aggarwal-c1)
     - hoofdstuk 7 van Aggarwal: [link](/reading/guide-aggarwal-c7)
 
 ### Oefententamen
