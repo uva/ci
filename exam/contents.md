@@ -17,7 +17,7 @@ De tentamenstof bevat:
     - De reguliere hoorcolleges
     - De gastcolleges
 - het leesmateriaal:
-    - hoofdstuk 1 en 2 van Aggarwal: [link](/reading/guide-aggarwal-c1)
+    - hoofdstuk 1 en 2 van Aggarwal: [link](/reading/aggarwal-c1)
     - hoofdstuk 7 van Aggarwal: [link](/reading/guide-aggarwal-c7)
 
 ### Oefententamen
